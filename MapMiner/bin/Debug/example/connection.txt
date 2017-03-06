@@ -1,0 +1,5 @@
+red,blue,0.1
+red,green,0.5
+blue,green,1.0
+green,red,0.7
+green,blue,0.3

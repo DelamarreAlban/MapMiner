@@ -1,0 +1,49 @@
+California,100,0,0
+Oregon,200,0,0
+Washington,255,0,0
+Montana,255,50,0
+Idaho,255,100,0
+North Dakota,255,150,0
+Nevada,255,200,0
+Arizona,255,255,0
+Utah,200,255,0
+South Dakota,150,255,0
+Wyoming,100,255,0
+Minnesota,50,255,0
+Colorado,0,255,0
+New Mexico,50,200,0
+Texas,0,255,100
+Oklahoma,0,255,150
+Kansas,0,255,200
+Nebraska,0,255,255
+Iowa,0,200,255
+Missouri,0,150,255
+Arkansas,0,100,255
+Louisiana,0,50,255
+Mississippi,0,0,255
+Tennesse,50,0,255
+Kentucky,100,0,255
+Illinois,150,0,255
+Wisconsin,200,0,255
+Michigan,255,0,255
+Indiana,255,0,200
+Ohio,255,0,150
+Pennsylvania,255,0,100
+New York,255,0,50
+Maine,50,0,50
+New Hampshire,100,0,50
+Vermont,150,0,50
+Massachusetts,200,0,50
+Connecticut,200,0,100
+Rhode Island,200,0,150
+New Jersey,200,0,200
+Delaware,0,0,200
+Maryland,0,50,200
+West Virginia,0,100,200
+Virginia,0,150,200
+North Carolina,0,200,200
+South Carolina,0,200,150
+Georgia,0,200,100
+Alabama,0,200,50
+Florida,0,200,0
+

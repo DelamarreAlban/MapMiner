@@ -1,0 +1,9 @@
+c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\bin\Debug\MapMiner.exe.config
+c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\bin\Debug\MapMiner.exe
+c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\bin\Debug\MapMiner.pdb
+c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\obj\Debug\MapMiner.csprojResolveAssemblyReference.cache
+c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\obj\Debug\MapMiner.MapMiner.resources
+c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\obj\Debug\MapMiner.Properties.Resources.resources
+c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\obj\Debug\MapMiner.csproj.GenerateResource.Cache
+c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\obj\Debug\MapMiner.exe
+c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\obj\Debug\MapMiner.pdb

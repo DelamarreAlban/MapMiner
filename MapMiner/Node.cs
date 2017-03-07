@@ -63,32 +63,58 @@ namespace MapMiner
             }
         }
 
+        public List<string> Attributes
+        {
+            get
+            {
+                return attributes;
+            }
+
+            set
+            {
+                attributes = value;
+            }
+        }
+
+        public List<double> Values
+        {
+            get
+            {
+                return values;
+            }
+
+            set
+            {
+                values = value;
+            }
+        }
+
         public double getValue(string attribute)
         {
-            int index = attributes.IndexOf(attribute);
+            int index = Attributes.IndexOf(attribute);
             return getValueByIndex(index);
         }
 
         public double getValueByIndex(int index)
         {
-            return values[index];
+            return Values[index];
         }
 
         public void setValue(string attribute, double value)
         {
-            if(attributes.Contains(attribute))
+            if(Attributes.Contains(attribute))
             {
-                int index = attributes.IndexOf(attribute);
-                values[index] = value;
+                int index = Attributes.IndexOf(attribute);
+                Values[index] = value;
             }
         }
 
         public void addAttribute(string attribute, double value)
         {
-            if (!attributes.Contains(attribute))
+            if (!Attributes.Contains(attribute))
             {
-                attributes.Add(attribute);
-                values.Add(value);
+                Attributes.Add(attribute);
+                Values.Add(value);
             }
             else
             {

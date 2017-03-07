@@ -7,3 +7,4 @@ c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\obj\Debug
 c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\obj\Debug\MapMiner.csproj.GenerateResource.Cache
 c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\obj\Debug\MapMiner.exe
 c:\users\alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\obj\Debug\MapMiner.pdb
+C:\Users\Alban\documents\visual studio 2015\Projects\MapMiner\MapMiner\obj\Debug\MapMiner.VizualisationFeatureSelector.resources

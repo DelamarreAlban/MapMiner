@@ -21,7 +21,7 @@ Missouri,0,150,255
 Arkansas,0,100,255
 Louisiana,0,50,255
 Mississippi,0,0,255
-Tennesse,50,0,255
+Tennessee,50,0,255
 Kentucky,100,0,255
 Illinois,150,0,255
 Wisconsin,200,0,255

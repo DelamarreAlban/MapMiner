@@ -14,27 +14,37 @@ namespace MapMiner
 {
     public partial class MapMiner : Form
     {
+        public Dataset dataset;
 
-        public List<Node> nodes = new List<Node>();
-        public List<Edge> edges = new List<Edge>();
-
+        public Image map_reset;
         public Image colorMap;
         public Dictionary<string, Color> colorMapping = new Dictionary<string, Color>();
+
+        public Node selectedNode;
+        public Color selectedColor = Color.SkyBlue;
+
 
         public MapMiner()
         {
             InitializeComponent();
 
             string path = Directory.GetCurrentDirectory();
-            loadMap(path + @"\example\us");
+            loadMap("MAP US",path + @"\example\us");
             //loadConnection(path + @"\example\connection");
+
+            tableLayoutPanel1.RowStyles.Clear();
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.AutoSize));
         }
 
-        public void loadMap(string path)
+        #region Load
+
+        public void loadMap(string name, string path)
         {
+            map_reset = Image.FromFile(path + ".png");
             map.Image = Image.FromFile(path + ".png");
             colorMap = Image.FromFile(path + "_colormap.png");
-            
+
+            List<Node> newNodes = new List<Node>();
             string[] lines = System.IO.File.ReadAllLines(path + ".txt");
             foreach (string line in lines)
             {
@@ -48,9 +58,14 @@ namespace MapMiner
                     newNode.Name = word[0];
                     newNode.MapColor = Color.FromArgb(Int32.Parse(word[1]), Int32.Parse(word[2]), Int32.Parse(word[3]));
 
-                    nodes.Add(newNode);
+                    newNodes.Add(newNode);
                 }
             }
+            foreach (Node n in newNodes)
+                nodeComboBox.Items.Add(n.Name);
+
+            this.Text = this.Text + " - " + name;
+            dataset = new Dataset(name, newNodes);
         }
 
         public bool loadConnection(string path)
@@ -61,7 +76,7 @@ namespace MapMiner
                 string[] word = line.Split(',');
 
                 Edge newEdge = new Edge();
-                foreach(Node n in nodes)
+                foreach(Node n in dataset.Nodes)
                 {
                     if (n.Name == word[0])
                         newEdge.Source = n;
@@ -82,39 +97,86 @@ namespace MapMiner
                     }
                 }
 
-                edges.Add(newEdge);
+                dataset.Edges.Add(newEdge);
                 
             }
             return true;
         }
 
+
+        public void select(string name)
+        {
+            map.Image = (Image)((Bitmap)map_reset).Clone();
+            Console.WriteLine("Selected : " + name);
+            paintNode(name, selectedColor);
+            selectedNode = dataset.Nodes.Find(x => x.Name == name);
+            nodeComboBox.SelectedItem = selectedNode.Name;
+            updateSelectedGridView(selectedNode);
+            Invalidate();
+            map.Refresh();
+        }
+
+        #endregion
+
+        #region display/Update
+
+        public void updateSelectedGridView(Node n)
+        {
+            selectedStateGridView.Columns.Clear();
+            selectedStateGridView.ColumnCount = 2;
+            selectedStateGridView.RowCount = n.Attributes.Count+1;
+            selectedStateGridView.Columns[0].HeaderText = "Attribute";
+            selectedStateGridView.Columns[1].HeaderText = "Value";
+            for (int i = 0; i < n.Attributes.Count; i++)
+            {
+                selectedStateGridView[0, i].Value = n.Attributes[i];
+                selectedStateGridView[1, i].Value = n.Values[i];
+            }
+        }
+
+        #endregion
+
+        #region Click
         private void map_Click(object sender, EventArgs e)
         {
             MouseEventArgs me = (MouseEventArgs)e;
             Point clickLocation = me.Location;
 
-            Console.WriteLine((Convert.ToDouble(colorMap.Width) / Convert.ToDouble(map.Width)));
+            //Find corresponding pixel
             double ratioWidth = (Convert.ToDouble(colorMap.Width) / Convert.ToDouble(map.Width));
             double ratioHeight = (Convert.ToDouble(colorMap.Height) / Convert.ToDouble(map.Height));
             ratioWidth *= Convert.ToDouble(clickLocation.X);
             ratioHeight *= Convert.ToDouble(clickLocation.Y);
-
             Point imagePosition = new Point((int)ratioWidth, (int)ratioHeight);
             Color pixelColor = ((Bitmap)colorMap).GetPixel(imagePosition.X, imagePosition.Y);
-            
             string stateName = colorMapping.FirstOrDefault(x => x.Value == pixelColor).Key;
-            stateNameLabel.Text = colorMapping.FirstOrDefault(x => x.Value == pixelColor).Key;
+
             if (stateName != null)
             {
-                Console.WriteLine(colorMapping.FirstOrDefault(x => x.Value == pixelColor).Key);
-                paintState(colorMapping.FirstOrDefault(x => x.Value == pixelColor).Key, pixelColor);
+                select(stateName);
+            }
+            else
+            {
+                map.Image = (Image)((Bitmap)map_reset).Clone();
             }
 
-            Invalidate();
-            map.Refresh();
+            
         }
 
-        private void paintState(string stateName, Color newColor)
+        #endregion
+
+        #region paint
+
+        private void resetColor(Color color)
+        {
+            foreach(Node n in dataset.Nodes)
+            {
+                paintNode(n.Name, color);
+            }
+        }
+
+
+        private void paintNode(string stateName, Color newColor)
         {
             Bitmap bmp = (Bitmap)map.Image;
             Bitmap bmp_map = (Bitmap)colorMap;
@@ -168,6 +230,62 @@ namespace MapMiner
             map.Image = bmp;
         }
 
+        #endregion
 
+        private void stateComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            select((string)nodeComboBox.SelectedItem);
+        }
+
+        private void addDatasetToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialog1 = new OpenFileDialog();
+            openFileDialog1.Title = "Browse csv Files";
+            openFileDialog1.DefaultExt = "csv";
+            openFileDialog1.Filter = "csv files (*.csv)|*.csv";
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                string sourceFile = openFileDialog1.FileName;
+                string directoryPath = Path.GetDirectoryName(sourceFile);
+                Console.WriteLine(sourceFile);
+                dataset.fillFromCSV(sourceFile, true, ',');
+            }
+        }
+
+        private void testToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            using (VizualisationFeatureSelector VFS = new VizualisationFeatureSelector(dataset.Attributes))
+            {
+                if (VFS.ShowDialog() == DialogResult.OK)
+                {
+                    Dictionary<string, double> POPULATION_2010 = dataset.getAllByAttribute(VFS.selectedFeature);
+                    List<string> states = new List<string>();
+                    List<double> values = new List<double>();
+                    foreach (KeyValuePair<string, double> kvp in POPULATION_2010)
+                    {
+                        states.Add(kvp.Key);
+                        values.Add(kvp.Value);
+                    }
+
+                    double max = values.Max();
+                    double min = values.Min();
+
+                    List<double> percentage = new List<double>();
+                    for (int i = 0; i < values.Count; i++)
+                    {
+                        double p = (values[i] - min) / (max - min);
+                        paintNode(states[i], GetColor((int)(p * 100)));
+                        percentage.Add((values[i] - min) / (max - min));
+                    }
+                }
+            }      
+            
+        }
+
+        Color GetColor(int scale)
+        {
+            // scale is between 1 and 255
+            return Color.FromArgb(scale*2, 150 - scale, 0);
+        }
     }
 }

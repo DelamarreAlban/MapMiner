@@ -18,7 +18,7 @@ namespace MapMiner
         private string description;
 
         private List<string> attributes = new List<string>();
-        private List<double> values = new List<double>(); 
+        private List<object> values = new List<object>(); 
 
         public Color Color
         {
@@ -76,7 +76,7 @@ namespace MapMiner
             }
         }
 
-        public List<double> Values
+        public List<object> Values
         {
             get
             {
@@ -89,16 +89,43 @@ namespace MapMiner
             }
         }
 
-        public double getValue(string attribute)
+        public int MaxSize
         {
-            int index = Attributes.IndexOf(attribute);
-            return getValueByIndex(index);
+            get
+            {
+                int max = 1;
+                foreach(Object o in Values)
+                {
+                    if (o.GetType() == typeof(List<double>))
+                        if (((List<double>)o).Count > max)
+                            max = ((List<double>)o).Count;
+                }
+                return max;
+            }
         }
 
-        public double getValueByIndex(int index)
+        public double getDoubleValue(string attribute)
         {
-            return Values[index];
+            int index = Attributes.IndexOf(attribute);
+            return getDoubleValueByIndex(index);
         }
+
+        public double getDoubleValueByIndex(int index)
+        {
+            return (double)Values[index];
+        }
+
+        public List<double> getListDoubleValue(string attribute)
+        {
+            int index = Attributes.IndexOf(attribute);
+            return getListDoubleValueByIndex(index);
+        }
+
+        public List<double> getListDoubleValueByIndex(int index)
+        {
+            return (List<double>)Values[index];
+        }
+
 
         public void setValue(string attribute, double value)
         {
@@ -109,7 +136,7 @@ namespace MapMiner
             }
         }
 
-        public void addAttribute(string attribute, double value)
+        public void addAttribute(string attribute, object value)
         {
             if (!Attributes.Contains(attribute))
             {
@@ -118,8 +145,35 @@ namespace MapMiner
             }
             else
             {
-                MessageBox.Show("Attributes already exist!");
+                Console.WriteLine("Attributes already exist!");
+                //MessageBox.Show("Attributes already exist!");
             }
+        }
+
+        public List<List<double>> getAllValues()
+        {
+            // !!!!!!!!!!!!!!!!!!!!!   WARNING   !!!!!!!!!!!!!!!!!!!!!!!!!
+            // if size of list attributes different => PROBLEM
+            //
+
+            Console.WriteLine(Name);
+            List<List<double>> allInstances = new List<List<double>>();
+            for(int i=0;i < MaxSize; i++)
+            {
+                allInstances.Add(new List<double>());
+                for (int j = 0; j < Values.Count; j++)
+                {
+                    if (Values[j].GetType() == typeof(List<double>))
+                    {
+                        allInstances[i].Add(getListDoubleValueByIndex(j)[i]);
+                    }
+                    else {
+                        allInstances[i].Add(getDoubleValueByIndex(j));
+                    }
+                }
+            }
+            
+                    return allInstances;
         }
     }
 }

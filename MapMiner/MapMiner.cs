@@ -4,9 +4,11 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Drawing.Imaging;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -23,13 +25,14 @@ namespace MapMiner
         public Node selectedNode;
         public Color selectedColor = Color.SkyBlue;
 
+        string path;
 
         public MapMiner()
         {
             InitializeComponent();
 
-            string path = Directory.GetCurrentDirectory();
-            loadMap("MAP US",path + @"\example\us");
+            path = Directory.GetCurrentDirectory() + @"\example\us";
+            loadMap("MAP US",path);
             //loadConnection(path + @"\example\connection");
 
             tableLayoutPanel1.RowStyles.Clear();
@@ -286,6 +289,43 @@ namespace MapMiner
         {
             // scale is between 1 and 255
             return Color.FromArgb(scale*2, 150 - scale, 0);
+        }
+
+        private void generateDatasetbutton_Click(object sender, EventArgs e)
+        {
+            write_csvFile(Directory.GetCurrentDirectory(), "US_feature");
+        }
+
+        public void write_csvFile(string directoryPath, string name)
+        {
+            //string[] lines = { "First line", "Second line", "Third line" };
+            // WriteAllLines creates a file, writes a collection of strings to the file,
+            // and then closes the file.  You do NOT need to call Flush() or Close().
+            //System.IO.File.WriteAllLines(@"C:\Users\Public\TestFolder\WriteLines.txt", lines);
+            List<string> datasetTocsv = new List<string>();
+            string lineLabels = dataset.Attributes[0];
+            for (int j = 1; j < dataset.Attributes.Count; j++)
+                lineLabels += ',' + dataset.Attributes[j];
+            datasetTocsv.Add(lineLabels);
+            for (int i = 0; i < dataset.Size; i++)
+            {
+                Node n = dataset.Nodes[i];
+                
+                List<List<double>> attributeLists = n.getAllValues();
+                for (int j = 0; j < attributeLists.Count; j++)
+                {
+                    string line = n.Name;
+                    for (int k = 0; k < attributeLists[j].Count; k++)
+                        line += ',' + attributeLists[j][k].ToString(CultureInfo.GetCultureInfo("en-US"));
+                    datasetTocsv.Add(line);
+                }
+                    
+                
+            }
+            string[] readyToWrite = datasetTocsv.ToArray();
+
+            System.IO.File.WriteAllLines(directoryPath + @"\" + name + ".csv", readyToWrite);
+            Console.WriteLine("Writting file at " + directoryPath + @"\" + name + ".csv");
         }
     }
 }

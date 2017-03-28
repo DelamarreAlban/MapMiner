@@ -1,0 +1,83 @@
+State,Year,Month,ActivityLevel,Temp,Precipitation,PMDI
+California,2009,8,1,0,0,0
+Oregon,2009,7,1,0,0,0
+Oregon,2009,8,1,0,0,0
+Washington,2009,7,1,0,0,0
+Washington,2009,8,1,0,0,0
+Montana,2009,7,1,0,0,0
+Montana,2009,8,1,0,0,0
+Idaho,2009,8,1,0,0,0
+North Dakota,2009,7,1,0,0,0
+North Dakota,2009,8,1,0,0,0
+Nevada,2009,7,1,0,0,0
+Nevada,2009,8,1,0,0,0
+Arizona,2009,8,1,0,0,0
+Utah,2009,7,9,0,0,0
+Utah,2009,8,1,0,0,0
+South Dakota,2009,7,1,0,0,0
+South Dakota,2009,8,1,0,0,0
+Wyoming,2009,7,1,0,0,0
+Wyoming,2009,8,1,0,0,0
+Minnesota,2009,7,1,0,0,0
+Minnesota,2009,8,1,0,0,0
+New Mexico,2009,7,1,0,0,0
+New Mexico,2009,8,1,0,0,0
+Texas,2009,7,1,0,0,0
+Texas,2009,8,1,0,0,0
+Oklahoma,2009,7,1,0,0,0
+Oklahoma,2009,8,1,0,0,0
+Kansas,2009,8,1,0,0,0
+Nebraska,2009,7,1,0,0,0
+Nebraska,2009,8,1,0,0,0
+Missouri,2009,7,1,0,0,0
+Missouri,2009,8,1,0,0,0
+Arkansas,2009,8,1,0,0,0
+Louisiana,2009,8,1,0,0,0
+Mississippi,2009,7,1,0,0,0
+Mississippi,2009,8,1,0,0,0
+Tennessee,2009,7,1,0,0,0
+Tennessee,2009,8,1,0,0,0
+Kentucky,2009,8,1,0,0,0
+Illinois,2009,8,1,0,0,0
+Wisconsin,2009,7,1,0,0,0
+Wisconsin,2009,8,1,0,0,0
+Michigan,2009,7,1,0,0,0
+Michigan,2009,8,1,0,0,0
+Indiana,2009,8,1,0,0,0
+Ohio,2009,7,1,0,0,0
+Ohio,2009,8,1,0,0,0
+Pennsylvania,2009,7,1,0,0,0
+Pennsylvania,2009,8,1,0,0,0
+New York,2009,7,1,0,0,0
+New York,2009,8,1,0,0,0
+Maine,2009,8,1,0,0,0
+New Hampshire,2009,7,1,0,0,0
+New Hampshire,2009,8,1,0,0,0
+Vermont,2009,7,1,0,0,0
+Vermont,2009,8,1,0,0,0
+Massachusetts,2009,8,1,0,0,0
+Connecticut,2009,8,1,0,0,0
+Rhode Island,2009,7,1,0,0,0
+Rhode Island,2009,8,1,0,0,0
+New Jersey,2009,7,7,0,0,0
+New Jersey,2009,8,1,0,0,0
+Delaware,0,0,0,67.9,1.5,-1.22
+Delaware,0,0,0,73.6,9.03,1.76
+Delaware,0,0,0,76.9,3.33,1.06
+Delaware,0,0,0,75.1,2.81,-0.37
+Delaware,0,0,0,72,3.21,-0.99
+Delaware,0,0,0,56.5,3.84,-0.77
+Delaware,0,0,0,51.6,3.01,-1.03
+Delaware,0,0,0,50.8,4.62,-0.46
+Maryland,2009,8,1,0,0,0
+West Virginia,2009,7,1,0,0,0
+West Virginia,2009,8,1,0,0,0
+Virginia,2009,7,4,0,0,0
+Virginia,2009,8,1,0,0,0
+North Carolina,2009,7,1,0,0,0
+North Carolina,2009,8,1,0,0,0
+South Carolina,2009,7,1,0,0,0
+South Carolina,2009,8,1,0,0,0
+Georgia,2009,8,2,0,0,0
+Alabama,2009,8,1,0,0,0
+Florida,2009,8,1,0,0,0

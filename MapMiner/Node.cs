@@ -150,30 +150,49 @@ namespace MapMiner
             }
         }
 
+        public List<List<double>> zeroPaddingList = new List<List<double>>();
         public List<List<double>> getAllValues()
         {
             // !!!!!!!!!!!!!!!!!!!!!   WARNING   !!!!!!!!!!!!!!!!!!!!!!!!!
             // if size of list attributes different => PROBLEM
             //
+            bool zeroPadding = false;
 
             Console.WriteLine(Name);
             List<List<double>> allInstances = new List<List<double>>();
             for(int i=0;i < MaxSize; i++)
             {
-                allInstances.Add(new List<double>());
+                List<double> instance =  new List<double>();
                 for (int j = 0; j < Values.Count; j++)
                 {
                     if (Values[j].GetType() == typeof(List<double>))
                     {
-                        allInstances[i].Add(getListDoubleValueByIndex(j)[i]);
+                        if (i >= getListDoubleValueByIndex(j).Count)
+                        {
+                            instance.Add(0);
+                            zeroPadding = true;
+                        }
+                        else
+                            instance.Add(getListDoubleValueByIndex(j)[i]);
                     }
-                    else {
-                        allInstances[i].Add(getDoubleValueByIndex(j));
+                    else
+                    {
+                        instance.Add(getDoubleValueByIndex(j));
                     }
                 }
+                allInstances.Add(instance);
+                if (zeroPadding)
+                {
+                    zeroPaddingList.Add(instance);
+                }
+                zeroPadding = false;
+
             }
+            Console.WriteLine("all instances : " + allInstances.Count + "     zeropadd : " + zeroPaddingList.Count);
             
-                    return allInstances;
+            return allInstances;
         }
+
+
     }
 }

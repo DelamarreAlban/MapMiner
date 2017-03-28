@@ -1,0 +1,4165 @@
+State,Year,Month,ActivityLevel,ActivityLevelLabel
+Alabama,2015,11,1,Minimal
+Alabama,2015,12,1,Minimal
+Alabama,2014,11,1,Minimal
+Alabama,2014,12,9,High
+Alabama,2015,1,9,High
+Alabama,2015,2,6,Moderate
+Alabama,2015,3,9,High
+Alabama,2015,4,1,Minimal
+Alabama,2015,5,1,Minimal
+Alabama,2015,6,1,Minimal
+Alabama,2015,7,1,Minimal
+Alabama,2015,8,1,Minimal
+Alabama,2015,9,1,Minimal
+Alabama,2015,10,1,Minimal
+Alabama,2013,11,3,Minimal
+Alabama,2013,12,10,High
+Alabama,2014,1,10,High
+Alabama,2014,2,8,High
+Alabama,2014,3,1,Minimal
+Alabama,2014,3,1,Minimal
+Alabama,2014,5,1,Minimal
+Alabama,2014,5,1,Minimal
+Alabama,2014,6,1,Minimal
+Alabama,2014,8,1,Minimal
+Alabama,2014,8,1,Minimal
+Alabama,2014,9,1,Minimal
+Alabama,2012,11,1,Minimal
+Alabama,2012,12,10,High
+Alabama,2013,1,10,High
+Alabama,2013,2,7,Moderate
+Alabama,2013,3,4,Low
+Alabama,2013,3,2,Minimal
+Alabama,2013,5,1,Minimal
+Alabama,2013,6,1,Minimal
+Alabama,2013,6,1,Minimal
+Alabama,2013,8,1,Minimal
+Alabama,2013,8,1,Minimal
+Alabama,2013,9,1,Minimal
+Alabama,2011,11,3,Minimal
+Alabama,2011,12,6,Moderate
+Alabama,2012,1,5,Low
+Alabama,2012,2,10,High
+Alabama,2012,3,10,High
+Alabama,2012,3,5,Low
+Alabama,2012,5,6,Moderate
+Alabama,2012,6,2,Minimal
+Alabama,2012,6,1,Minimal
+Alabama,2012,8,1,Minimal
+Alabama,2012,9,1,Minimal
+Alabama,2012,9,1,Minimal
+Alabama,2010,11,1,Minimal
+Alabama,2010,12,8,High
+Alabama,2011,1,10,High
+Alabama,2011,2,10,High
+Alabama,2011,3,10,High
+Alabama,2011,4,1,Minimal
+Alabama,2011,5,1,Minimal
+Alabama,2011,6,1,Minimal
+Alabama,2011,7,1,Minimal
+Alabama,2011,8,1,Minimal
+Alabama,2011,9,1,Minimal
+Alabama,2011,10,1,Minimal
+Alabama,2009,9,10,High
+Alabama,2009,10,10,High
+Alabama,2009,11,10,High
+Alabama,2009,12,6,Moderate
+Alabama,2010,1,2,Minimal
+Alabama,2010,2,5,Low
+Alabama,2010,3,6,Moderate
+Alabama,2010,4,1,Minimal
+Alabama,2010,5,1,Minimal
+Alabama,2010,6,1,Minimal
+Alabama,2010,7,1,Minimal
+Alabama,2010,8,1,Minimal
+Alabama,2010,9,1,Minimal
+Alabama,2010,10,1,Minimal
+Alabama,2009,1,1,Minimal
+Alabama,2009,2,3,Minimal
+Alabama,2009,3,5,Low
+Alabama,2009,4,1,Minimal
+Alabama,2009,5,1,Minimal
+Alabama,2009,6,1,Minimal
+Alabama,2009,7,1,Minimal
+Alabama,2009,8,1,Minimal
+Alabama,2009,8,1,Minimal
+Arizona,2015,11,3,Minimal
+Arizona,2015,12,4,Low
+Arizona,2014,11,1,Minimal
+Arizona,2014,12,2,Minimal
+Arizona,2015,1,5,Low
+Arizona,2015,2,7,Moderate
+Arizona,2015,3,3,Minimal
+Arizona,2015,4,2,Minimal
+Arizona,2015,5,1,Minimal
+Arizona,2015,6,1,Minimal
+Arizona,2015,7,1,Minimal
+Arizona,2015,8,1,Minimal
+Arizona,2015,9,1,Minimal
+Arizona,2015,10,1,Minimal
+Arizona,2013,11,1,Minimal
+Arizona,2013,12,1,Minimal
+Arizona,2014,1,3,Minimal
+Arizona,2014,2,6,Moderate
+Arizona,2014,3,3,Minimal
+Arizona,2014,3,1,Minimal
+Arizona,2014,5,1,Minimal
+Arizona,2014,5,1,Minimal
+Arizona,2014,6,1,Minimal
+Arizona,2014,8,1,Minimal
+Arizona,2014,8,1,Minimal
+Arizona,2014,9,1,Minimal
+Arizona,2012,11,1,Minimal
+Arizona,2012,12,1,Minimal
+Arizona,2013,1,6,Moderate
+Arizona,2013,2,8,High
+Arizona,2013,3,4,Low
+Arizona,2013,3,1,Minimal
+Arizona,2013,5,1,Minimal
+Arizona,2013,6,1,Minimal
+Arizona,2013,6,1,Minimal
+Arizona,2013,8,1,Minimal
+Arizona,2013,8,1,Minimal
+Arizona,2013,9,1,Minimal
+Arizona,2011,11,1,Minimal
+Arizona,2011,12,1,Minimal
+Arizona,2012,1,1,Minimal
+Arizona,2012,2,2,Minimal
+Arizona,2012,3,2,Minimal
+Arizona,2012,3,2,Minimal
+Arizona,2012,5,1,Minimal
+Arizona,2012,6,1,Minimal
+Arizona,2012,6,1,Minimal
+Arizona,2012,8,1,Minimal
+Arizona,2012,9,1,Minimal
+Arizona,2012,9,1,Minimal
+Arizona,2010,11,1,Minimal
+Arizona,2010,12,5,Low
+Arizona,2011,1,2,Minimal
+Arizona,2011,2,5,Low
+Arizona,2011,3,3,Minimal
+Arizona,2011,4,1,Minimal
+Arizona,2011,5,1,Minimal
+Arizona,2011,6,1,Minimal
+Arizona,2011,7,1,Minimal
+Arizona,2011,8,1,Minimal
+Arizona,2011,9,1,Minimal
+Arizona,2011,10,1,Minimal
+Arizona,2009,9,3,Minimal
+Arizona,2009,10,8,High
+Arizona,2009,11,6,Moderate
+Arizona,2009,12,1,Minimal
+Arizona,2010,1,1,Minimal
+Arizona,2010,2,1,Minimal
+Arizona,2010,3,1,Minimal
+Arizona,2010,4,1,Minimal
+Arizona,2010,5,1,Minimal
+Arizona,2010,6,1,Minimal
+Arizona,2010,7,1,Minimal
+Arizona,2010,8,1,Minimal
+Arizona,2010,9,1,Minimal
+Arizona,2010,10,1,Minimal
+Arizona,2009,1,1,Minimal
+Arizona,2009,2,1,Minimal
+Arizona,2009,3,1,Minimal
+Arizona,2009,4,1,Minimal
+Arizona,2009,5,3,Minimal
+Arizona,2009,6,1,Minimal
+Arizona,2009,7,1,Minimal
+Arizona,2009,8,1,Minimal
+Arizona,2009,8,1,Minimal
+Arkansas,2015,11,1,Minimal
+Arkansas,2015,12,1,Minimal
+Arkansas,2014,11,1,Minimal
+Arkansas,2014,12,3,Minimal
+Arkansas,2015,1,10,High
+Arkansas,2015,2,10,High
+Arkansas,2015,3,8,High
+Arkansas,2015,4,1,Minimal
+Arkansas,2015,5,1,Minimal
+Arkansas,2015,6,1,Minimal
+Arkansas,2015,7,1,Minimal
+Arkansas,2015,8,1,Minimal
+Arkansas,2015,9,1,Minimal
+Arkansas,2015,10,1,Minimal
+Arkansas,2013,11,2,Minimal
+Arkansas,2013,12,3,Minimal
+Arkansas,2014,1,10,High
+Arkansas,2014,2,10,High
+Arkansas,2014,3,1,Minimal
+Arkansas,2014,3,1,Minimal
+Arkansas,2014,5,1,Minimal
+Arkansas,2014,5,1,Minimal
+Arkansas,2014,6,1,Minimal
+Arkansas,2014,8,1,Minimal
+Arkansas,2014,8,1,Minimal
+Arkansas,2014,9,1,Minimal
+Arkansas,2012,11,1,Minimal
+Arkansas,2012,12,1,Minimal
+Arkansas,2013,1,8,High
+Arkansas,2013,2,7,Moderate
+Arkansas,2013,3,1,Minimal
+Arkansas,2013,3,1,Minimal
+Arkansas,2013,5,1,Minimal
+Arkansas,2013,6,1,Minimal
+Arkansas,2013,6,1,Minimal
+Arkansas,2013,8,1,Minimal
+Arkansas,2013,8,1,Minimal
+Arkansas,2013,9,0,Insufficient Data
+Arkansas,2011,11,1,Minimal
+Arkansas,2011,12,1,Minimal
+Arkansas,2012,1,1,Minimal
+Arkansas,2012,2,1,Minimal
+Arkansas,2012,3,4,Low
+Arkansas,2012,3,1,Minimal
+Arkansas,2012,5,1,Minimal
+Arkansas,2012,6,1,Minimal
+Arkansas,2012,6,1,Minimal
+Arkansas,2012,8,0,Insufficient Data
+Arkansas,2012,9,0,Insufficient Data
+Arkansas,2012,9,0,Insufficient Data
+Arkansas,2010,11,1,Minimal
+Arkansas,2010,12,1,Minimal
+Arkansas,2011,1,2,Minimal
+Arkansas,2011,2,10,High
+Arkansas,2011,3,10,High
+Arkansas,2011,4,1,Minimal
+Arkansas,2011,5,1,Minimal
+Arkansas,2011,6,1,Minimal
+Arkansas,2011,7,0,Insufficient Data
+Arkansas,2011,8,0,Insufficient Data
+Arkansas,2011,9,0,Insufficient Data
+Arkansas,2011,10,0,Insufficient Data
+Arkansas,2009,9,4,Low
+Arkansas,2009,10,8,High
+Arkansas,2009,11,10,High
+Arkansas,2009,12,2,Minimal
+Arkansas,2010,1,1,Minimal
+Arkansas,2010,2,2,Minimal
+Arkansas,2010,3,2,Minimal
+Arkansas,2010,4,1,Minimal
+Arkansas,2010,5,1,Minimal
+Arkansas,2010,6,1,Minimal
+Arkansas,2010,7,1,Minimal
+Arkansas,2010,8,1,Minimal
+Arkansas,2010,9,1,Minimal
+Arkansas,2010,10,1,Minimal
+Arkansas,2009,1,1,Minimal
+Arkansas,2009,2,6,Moderate
+Arkansas,2009,3,4,Low
+Arkansas,2009,4,1,Minimal
+Arkansas,2009,5,1,Minimal
+Arkansas,2009,6,0,Insufficient Data
+Arkansas,2009,7,0,Insufficient Data
+Arkansas,2009,8,1,Minimal
+Arkansas,2009,8,1,Minimal
+California,2015,11,1,Minimal
+California,2015,12,1,Minimal
+California,2014,11,1,Minimal
+California,2014,12,1,Minimal
+California,2015,1,6,Moderate
+California,2015,2,7,Moderate
+California,2015,3,3,Minimal
+California,2015,4,2,Minimal
+California,2015,5,1,Minimal
+California,2015,6,1,Minimal
+California,2015,7,1,Minimal
+California,2015,8,1,Minimal
+California,2015,9,1,Minimal
+California,2015,10,1,Minimal
+California,2013,11,1,Minimal
+California,2013,12,1,Minimal
+California,2014,1,8,High
+California,2014,2,6,Moderate
+California,2014,3,2,Minimal
+California,2014,3,1,Minimal
+California,2014,5,1,Minimal
+California,2014,5,1,Minimal
+California,2014,6,1,Minimal
+California,2014,8,1,Minimal
+California,2014,8,1,Minimal
+California,2014,9,1,Minimal
+California,2012,11,1,Minimal
+California,2012,12,1,Minimal
+California,2013,1,2,Minimal
+California,2013,2,10,High
+California,2013,3,2,Minimal
+California,2013,3,1,Minimal
+California,2013,5,1,Minimal
+California,2013,6,1,Minimal
+California,2013,6,1,Minimal
+California,2013,8,1,Minimal
+California,2013,8,1,Minimal
+California,2013,9,1,Minimal
+California,2011,11,1,Minimal
+California,2011,12,1,Minimal
+California,2012,1,2,Minimal
+California,2012,2,4,Low
+California,2012,3,2,Minimal
+California,2012,3,2,Minimal
+California,2012,5,1,Minimal
+California,2012,6,1,Minimal
+California,2012,6,1,Minimal
+California,2012,8,1,Minimal
+California,2012,9,1,Minimal
+California,2012,9,1,Minimal
+California,2010,11,1,Minimal
+California,2010,12,1,Minimal
+California,2011,1,1,Minimal
+California,2011,2,4,Low
+California,2011,3,6,Moderate
+California,2011,4,1,Minimal
+California,2011,5,1,Minimal
+California,2011,6,1,Minimal
+California,2011,7,1,Minimal
+California,2011,8,1,Minimal
+California,2011,9,1,Minimal
+California,2011,10,1,Minimal
+California,2009,9,3,Minimal
+California,2009,10,10,High
+California,2009,11,10,High
+California,2009,12,6,Moderate
+California,2010,1,5,Low
+California,2010,2,6,Moderate
+California,2010,3,6,Moderate
+California,2010,4,5,Low
+California,2010,5,2,Minimal
+California,2010,6,4,Low
+California,2010,7,1,Minimal
+California,2010,8,1,Minimal
+California,2010,9,1,Minimal
+California,2010,10,1,Minimal
+California,2009,1,1,Minimal
+California,2009,2,2,Minimal
+California,2009,3,2,Minimal
+California,2009,4,1,Minimal
+California,2009,5,3,Minimal
+California,2009,6,1,Minimal
+California,2009,7,1,Minimal
+California,2009,8,1,Minimal
+California,2009,8,1,Minimal
+Colorado,2015,11,1,Minimal
+Colorado,2015,12,2,Minimal
+Colorado,2014,11,2,Minimal
+Colorado,2014,12,3,Minimal
+Colorado,2015,1,10,High
+Colorado,2015,2,8,High
+Colorado,2015,3,4,Low
+Colorado,2015,4,3,Minimal
+Colorado,2015,5,2,Minimal
+Colorado,2015,6,1,Minimal
+Colorado,2015,7,1,Minimal
+Colorado,2015,8,2,Minimal
+Colorado,2015,9,2,Minimal
+Colorado,2015,10,2,Minimal
+Colorado,2013,11,1,Minimal
+Colorado,2013,12,4,Low
+Colorado,2014,1,8,High
+Colorado,2014,2,5,Low
+Colorado,2014,3,3,Minimal
+Colorado,2014,3,2,Minimal
+Colorado,2014,5,2,Minimal
+Colorado,2014,5,1,Minimal
+Colorado,2014,6,3,Minimal
+Colorado,2014,8,2,Minimal
+Colorado,2014,8,3,Minimal
+Colorado,2014,9,2,Minimal
+Colorado,2012,11,1,Minimal
+Colorado,2012,12,4,Low
+Colorado,2013,1,8,High
+Colorado,2013,2,8,High
+Colorado,2013,3,4,Low
+Colorado,2013,3,2,Minimal
+Colorado,2013,5,1,Minimal
+Colorado,2013,6,1,Minimal
+Colorado,2013,6,1,Minimal
+Colorado,2013,8,1,Minimal
+Colorado,2013,9,1,Minimal
+Colorado,2011,11,1,Minimal
+Colorado,2011,12,1,Minimal
+Colorado,2012,1,1,Minimal
+Colorado,2012,2,1,Minimal
+Colorado,2012,3,3,Minimal
+Colorado,2012,3,1,Minimal
+Colorado,2012,5,1,Minimal
+Colorado,2012,6,1,Minimal
+Colorado,2012,6,1,Minimal
+Colorado,2012,8,1,Minimal
+Colorado,2012,9,1,Minimal
+Colorado,2012,9,1,Minimal
+Colorado,2010,11,1,Minimal
+Colorado,2010,12,1,Minimal
+Colorado,2011,1,1,Minimal
+Colorado,2011,2,6,Moderate
+Colorado,2011,3,7,Moderate
+Colorado,2011,4,2,Minimal
+Colorado,2011,5,1,Minimal
+Colorado,2011,6,1,Minimal
+Colorado,2011,7,1,Minimal
+Colorado,2011,8,1,Minimal
+Colorado,2011,9,1,Minimal
+Colorado,2011,10,1,Minimal
+Colorado,2009,9,2,Minimal
+Colorado,2009,10,10,High
+Colorado,2009,11,8,High
+Colorado,2009,12,2,Minimal
+Colorado,2010,1,1,Minimal
+Colorado,2010,2,1,Minimal
+Colorado,2010,3,1,Minimal
+Colorado,2010,4,1,Minimal
+Colorado,2010,5,1,Minimal
+Colorado,2010,6,1,Minimal
+Colorado,2010,7,1,Minimal
+Colorado,2010,8,1,Minimal
+Colorado,2010,9,1,Minimal
+Colorado,2010,10,1,Minimal
+Colorado,2009,1,1,Minimal
+Colorado,2009,2,1,Minimal
+Colorado,2009,3,2,Minimal
+Colorado,2009,4,1,Minimal
+Colorado,2009,5,1,Minimal
+Colorado,2009,6,1,Minimal
+Colorado,2009,7,1,Minimal
+Colorado,2009,8,1,Minimal
+Colorado,2009,8,1,Minimal
+Connecticut,2015,11,1,Minimal
+Connecticut,2015,12,1,Minimal
+Connecticut,2014,11,2,Minimal
+Connecticut,2014,12,1,Minimal
+Connecticut,2015,1,2,Minimal
+Connecticut,2015,2,10,High
+Connecticut,2015,3,4,Low
+Connecticut,2015,4,3,Minimal
+Connecticut,2015,5,1,Minimal
+Connecticut,2015,6,1,Minimal
+Connecticut,2015,7,1,Minimal
+Connecticut,2015,8,1,Minimal
+Connecticut,2015,9,1,Minimal
+Connecticut,2015,10,1,Minimal
+Connecticut,2013,11,3,Minimal
+Connecticut,2013,12,1,Minimal
+Connecticut,2014,1,1,Minimal
+Connecticut,2014,2,6,Moderate
+Connecticut,2014,3,5,Low
+Connecticut,2014,3,6,Moderate
+Connecticut,2014,5,5,Low
+Connecticut,2014,5,0,Insufficient Data
+Connecticut,2014,6,0,Insufficient Data
+Connecticut,2014,8,0,Insufficient Data
+Connecticut,2014,8,0,Insufficient Data
+Connecticut,2014,9,1,Minimal
+Connecticut,2012,11,1,Minimal
+Connecticut,2012,12,1,Minimal
+Connecticut,2013,1,8,High
+Connecticut,2013,2,5,Low
+Connecticut,2013,3,2,Minimal
+Connecticut,2013,3,1,Minimal
+Connecticut,2013,5,1,Minimal
+Connecticut,2013,6,1,Minimal
+Connecticut,2013,6,0,Insufficient Data
+Connecticut,2013,8,0,Insufficient Data
+Connecticut,2013,8,0,Insufficient Data
+Connecticut,2013,9,6,Moderate
+Connecticut,2011,11,1,Minimal
+Connecticut,2011,12,1,Minimal
+Connecticut,2012,1,1,Minimal
+Connecticut,2012,2,1,Minimal
+Connecticut,2012,3,1,Minimal
+Connecticut,2012,3,1,Minimal
+Connecticut,2012,5,1,Minimal
+Connecticut,2012,6,1,Minimal
+Connecticut,2012,6,1,Minimal
+Connecticut,2012,8,1,Minimal
+Connecticut,2012,9,1,Minimal
+Connecticut,2012,9,1,Minimal
+Connecticut,2010,11,1,Minimal
+Connecticut,2010,12,1,Minimal
+Connecticut,2011,1,1,Minimal
+Connecticut,2011,2,1,Minimal
+Connecticut,2011,3,1,Minimal
+Connecticut,2011,4,1,Minimal
+Connecticut,2011,5,1,Minimal
+Connecticut,2011,6,1,Minimal
+Connecticut,2011,7,1,Minimal
+Connecticut,2011,8,1,Minimal
+Connecticut,2011,9,1,Minimal
+Connecticut,2011,10,1,Minimal
+Connecticut,2009,9,1,Minimal
+Connecticut,2009,10,3,Minimal
+Connecticut,2009,11,10,High
+Connecticut,2009,12,1,Minimal
+Connecticut,2010,1,1,Minimal
+Connecticut,2010,2,1,Minimal
+Connecticut,2010,3,1,Minimal
+Connecticut,2010,4,1,Minimal
+Connecticut,2010,5,1,Minimal
+Connecticut,2010,6,1,Minimal
+Connecticut,2010,7,1,Minimal
+Connecticut,2010,8,1,Minimal
+Connecticut,2010,9,1,Minimal
+Connecticut,2010,10,1,Minimal
+Connecticut,2009,1,1,Minimal
+Connecticut,2009,2,10,High
+Connecticut,2009,3,2,Minimal
+Connecticut,2009,4,1,Minimal
+Connecticut,2009,5,1,Minimal
+Connecticut,2009,6,1,Minimal
+Connecticut,2009,7,1,Minimal
+Connecticut,2009,8,1,Minimal
+Connecticut,2009,8,1,Minimal
+Delaware,2015,11,1,Minimal
+Delaware,2015,12,1,Minimal
+Delaware,2014,11,1,Minimal
+Delaware,2014,12,1,Minimal
+Delaware,2015,1,3,Minimal
+Delaware,2015,2,5,Low
+Delaware,2015,3,1,Minimal
+Delaware,2015,4,1,Minimal
+Delaware,2015,5,1,Minimal
+Delaware,2015,6,1,Minimal
+Delaware,2015,7,1,Minimal
+Delaware,2015,8,1,Minimal
+Delaware,2015,9,1,Minimal
+Delaware,2015,10,1,Minimal
+Delaware,2013,11,1,Minimal
+Delaware,2013,12,2,Minimal
+Delaware,2014,1,4,Low
+Delaware,2014,2,6,Moderate
+Delaware,2014,3,4,Low
+Delaware,2014,3,3,Minimal
+Delaware,2014,5,1,Minimal
+Delaware,2014,5,1,Minimal
+Delaware,2014,6,1,Minimal
+Delaware,2014,8,1,Minimal
+Delaware,2014,8,1,Minimal
+Delaware,2014,9,1,Minimal
+Delaware,2012,11,1,Minimal
+Delaware,2012,12,4,Low
+Delaware,2013,1,10,High
+Delaware,2013,2,8,High
+Delaware,2013,3,2,Minimal
+Delaware,2013,3,1,Minimal
+Delaware,2013,5,1,Minimal
+Delaware,2013,6,0,Insufficient Data
+Delaware,2013,6,0,Insufficient Data
+Delaware,2013,8,0,Insufficient Data
+Delaware,2013,8,0,Insufficient Data
+Delaware,2013,9,0,Insufficient Data
+Delaware,2011,11,1,Minimal
+Delaware,2011,12,1,Minimal
+Delaware,2012,1,1,Minimal
+Delaware,2012,2,1,Minimal
+Delaware,2012,3,1,Minimal
+Delaware,2012,3,1,Minimal
+Delaware,2012,5,1,Minimal
+Delaware,2012,6,0,Insufficient Data
+Delaware,2012,6,0,Insufficient Data
+Delaware,2012,8,0,Insufficient Data
+Delaware,2012,9,0,Insufficient Data
+Delaware,2012,9,0,Insufficient Data
+Delaware,2010,11,1,Minimal
+Delaware,2010,12,1,Minimal
+Delaware,2011,1,1,Minimal
+Delaware,2011,2,3,Minimal
+Delaware,2011,3,3,Minimal
+Delaware,2011,4,1,Minimal
+Delaware,2011,5,1,Minimal
+Delaware,2011,6,0,Insufficient Data
+Delaware,2009,9,1,Minimal
+Delaware,2009,10,8,High
+Delaware,2009,11,10,High
+Delaware,2009,12,1,Minimal
+Delaware,2010,1,1,Minimal
+Delaware,2010,2,1,Minimal
+Delaware,2010,3,1,Minimal
+Delaware,2010,4,1,Minimal
+Delaware,2010,5,1,Minimal
+Delaware,2009,1,1,Minimal
+Delaware,2009,2,1,Minimal
+Delaware,2009,3,2,Minimal
+Delaware,2009,4,1,Minimal
+Delaware,2009,5,1,Minimal
+Delaware,2009,6,1,Minimal
+Delaware,2009,7,1,Minimal
+Delaware,2009,8,1,Minimal
+Delaware,2009,8,1,Minimal
+District of Columbia,2015,11,0,Insufficient Data
+District of Columbia,2015,12,0,Insufficient Data
+District of Columbia,2014,11,0,Insufficient Data
+District of Columbia,2014,12,0,Insufficient Data
+District of Columbia,2015,1,0,Insufficient Data
+District of Columbia,2015,2,0,Insufficient Data
+District of Columbia,2015,3,0,Insufficient Data
+District of Columbia,2015,4,0,Insufficient Data
+District of Columbia,2015,5,0,Insufficient Data
+District of Columbia,2015,6,0,Insufficient Data
+District of Columbia,2015,7,0,Insufficient Data
+District of Columbia,2013,11,5,Low
+District of Columbia,2013,12,10,High
+District of Columbia,2014,1,10,High
+District of Columbia,2014,2,10,High
+District of Columbia,2014,3,0,Insufficient Data
+District of Columbia,2014,3,0,Insufficient Data
+District of Columbia,2014,5,0,Insufficient Data
+District of Columbia,2014,5,0,Insufficient Data
+District of Columbia,2014,6,0,Insufficient Data
+District of Columbia,2014,8,0,Insufficient Data
+District of Columbia,2014,8,0,Insufficient Data
+District of Columbia,2014,9,0,Insufficient Data
+District of Columbia,2012,11,0,Insufficient Data
+District of Columbia,2012,12,0,Insufficient Data
+District of Columbia,2013,1,3,Minimal
+District of Columbia,2013,2,4,Low
+District of Columbia,2013,3,2,Minimal
+District of Columbia,2013,3,1,Minimal
+District of Columbia,2013,5,0,Insufficient Data
+District of Columbia,2013,6,0,Insufficient Data
+District of Columbia,2013,6,0,Insufficient Data
+District of Columbia,2013,8,0,Insufficient Data
+District of Columbia,2013,8,0,Insufficient Data
+District of Columbia,2013,9,0,Insufficient Data
+District of Columbia,2011,11,1,Minimal
+District of Columbia,2011,12,0,Insufficient Data
+District of Columbia,2012,1,0,Insufficient Data
+District of Columbia,2012,2,0,Insufficient Data
+District of Columbia,2012,3,0,Insufficient Data
+District of Columbia,2012,3,0,Insufficient Data
+District of Columbia,2012,5,0,Insufficient Data
+District of Columbia,2012,6,0,Insufficient Data
+District of Columbia,2012,6,0,Insufficient Data
+District of Columbia,2012,8,0,Insufficient Data
+District of Columbia,2012,9,0,Insufficient Data
+District of Columbia,2012,9,0,Insufficient Data
+District of Columbia,2010,11,1,Minimal
+District of Columbia,2010,12,1,Minimal
+District of Columbia,2011,1,1,Minimal
+District of Columbia,2011,2,1,Minimal
+District of Columbia,2011,3,1,Minimal
+District of Columbia,2011,4,1,Minimal
+District of Columbia,2011,5,0,Insufficient Data
+District of Columbia,2011,6,0,Insufficient Data
+District of Columbia,2011,7,0,Insufficient Data
+District of Columbia,2011,8,0,Insufficient Data
+District of Columbia,2011,9,0,Insufficient Data
+District of Columbia,2011,10,0,Insufficient Data
+District of Columbia,2009,11,10,High
+District of Columbia,2009,12,5,Low
+District of Columbia,2010,1,3,Minimal
+District of Columbia,2010,2,4,Low
+District of Columbia,2010,3,3,Minimal
+District of Columbia,2010,4,0,Insufficient Data
+District of Columbia,2010,5,0,Insufficient Data
+Florida,2015,11,1,Minimal
+Florida,2015,12,1,Minimal
+Florida,2014,11,3,Minimal
+Florida,2014,12,5,Low
+Florida,2015,1,3,Minimal
+Florida,2015,2,2,Minimal
+Florida,2015,3,2,Minimal
+Florida,2015,4,1,Minimal
+Florida,2015,5,1,Minimal
+Florida,2015,6,1,Minimal
+Florida,2015,7,1,Minimal
+Florida,2015,8,1,Minimal
+Florida,2015,9,1,Minimal
+Florida,2015,10,1,Minimal
+Florida,2013,11,1,Minimal
+Florida,2013,12,1,Minimal
+Florida,2014,1,3,Minimal
+Florida,2014,2,4,Low
+Florida,2014,3,1,Minimal
+Florida,2014,3,1,Minimal
+Florida,2014,5,1,Minimal
+Florida,2014,5,1,Minimal
+Florida,2014,6,1,Minimal
+Florida,2014,8,1,Minimal
+Florida,2014,8,1,Minimal
+Florida,2014,9,1,Minimal
+Florida,2012,11,1,Minimal
+Florida,2012,12,3,Minimal
+Florida,2013,1,6,Moderate
+Florida,2013,2,4,Low
+Florida,2013,3,1,Minimal
+Florida,2013,3,2,Minimal
+Florida,2013,5,1,Minimal
+Florida,2013,6,1,Minimal
+Florida,2013,6,1,Minimal
+Florida,2013,8,1,Minimal
+Florida,2013,8,1,Minimal
+Florida,2013,9,1,Minimal
+Florida,2011,11,1,Minimal
+Florida,2011,12,1,Minimal
+Florida,2012,1,1,Minimal
+Florida,2012,2,1,Minimal
+Florida,2012,3,1,Minimal
+Florida,2012,3,1,Minimal
+Florida,2012,5,1,Minimal
+Florida,2012,6,2,Minimal
+Florida,2012,6,1,Minimal
+Florida,2012,8,1,Minimal
+Florida,2012,9,1,Minimal
+Florida,2012,9,1,Minimal
+Florida,2010,11,1,Minimal
+Florida,2010,12,1,Minimal
+Florida,2011,1,3,Minimal
+Florida,2011,2,6,Moderate
+Florida,2011,3,1,Minimal
+Florida,2011,4,1,Minimal
+Florida,2011,5,1,Minimal
+Florida,2011,6,1,Minimal
+Florida,2011,7,1,Minimal
+Florida,2011,8,1,Minimal
+Florida,2011,9,1,Minimal
+Florida,2011,10,1,Minimal
+Florida,2009,9,8,High
+Florida,2009,10,8,High
+Florida,2009,11,8,High
+Florida,2009,12,1,Minimal
+Florida,2010,1,1,Minimal
+Florida,2010,2,1,Minimal
+Florida,2010,3,1,Minimal
+Florida,2010,4,1,Minimal
+Florida,2010,5,1,Minimal
+Florida,2010,6,1,Minimal
+Florida,2010,7,1,Minimal
+Florida,2010,8,1,Minimal
+Florida,2010,9,1,Minimal
+Florida,2010,10,1,Minimal
+Florida,2009,1,1,Minimal
+Florida,2009,2,1,Minimal
+Florida,2009,3,1,Minimal
+Florida,2009,4,1,Minimal
+Florida,2009,5,1,Minimal
+Florida,2009,6,1,Minimal
+Florida,2009,7,1,Minimal
+Florida,2009,8,1,Minimal
+Florida,2009,8,1,Minimal
+Georgia,2015,11,2,Minimal
+Georgia,2015,12,2,Minimal
+Georgia,2014,11,1,Minimal
+Georgia,2014,12,10,High
+Georgia,2015,1,7,Moderate
+Georgia,2015,2,4,Low
+Georgia,2015,3,4,Low
+Georgia,2015,4,2,Minimal
+Georgia,2015,5,1,Minimal
+Georgia,2015,6,1,Minimal
+Georgia,2015,7,1,Minimal
+Georgia,2015,8,1,Minimal
+Georgia,2015,9,1,Minimal
+Georgia,2015,10,2,Minimal
+Georgia,2013,11,1,Minimal
+Georgia,2013,12,3,Minimal
+Georgia,2014,1,5,Low
+Georgia,2014,2,3,Minimal
+Georgia,2014,3,1,Minimal
+Georgia,2014,3,1,Minimal
+Georgia,2014,5,1,Minimal
+Georgia,2014,5,1,Minimal
+Georgia,2014,6,1,Minimal
+Georgia,2014,8,1,Minimal
+Georgia,2014,8,1,Minimal
+Georgia,2014,9,1,Minimal
+Georgia,2012,11,1,Minimal
+Georgia,2012,12,9,High
+Georgia,2013,1,9,High
+Georgia,2013,2,4,Low
+Georgia,2013,3,4,Low
+Georgia,2013,3,1,Minimal
+Georgia,2013,5,1,Minimal
+Georgia,2013,6,1,Minimal
+Georgia,2013,6,1,Minimal
+Georgia,2013,8,1,Minimal
+Georgia,2013,8,1,Minimal
+Georgia,2013,9,1,Minimal
+Georgia,2011,11,1,Minimal
+Georgia,2011,12,1,Minimal
+Georgia,2012,1,2,Minimal
+Georgia,2012,2,1,Minimal
+Georgia,2012,3,1,Minimal
+Georgia,2012,3,1,Minimal
+Georgia,2012,5,1,Minimal
+Georgia,2012,6,1,Minimal
+Georgia,2012,6,1,Minimal
+Georgia,2012,8,1,Minimal
+Georgia,2012,9,1,Minimal
+Georgia,2012,9,1,Minimal
+Georgia,2010,11,3,Minimal
+Georgia,2010,12,8,High
+Georgia,2011,1,9,High
+Georgia,2011,2,9,High
+Georgia,2011,3,3,Minimal
+Georgia,2011,4,1,Minimal
+Georgia,2011,5,1,Minimal
+Georgia,2011,6,1,Minimal
+Georgia,2011,7,1,Minimal
+Georgia,2011,8,1,Minimal
+Georgia,2011,9,1,Minimal
+Georgia,2011,10,1,Minimal
+Georgia,2009,9,10,High
+Georgia,2009,10,10,High
+Georgia,2009,11,10,High
+Georgia,2009,12,4,Low
+Georgia,2010,1,3,Minimal
+Georgia,2010,2,4,Low
+Georgia,2010,3,2,Minimal
+Georgia,2010,4,1,Minimal
+Georgia,2010,5,1,Minimal
+Georgia,2010,6,1,Minimal
+Georgia,2010,7,1,Minimal
+Georgia,2010,8,1,Minimal
+Georgia,2010,9,1,Minimal
+Georgia,2010,10,1,Minimal
+Georgia,2009,1,2,Minimal
+Georgia,2009,2,7,Moderate
+Georgia,2009,3,8,High
+Georgia,2009,4,1,Minimal
+Georgia,2009,5,8,High
+Georgia,2009,6,1,Minimal
+Georgia,2009,7,4,Low
+Georgia,2009,8,2,Minimal
+Georgia,2009,8,2,Minimal
+Idaho,2015,11,1,Minimal
+Idaho,2015,12,1,Minimal
+Idaho,2014,11,1,Minimal
+Idaho,2014,12,3,Minimal
+Idaho,2015,1,10,High
+Idaho,2015,2,10,High
+Idaho,2015,3,4,Low
+Idaho,2015,4,2,Minimal
+Idaho,2015,5,1,Minimal
+Idaho,2015,6,1,Minimal
+Idaho,2015,7,1,Minimal
+Idaho,2015,8,1,Minimal
+Idaho,2015,9,1,Minimal
+Idaho,2015,10,1,Minimal
+Idaho,2013,11,1,Minimal
+Idaho,2013,12,1,Minimal
+Idaho,2014,1,10,High
+Idaho,2014,2,3,Minimal
+Idaho,2014,3,1,Minimal
+Idaho,2014,3,1,Minimal
+Idaho,2014,5,1,Minimal
+Idaho,2014,5,1,Minimal
+Idaho,2014,6,0,Insufficient Data
+Idaho,2014,8,0,Insufficient Data
+Idaho,2014,8,0,Insufficient Data
+Idaho,2014,9,0,Insufficient Data
+Idaho,2012,11,1,Minimal
+Idaho,2012,12,2,Minimal
+Idaho,2013,1,5,Low
+Idaho,2013,2,5,Low
+Idaho,2013,3,1,Minimal
+Idaho,2013,3,1,Minimal
+Idaho,2013,5,1,Minimal
+Idaho,2013,6,1,Minimal
+Idaho,2013,6,1,Minimal
+Idaho,2013,8,1,Minimal
+Idaho,2013,8,1,Minimal
+Idaho,2013,9,1,Minimal
+Idaho,2011,11,2,Minimal
+Idaho,2011,12,1,Minimal
+Idaho,2012,1,1,Minimal
+Idaho,2012,2,2,Minimal
+Idaho,2012,3,3,Minimal
+Idaho,2012,3,3,Minimal
+Idaho,2012,5,2,Minimal
+Idaho,2012,6,1,Minimal
+Idaho,2012,6,1,Minimal
+Idaho,2012,8,1,Minimal
+Idaho,2012,9,1,Minimal
+Idaho,2012,9,2,Minimal
+Idaho,2010,11,1,Minimal
+Idaho,2010,12,1,Minimal
+Idaho,2011,1,1,Minimal
+Idaho,2011,2,5,Low
+Idaho,2011,3,10,High
+Idaho,2011,4,2,Minimal
+Idaho,2011,5,1,Minimal
+Idaho,2011,6,1,Minimal
+Idaho,2011,7,1,Minimal
+Idaho,2011,8,1,Minimal
+Idaho,2011,9,1,Minimal
+Idaho,2011,10,1,Minimal
+Idaho,2009,9,1,Minimal
+Idaho,2009,10,10,High
+Idaho,2009,11,7,Moderate
+Idaho,2009,12,1,Minimal
+Idaho,2010,1,1,Minimal
+Idaho,2010,2,1,Minimal
+Idaho,2010,3,1,Minimal
+Idaho,2010,4,1,Minimal
+Idaho,2010,5,1,Minimal
+Idaho,2010,6,1,Minimal
+Idaho,2010,7,1,Minimal
+Idaho,2010,8,1,Minimal
+Idaho,2010,9,1,Minimal
+Idaho,2010,10,0,Insufficient Data
+Idaho,2009,1,1,Minimal
+Idaho,2009,2,1,Minimal
+Idaho,2009,3,1,Minimal
+Idaho,2009,4,1,Minimal
+Idaho,2009,5,1,Minimal
+Idaho,2009,6,2,Minimal
+Idaho,2009,7,1,Minimal
+Idaho,2009,8,1,Minimal
+Idaho,2009,8,1,Minimal
+Illinois,2015,11,2,Minimal
+Illinois,2015,12,3,Minimal
+Illinois,2014,11,1,Minimal
+Illinois,2014,12,9,High
+Illinois,2015,1,4,Low
+Illinois,2015,2,2,Minimal
+Illinois,2015,3,3,Minimal
+Illinois,2015,4,4,Low
+Illinois,2015,5,1,Minimal
+Illinois,2015,6,1,Minimal
+Illinois,2015,7,1,Minimal
+Illinois,2015,8,1,Minimal
+Illinois,2015,9,1,Minimal
+Illinois,2015,10,1,Minimal
+Illinois,2013,11,1,Minimal
+Illinois,2013,12,2,Minimal
+Illinois,2014,1,9,High
+Illinois,2014,2,2,Minimal
+Illinois,2014,3,1,Minimal
+Illinois,2014,3,1,Minimal
+Illinois,2014,5,1,Minimal
+Illinois,2014,5,1,Minimal
+Illinois,2014,6,1,Minimal
+Illinois,2014,8,1,Minimal
+Illinois,2014,8,1,Minimal
+Illinois,2014,9,1,Minimal
+Illinois,2012,11,2,Minimal
+Illinois,2012,12,6,Moderate
+Illinois,2013,1,10,High
+Illinois,2013,2,7,Moderate
+Illinois,2013,3,5,Low
+Illinois,2013,3,4,Low
+Illinois,2013,5,1,Minimal
+Illinois,2013,6,1,Minimal
+Illinois,2013,6,1,Minimal
+Illinois,2013,8,1,Minimal
+Illinois,2013,8,1,Minimal
+Illinois,2013,9,1,Minimal
+Illinois,2011,11,1,Minimal
+Illinois,2011,12,1,Minimal
+Illinois,2012,1,3,Minimal
+Illinois,2012,2,4,Low
+Illinois,2012,3,6,Moderate
+Illinois,2012,3,3,Minimal
+Illinois,2012,5,2,Minimal
+Illinois,2012,6,1,Minimal
+Illinois,2012,6,1,Minimal
+Illinois,2012,8,1,Minimal
+Illinois,2012,9,1,Minimal
+Illinois,2012,9,2,Minimal
+Illinois,2010,11,1,Minimal
+Illinois,2010,12,1,Minimal
+Illinois,2011,1,4,Low
+Illinois,2011,2,10,High
+Illinois,2011,3,6,Moderate
+Illinois,2011,4,3,Minimal
+Illinois,2011,5,1,Minimal
+Illinois,2011,6,1,Minimal
+Illinois,2011,7,1,Minimal
+Illinois,2011,8,1,Minimal
+Illinois,2011,9,1,Minimal
+Illinois,2011,10,1,Minimal
+Illinois,2009,9,2,Minimal
+Illinois,2009,10,7,Moderate
+Illinois,2009,11,10,High
+Illinois,2009,12,5,Low
+Illinois,2010,1,3,Minimal
+Illinois,2010,2,3,Minimal
+Illinois,2010,3,2,Minimal
+Illinois,2010,4,1,Minimal
+Illinois,2010,5,1,Minimal
+Illinois,2010,6,1,Minimal
+Illinois,2010,7,1,Minimal
+Illinois,2010,8,1,Minimal
+Illinois,2010,9,1,Minimal
+Illinois,2010,10,1,Minimal
+Illinois,2009,1,1,Minimal
+Illinois,2009,2,2,Minimal
+Illinois,2009,3,6,Moderate
+Illinois,2009,4,1,Minimal
+Illinois,2009,5,4,Low
+Illinois,2009,6,3,Minimal
+Illinois,2009,7,1,Minimal
+Illinois,2009,8,1,Minimal
+Illinois,2009,8,1,Minimal
+Indiana,2015,11,1,Minimal
+Indiana,2015,12,1,Minimal
+Indiana,2014,11,1,Minimal
+Indiana,2014,12,6,Moderate
+Indiana,2015,1,6,Moderate
+Indiana,2015,2,3,Minimal
+Indiana,2015,3,1,Minimal
+Indiana,2015,4,1,Minimal
+Indiana,2015,5,1,Minimal
+Indiana,2015,6,1,Minimal
+Indiana,2015,7,1,Minimal
+Indiana,2015,8,1,Minimal
+Indiana,2015,9,1,Minimal
+Indiana,2015,10,1,Minimal
+Indiana,2013,11,1,Minimal
+Indiana,2013,12,1,Minimal
+Indiana,2014,1,7,Moderate
+Indiana,2014,2,5,Low
+Indiana,2014,3,1,Minimal
+Indiana,2014,3,1,Minimal
+Indiana,2014,5,1,Minimal
+Indiana,2014,5,1,Minimal
+Indiana,2014,6,1,Minimal
+Indiana,2014,8,1,Minimal
+Indiana,2014,8,1,Minimal
+Indiana,2014,9,1,Minimal
+Indiana,2012,11,1,Minimal
+Indiana,2012,12,4,Low
+Indiana,2013,1,10,High
+Indiana,2013,2,7,Moderate
+Indiana,2013,3,5,Low
+Indiana,2013,3,1,Minimal
+Indiana,2013,5,1,Minimal
+Indiana,2013,6,1,Minimal
+Indiana,2013,6,1,Minimal
+Indiana,2013,8,1,Minimal
+Indiana,2013,8,1,Minimal
+Indiana,2013,9,1,Minimal
+Indiana,2011,11,2,Minimal
+Indiana,2011,12,1,Minimal
+Indiana,2012,1,1,Minimal
+Indiana,2012,2,2,Minimal
+Indiana,2012,3,3,Minimal
+Indiana,2012,3,2,Minimal
+Indiana,2012,5,1,Minimal
+Indiana,2012,6,1,Minimal
+Indiana,2012,6,1,Minimal
+Indiana,2012,8,1,Minimal
+Indiana,2012,9,1,Minimal
+Indiana,2012,9,1,Minimal
+Indiana,2010,11,1,Minimal
+Indiana,2010,12,1,Minimal
+Indiana,2011,1,2,Minimal
+Indiana,2011,2,10,High
+Indiana,2011,3,8,High
+Indiana,2011,4,1,Minimal
+Indiana,2011,5,1,Minimal
+Indiana,2011,6,1,Minimal
+Indiana,2011,7,1,Minimal
+Indiana,2011,8,1,Minimal
+Indiana,2011,9,1,Minimal
+Indiana,2011,10,1,Minimal
+Indiana,2009,9,4,Low
+Indiana,2009,10,6,Moderate
+Indiana,2009,11,10,High
+Indiana,2009,12,2,Minimal
+Indiana,2010,1,1,Minimal
+Indiana,2010,2,1,Minimal
+Indiana,2010,3,1,Minimal
+Indiana,2010,4,1,Minimal
+Indiana,2010,5,1,Minimal
+Indiana,2010,6,1,Minimal
+Indiana,2010,7,1,Minimal
+Indiana,2010,8,1,Minimal
+Indiana,2010,9,1,Minimal
+Indiana,2010,10,1,Minimal
+Indiana,2009,1,1,Minimal
+Indiana,2009,2,4,Low
+Indiana,2009,3,5,Low
+Indiana,2009,4,1,Minimal
+Indiana,2009,5,1,Minimal
+Indiana,2009,6,1,Minimal
+Indiana,2009,7,1,Minimal
+Indiana,2009,8,1,Minimal
+Indiana,2009,8,1,Minimal
+Iowa,2015,11,1,Minimal
+Iowa,2015,12,1,Minimal
+Iowa,2014,11,2,Minimal
+Iowa,2014,12,2,Minimal
+Iowa,2015,1,8,High
+Iowa,2015,2,2,Minimal
+Iowa,2015,3,1,Minimal
+Iowa,2015,4,1,Minimal
+Iowa,2015,5,1,Minimal
+Iowa,2015,6,1,Minimal
+Iowa,2015,7,1,Minimal
+Iowa,2015,8,1,Minimal
+Iowa,2015,9,1,Minimal
+Iowa,2015,10,1,Minimal
+Iowa,2013,11,1,Minimal
+Iowa,2013,12,1,Minimal
+Iowa,2014,1,1,Minimal
+Iowa,2014,2,1,Minimal
+Iowa,2014,3,1,Minimal
+Iowa,2014,3,1,Minimal
+Iowa,2014,5,1,Minimal
+Iowa,2014,5,1,Minimal
+Iowa,2014,6,1,Minimal
+Iowa,2014,8,1,Minimal
+Iowa,2014,8,1,Minimal
+Iowa,2014,9,1,Minimal
+Iowa,2012,11,1,Minimal
+Iowa,2012,12,2,Minimal
+Iowa,2013,1,8,High
+Iowa,2013,2,4,Low
+Iowa,2013,3,1,Minimal
+Iowa,2013,3,1,Minimal
+Iowa,2013,5,1,Minimal
+Iowa,2013,6,1,Minimal
+Iowa,2013,6,1,Minimal
+Iowa,2013,8,1,Minimal
+Iowa,2013,8,0,Insufficient Data
+Iowa,2013,9,1,Minimal
+Iowa,2011,11,1,Minimal
+Iowa,2011,12,1,Minimal
+Iowa,2012,1,1,Minimal
+Iowa,2012,2,1,Minimal
+Iowa,2012,3,1,Minimal
+Iowa,2012,3,1,Minimal
+Iowa,2012,5,1,Minimal
+Iowa,2012,6,1,Minimal
+Iowa,2012,6,1,Minimal
+Iowa,2012,8,1,Minimal
+Iowa,2012,9,1,Minimal
+Iowa,2012,9,1,Minimal
+Iowa,2010,11,1,Minimal
+Iowa,2010,12,1,Minimal
+Iowa,2011,1,1,Minimal
+Iowa,2011,2,3,Minimal
+Iowa,2011,3,1,Minimal
+Iowa,2011,4,1,Minimal
+Iowa,2011,5,1,Minimal
+Iowa,2011,6,1,Minimal
+Iowa,2011,7,1,Minimal
+Iowa,2011,8,1,Minimal
+Iowa,2011,9,1,Minimal
+Iowa,2011,10,1,Minimal
+Iowa,2009,9,1,Minimal
+Iowa,2009,10,1,Minimal
+Iowa,2009,11,10,High
+Iowa,2009,12,1,Minimal
+Iowa,2010,1,1,Minimal
+Iowa,2010,2,1,Minimal
+Iowa,2010,3,1,Minimal
+Iowa,2010,4,1,Minimal
+Iowa,2010,5,1,Minimal
+Iowa,2010,6,1,Minimal
+Iowa,2010,7,1,Minimal
+Iowa,2010,9,1,Minimal
+Iowa,2010,10,1,Minimal
+Iowa,2009,1,1,Minimal
+Iowa,2009,2,1,Minimal
+Iowa,2009,3,3,Minimal
+Iowa,2009,4,1,Minimal
+Iowa,2009,5,1,Minimal
+Iowa,2009,6,1,Minimal
+Iowa,2009,7,1,Minimal
+Iowa,2009,8,1,Minimal
+Iowa,2009,8,1,Minimal
+Kansas,2015,11,1,Minimal
+Kansas,2015,12,1,Minimal
+Kansas,2014,11,1,Minimal
+Kansas,2014,12,4,Low
+Kansas,2015,1,10,High
+Kansas,2015,2,10,High
+Kansas,2015,3,10,High
+Kansas,2015,4,3,Minimal
+Kansas,2015,5,1,Minimal
+Kansas,2015,6,1,Minimal
+Kansas,2015,7,1,Minimal
+Kansas,2015,8,1,Minimal
+Kansas,2015,9,1,Minimal
+Kansas,2015,10,1,Minimal
+Kansas,2013,11,1,Minimal
+Kansas,2013,12,1,Minimal
+Kansas,2014,1,10,High
+Kansas,2014,2,10,High
+Kansas,2014,3,4,Low
+Kansas,2014,3,1,Minimal
+Kansas,2014,5,1,Minimal
+Kansas,2014,5,1,Minimal
+Kansas,2014,6,1,Minimal
+Kansas,2014,8,1,Minimal
+Kansas,2014,8,1,Minimal
+Kansas,2014,9,1,Minimal
+Kansas,2012,11,2,Minimal
+Kansas,2012,12,4,Low
+Kansas,2013,1,10,High
+Kansas,2013,2,10,High
+Kansas,2013,3,3,Minimal
+Kansas,2013,3,1,Minimal
+Kansas,2013,5,1,Minimal
+Kansas,2013,6,1,Minimal
+Kansas,2013,6,1,Minimal
+Kansas,2013,8,1,Minimal
+Kansas,2013,8,1,Minimal
+Kansas,2013,9,1,Minimal
+Kansas,2011,11,1,Minimal
+Kansas,2011,12,1,Minimal
+Kansas,2012,1,1,Minimal
+Kansas,2012,2,1,Minimal
+Kansas,2012,3,7,Moderate
+Kansas,2012,3,1,Minimal
+Kansas,2012,5,1,Minimal
+Kansas,2012,6,1,Minimal
+Kansas,2012,6,1,Minimal
+Kansas,2012,8,1,Minimal
+Kansas,2012,9,1,Minimal
+Kansas,2012,9,1,Minimal
+Kansas,2010,11,1,Minimal
+Kansas,2010,12,1,Minimal
+Kansas,2011,1,1,Minimal
+Kansas,2011,2,7,Moderate
+Kansas,2011,3,6,Moderate
+Kansas,2011,4,1,Minimal
+Kansas,2011,5,1,Minimal
+Kansas,2011,6,1,Minimal
+Kansas,2011,7,1,Minimal
+Kansas,2011,8,1,Minimal
+Kansas,2011,9,1,Minimal
+Kansas,2011,10,1,Minimal
+Kansas,2009,9,4,Low
+Kansas,2009,10,10,High
+Kansas,2009,11,10,High
+Kansas,2009,12,1,Minimal
+Kansas,2010,1,1,Minimal
+Kansas,2010,2,1,Minimal
+Kansas,2010,3,1,Minimal
+Kansas,2010,4,1,Minimal
+Kansas,2010,5,1,Minimal
+Kansas,2010,6,1,Minimal
+Kansas,2010,7,1,Minimal
+Kansas,2010,8,1,Minimal
+Kansas,2010,9,1,Minimal
+Kansas,2010,10,1,Minimal
+Kansas,2009,1,1,Minimal
+Kansas,2009,2,1,Minimal
+Kansas,2009,3,6,Moderate
+Kansas,2009,4,1,Minimal
+Kansas,2009,5,1,Minimal
+Kansas,2009,6,1,Minimal
+Kansas,2009,7,1,Minimal
+Kansas,2009,8,1,Minimal
+Kansas,2009,8,1,Minimal
+Kentucky,2015,11,1,Minimal
+Kentucky,2015,12,1,Minimal
+Kentucky,2014,11,1,Minimal
+Kentucky,2014,12,3,Minimal
+Kentucky,2015,1,7,Moderate
+Kentucky,2015,2,2,Minimal
+Kentucky,2015,3,1,Minimal
+Kentucky,2015,4,1,Minimal
+Kentucky,2015,5,1,Minimal
+Kentucky,2015,6,1,Minimal
+Kentucky,2015,7,1,Minimal
+Kentucky,2015,8,1,Minimal
+Kentucky,2015,9,1,Minimal
+Kentucky,2015,10,1,Minimal
+Kentucky,2013,11,2,Minimal
+Kentucky,2013,12,2,Minimal
+Kentucky,2014,1,6,Moderate
+Kentucky,2014,2,4,Low
+Kentucky,2014,3,2,Minimal
+Kentucky,2014,3,1,Minimal
+Kentucky,2014,5,1,Minimal
+Kentucky,2014,5,1,Minimal
+Kentucky,2014,6,1,Minimal
+Kentucky,2014,8,1,Minimal
+Kentucky,2014,8,1,Minimal
+Kentucky,2014,9,1,Minimal
+Kentucky,2012,11,1,Minimal
+Kentucky,2012,12,1,Minimal
+Kentucky,2013,1,3,Minimal
+Kentucky,2013,2,3,Minimal
+Kentucky,2013,3,2,Minimal
+Kentucky,2013,3,1,Minimal
+Kentucky,2013,5,1,Minimal
+Kentucky,2013,6,1,Minimal
+Kentucky,2013,6,1,Minimal
+Kentucky,2013,8,1,Minimal
+Kentucky,2013,8,0,Insufficient Data
+Kentucky,2013,9,1,Minimal
+Kentucky,2011,11,1,Minimal
+Kentucky,2011,12,1,Minimal
+Kentucky,2012,1,1,Minimal
+Kentucky,2012,2,1,Minimal
+Kentucky,2012,3,1,Minimal
+Kentucky,2012,3,1,Minimal
+Kentucky,2012,5,1,Minimal
+Kentucky,2012,6,1,Minimal
+Kentucky,2012,6,1,Minimal
+Kentucky,2012,8,1,Minimal
+Kentucky,2012,9,1,Minimal
+Kentucky,2012,9,1,Minimal
+Kentucky,2010,11,1,Minimal
+Kentucky,2010,12,1,Minimal
+Kentucky,2011,1,3,Minimal
+Kentucky,2011,2,7,Moderate
+Kentucky,2011,3,4,Low
+Kentucky,2011,4,1,Minimal
+Kentucky,2011,5,1,Minimal
+Kentucky,2011,6,1,Minimal
+Kentucky,2011,7,1,Minimal
+Kentucky,2011,8,1,Minimal
+Kentucky,2011,9,1,Minimal
+Kentucky,2011,10,1,Minimal
+Kentucky,2009,9,10,High
+Kentucky,2009,10,10,High
+Kentucky,2009,11,5,Low
+Kentucky,2009,12,1,Minimal
+Kentucky,2010,1,1,Minimal
+Kentucky,2010,2,1,Minimal
+Kentucky,2010,3,1,Minimal
+Kentucky,2010,4,1,Minimal
+Kentucky,2010,5,1,Minimal
+Kentucky,2010,6,1,Minimal
+Kentucky,2010,7,1,Minimal
+Kentucky,2010,8,1,Minimal
+Kentucky,2010,9,1,Minimal
+Kentucky,2010,10,1,Minimal
+Kentucky,2009,1,1,Minimal
+Kentucky,2009,2,3,Minimal
+Kentucky,2009,3,5,Low
+Kentucky,2009,4,2,Minimal
+Kentucky,2009,5,1,Minimal
+Kentucky,2009,6,1,Minimal
+Kentucky,2009,7,1,Minimal
+Kentucky,2009,8,1,Minimal
+Kentucky,2009,8,1,Minimal
+Louisiana,2015,11,1,Minimal
+Louisiana,2015,12,2,Minimal
+Louisiana,2014,11,3,Minimal
+Louisiana,2014,12,10,High
+Louisiana,2015,1,10,High
+Louisiana,2015,2,9,High
+Louisiana,2015,3,5,Low
+Louisiana,2015,4,3,Minimal
+Louisiana,2015,5,1,Minimal
+Louisiana,2015,6,1,Minimal
+Louisiana,2015,7,1,Minimal
+Louisiana,2015,8,1,Minimal
+Louisiana,2015,9,1,Minimal
+Louisiana,2015,10,1,Minimal
+Louisiana,2013,11,4,Low
+Louisiana,2013,12,8,High
+Louisiana,2014,1,10,High
+Louisiana,2014,2,8,High
+Louisiana,2014,3,4,Low
+Louisiana,2014,3,2,Minimal
+Louisiana,2014,5,1,Minimal
+Louisiana,2014,5,1,Minimal
+Louisiana,2014,6,1,Minimal
+Louisiana,2014,8,1,Minimal
+Louisiana,2014,8,1,Minimal
+Louisiana,2014,9,1,Minimal
+Louisiana,2012,11,4,Low
+Louisiana,2012,12,10,High
+Louisiana,2013,1,10,High
+Louisiana,2013,2,8,High
+Louisiana,2013,3,3,Minimal
+Louisiana,2013,3,3,Minimal
+Louisiana,2013,5,1,Minimal
+Louisiana,2013,6,1,Minimal
+Louisiana,2013,6,1,Minimal
+Louisiana,2013,8,1,Minimal
+Louisiana,2013,8,1,Minimal
+Louisiana,2013,9,1,Minimal
+Louisiana,2011,11,2,Minimal
+Louisiana,2011,12,2,Minimal
+Louisiana,2012,1,4,Low
+Louisiana,2012,2,1,Minimal
+Louisiana,2012,3,2,Minimal
+Louisiana,2012,3,3,Minimal
+Louisiana,2012,5,1,Minimal
+Louisiana,2012,6,1,Minimal
+Louisiana,2012,6,1,Minimal
+Louisiana,2012,8,1,Minimal
+Louisiana,2012,9,1,Minimal
+Louisiana,2012,9,1,Minimal
+Louisiana,2010,11,1,Minimal
+Louisiana,2010,12,2,Minimal
+Louisiana,2011,1,7,Moderate
+Louisiana,2011,2,10,High
+Louisiana,2011,3,6,Moderate
+Louisiana,2011,4,1,Minimal
+Louisiana,2011,5,1,Minimal
+Louisiana,2011,6,1,Minimal
+Louisiana,2011,7,1,Minimal
+Louisiana,2011,8,1,Minimal
+Louisiana,2011,9,1,Minimal
+Louisiana,2011,10,1,Minimal
+Louisiana,2009,9,10,High
+Louisiana,2009,10,10,High
+Louisiana,2009,11,10,High
+Louisiana,2009,12,8,High
+Louisiana,2010,1,6,Moderate
+Louisiana,2010,2,9,High
+Louisiana,2010,3,6,Moderate
+Louisiana,2010,4,1,Minimal
+Louisiana,2010,5,1,Minimal
+Louisiana,2010,6,1,Minimal
+Louisiana,2010,7,1,Minimal
+Louisiana,2010,8,1,Minimal
+Louisiana,2010,9,1,Minimal
+Louisiana,2010,10,1,Minimal
+Louisiana,2009,1,1,Minimal
+Louisiana,2009,2,9,High
+Louisiana,2009,3,3,Minimal
+Louisiana,2009,4,1,Minimal
+Louisiana,2009,5,10,High
+Louisiana,2009,6,1,Minimal
+Louisiana,2009,7,1,Minimal
+Louisiana,2009,8,1,Minimal
+Louisiana,2009,8,1,Minimal
+Maine,2015,11,1,Minimal
+Maine,2015,12,1,Minimal
+Maine,2014,11,1,Minimal
+Maine,2014,12,1,Minimal
+Maine,2015,1,3,Minimal
+Maine,2015,2,4,Low
+Maine,2015,3,2,Minimal
+Maine,2015,4,1,Minimal
+Maine,2015,5,1,Minimal
+Maine,2015,6,1,Minimal
+Maine,2015,7,1,Minimal
+Maine,2015,8,1,Minimal
+Maine,2015,9,1,Minimal
+Maine,2015,10,1,Minimal
+Maine,2013,11,1,Minimal
+Maine,2013,12,1,Minimal
+Maine,2014,1,1,Minimal
+Maine,2014,2,2,Minimal
+Maine,2014,3,1,Minimal
+Maine,2014,3,1,Minimal
+Maine,2014,5,1,Minimal
+Maine,2014,5,1,Minimal
+Maine,2014,6,1,Minimal
+Maine,2014,8,1,Minimal
+Maine,2014,8,1,Minimal
+Maine,2014,9,1,Minimal
+Maine,2012,11,1,Minimal
+Maine,2012,12,1,Minimal
+Maine,2013,1,4,Low
+Maine,2013,2,1,Minimal
+Maine,2013,3,1,Minimal
+Maine,2013,3,1,Minimal
+Maine,2013,5,1,Minimal
+Maine,2013,6,1,Minimal
+Maine,2013,6,1,Minimal
+Maine,2013,8,1,Minimal
+Maine,2013,8,1,Minimal
+Maine,2013,9,1,Minimal
+Maine,2011,11,1,Minimal
+Maine,2011,12,1,Minimal
+Maine,2012,1,1,Minimal
+Maine,2012,2,1,Minimal
+Maine,2012,3,1,Minimal
+Maine,2012,3,1,Minimal
+Maine,2012,5,1,Minimal
+Maine,2012,6,1,Minimal
+Maine,2012,6,1,Minimal
+Maine,2012,8,1,Minimal
+Maine,2012,9,1,Minimal
+Maine,2012,9,1,Minimal
+Maine,2010,11,1,Minimal
+Maine,2010,12,1,Minimal
+Maine,2011,1,1,Minimal
+Maine,2011,2,1,Minimal
+Maine,2011,3,2,Minimal
+Maine,2011,4,1,Minimal
+Maine,2011,5,1,Minimal
+Maine,2011,6,1,Minimal
+Maine,2011,7,1,Minimal
+Maine,2011,8,1,Minimal
+Maine,2011,9,1,Minimal
+Maine,2011,10,1,Minimal
+Maine,2009,9,1,Minimal
+Maine,2009,10,1,Minimal
+Maine,2009,11,6,Moderate
+Maine,2009,12,1,Minimal
+Maine,2010,1,1,Minimal
+Maine,2010,2,1,Minimal
+Maine,2010,3,1,Minimal
+Maine,2010,4,1,Minimal
+Maine,2010,5,1,Minimal
+Maine,2010,6,1,Minimal
+Maine,2010,7,1,Minimal
+Maine,2010,8,1,Minimal
+Maine,2010,9,1,Minimal
+Maine,2010,10,1,Minimal
+Maine,2009,1,1,Minimal
+Maine,2009,2,2,Minimal
+Maine,2009,3,4,Low
+Maine,2009,4,1,Minimal
+Maine,2009,5,1,Minimal
+Maine,2009,6,1,Minimal
+Maine,2009,7,2,Minimal
+Maine,2009,8,1,Minimal
+Maine,2009,8,1,Minimal
+Maryland,2015,11,1,Minimal
+Maryland,2015,12,2,Minimal
+Maryland,2014,11,1,Minimal
+Maryland,2014,12,2,Minimal
+Maryland,2015,1,5,Low
+Maryland,2015,2,2,Minimal
+Maryland,2015,3,1,Minimal
+Maryland,2015,4,1,Minimal
+Maryland,2015,5,1,Minimal
+Maryland,2015,6,1,Minimal
+Maryland,2015,7,1,Minimal
+Maryland,2015,8,1,Minimal
+Maryland,2015,9,1,Minimal
+Maryland,2015,10,1,Minimal
+Maryland,2013,11,1,Minimal
+Maryland,2013,12,1,Minimal
+Maryland,2014,1,4,Low
+Maryland,2014,2,2,Minimal
+Maryland,2014,3,1,Minimal
+Maryland,2014,3,1,Minimal
+Maryland,2014,5,1,Minimal
+Maryland,2014,5,1,Minimal
+Maryland,2014,6,1,Minimal
+Maryland,2014,8,1,Minimal
+Maryland,2014,8,0,Insufficient Data
+Maryland,2014,9,1,Minimal
+Maryland,2012,11,1,Minimal
+Maryland,2012,12,1,Minimal
+Maryland,2013,1,5,Low
+Maryland,2013,2,4,Low
+Maryland,2013,3,3,Minimal
+Maryland,2013,3,4,Low
+Maryland,2013,5,1,Minimal
+Maryland,2013,6,1,Minimal
+Maryland,2013,6,1,Minimal
+Maryland,2013,8,1,Minimal
+Maryland,2013,8,1,Minimal
+Maryland,2013,9,1,Minimal
+Maryland,2011,11,2,Minimal
+Maryland,2011,12,1,Minimal
+Maryland,2012,1,1,Minimal
+Maryland,2012,2,2,Minimal
+Maryland,2012,3,2,Minimal
+Maryland,2012,3,1,Minimal
+Maryland,2012,5,1,Minimal
+Maryland,2012,6,1,Minimal
+Maryland,2012,6,0,Insufficient Data
+Maryland,2012,8,0,Insufficient Data
+Maryland,2012,9,0,Insufficient Data
+Maryland,2012,9,3,Minimal
+Maryland,2010,11,1,Minimal
+Maryland,2010,12,1,Minimal
+Maryland,2011,1,1,Minimal
+Maryland,2011,2,7,Moderate
+Maryland,2011,3,2,Minimal
+Maryland,2011,4,1,Minimal
+Maryland,2011,5,1,Minimal
+Maryland,2011,6,1,Minimal
+Maryland,2011,7,1,Minimal
+Maryland,2011,8,1,Minimal
+Maryland,2011,9,1,Minimal
+Maryland,2011,10,2,Minimal
+Maryland,2009,9,1,Minimal
+Maryland,2009,10,6,Moderate
+Maryland,2009,11,10,High
+Maryland,2009,12,4,Low
+Maryland,2010,1,2,Minimal
+Maryland,2010,2,3,Minimal
+Maryland,2010,3,2,Minimal
+Maryland,2010,4,1,Minimal
+Maryland,2010,5,1,Minimal
+Maryland,2010,6,1,Minimal
+Maryland,2010,7,1,Minimal
+Maryland,2010,8,1,Minimal
+Maryland,2010,9,2,Minimal
+Maryland,2010,10,0,Insufficient Data
+Maryland,2009,1,1,Minimal
+Maryland,2009,2,6,Moderate
+Maryland,2009,3,9,High
+Maryland,2009,4,1,Minimal
+Maryland,2009,5,1,Minimal
+Maryland,2009,6,1,Minimal
+Maryland,2009,7,1,Minimal
+Maryland,2009,8,1,Minimal
+Maryland,2009,8,1,Minimal
+Massachusetts,2015,11,1,Minimal
+Massachusetts,2015,12,1,Minimal
+Massachusetts,2014,11,1,Minimal
+Massachusetts,2014,12,2,Minimal
+Massachusetts,2015,1,4,Low
+Massachusetts,2015,2,6,Moderate
+Massachusetts,2015,3,3,Minimal
+Massachusetts,2015,4,3,Minimal
+Massachusetts,2015,5,2,Minimal
+Massachusetts,2015,6,1,Minimal
+Massachusetts,2015,7,1,Minimal
+Massachusetts,2015,8,1,Minimal
+Massachusetts,2015,9,1,Minimal
+Massachusetts,2015,10,1,Minimal
+Massachusetts,2013,11,1,Minimal
+Massachusetts,2013,12,1,Minimal
+Massachusetts,2014,1,4,Low
+Massachusetts,2014,2,3,Minimal
+Massachusetts,2014,3,2,Minimal
+Massachusetts,2014,3,2,Minimal
+Massachusetts,2014,5,2,Minimal
+Massachusetts,2014,5,1,Minimal
+Massachusetts,2014,6,1,Minimal
+Massachusetts,2014,8,1,Minimal
+Massachusetts,2014,8,1,Minimal
+Massachusetts,2014,9,1,Minimal
+Massachusetts,2012,11,1,Minimal
+Massachusetts,2012,12,3,Minimal
+Massachusetts,2013,1,7,Moderate
+Massachusetts,2013,2,4,Low
+Massachusetts,2013,3,2,Minimal
+Massachusetts,2013,3,3,Minimal
+Massachusetts,2013,5,1,Minimal
+Massachusetts,2013,6,1,Minimal
+Massachusetts,2013,6,1,Minimal
+Massachusetts,2013,8,1,Minimal
+Massachusetts,2013,8,1,Minimal
+Massachusetts,2013,9,1,Minimal
+Massachusetts,2011,11,1,Minimal
+Massachusetts,2011,12,1,Minimal
+Massachusetts,2012,1,2,Minimal
+Massachusetts,2012,2,2,Minimal
+Massachusetts,2012,3,1,Minimal
+Massachusetts,2012,3,1,Minimal
+Massachusetts,2012,5,1,Minimal
+Massachusetts,2012,6,1,Minimal
+Massachusetts,2012,6,1,Minimal
+Massachusetts,2012,8,1,Minimal
+Massachusetts,2012,9,1,Minimal
+Massachusetts,2012,9,1,Minimal
+Massachusetts,2010,11,1,Minimal
+Massachusetts,2010,12,1,Minimal
+Massachusetts,2011,1,2,Minimal
+Massachusetts,2011,2,5,Low
+Massachusetts,2011,3,3,Minimal
+Massachusetts,2011,4,2,Minimal
+Massachusetts,2011,5,1,Minimal
+Massachusetts,2011,6,1,Minimal
+Massachusetts,2011,7,1,Minimal
+Massachusetts,2011,8,1,Minimal
+Massachusetts,2011,9,1,Minimal
+Massachusetts,2011,10,1,Minimal
+Massachusetts,2009,9,1,Minimal
+Massachusetts,2009,10,1,Minimal
+Massachusetts,2009,11,10,High
+Massachusetts,2009,12,1,Minimal
+Massachusetts,2010,1,1,Minimal
+Massachusetts,2010,2,1,Minimal
+Massachusetts,2010,3,1,Minimal
+Massachusetts,2010,4,1,Minimal
+Massachusetts,2010,5,1,Minimal
+Massachusetts,2010,6,1,Minimal
+Massachusetts,2010,7,1,Minimal
+Massachusetts,2010,8,1,Minimal
+Massachusetts,2010,9,1,Minimal
+Massachusetts,2010,10,1,Minimal
+Massachusetts,2009,1,1,Minimal
+Massachusetts,2009,2,4,Low
+Massachusetts,2009,3,1,Minimal
+Massachusetts,2009,4,1,Minimal
+Massachusetts,2009,5,1,Minimal
+Massachusetts,2009,6,5,Low
+Massachusetts,2009,7,2,Minimal
+Massachusetts,2009,8,1,Minimal
+Massachusetts,2009,8,1,Minimal
+Michigan,2015,11,1,Minimal
+Michigan,2015,12,1,Minimal
+Michigan,2014,11,1,Minimal
+Michigan,2014,12,1,Minimal
+Michigan,2015,1,2,Minimal
+Michigan,2015,2,1,Minimal
+Michigan,2015,3,1,Minimal
+Michigan,2015,4,1,Minimal
+Michigan,2015,5,1,Minimal
+Michigan,2015,6,1,Minimal
+Michigan,2015,7,1,Minimal
+Michigan,2015,8,1,Minimal
+Michigan,2015,9,1,Minimal
+Michigan,2015,10,1,Minimal
+Michigan,2013,11,1,Minimal
+Michigan,2013,12,2,Minimal
+Michigan,2014,1,6,Moderate
+Michigan,2014,2,3,Minimal
+Michigan,2014,3,1,Minimal
+Michigan,2014,3,1,Minimal
+Michigan,2014,5,1,Minimal
+Michigan,2014,5,1,Minimal
+Michigan,2014,6,1,Minimal
+Michigan,2014,8,1,Minimal
+Michigan,2014,8,1,Minimal
+Michigan,2014,9,1,Minimal
+Michigan,2012,11,1,Minimal
+Michigan,2012,12,2,Minimal
+Michigan,2013,1,9,High
+Michigan,2013,2,7,Moderate
+Michigan,2013,3,5,Low
+Michigan,2013,3,3,Minimal
+Michigan,2013,5,1,Minimal
+Michigan,2013,6,2,Minimal
+Michigan,2013,6,1,Minimal
+Michigan,2013,8,1,Minimal
+Michigan,2013,8,1,Minimal
+Michigan,2013,9,1,Minimal
+Michigan,2011,11,1,Minimal
+Michigan,2011,12,1,Minimal
+Michigan,2012,1,1,Minimal
+Michigan,2012,2,1,Minimal
+Michigan,2012,3,1,Minimal
+Michigan,2012,3,1,Minimal
+Michigan,2012,5,1,Minimal
+Michigan,2012,6,1,Minimal
+Michigan,2012,6,1,Minimal
+Michigan,2012,8,1,Minimal
+Michigan,2012,9,1,Minimal
+Michigan,2012,9,1,Minimal
+Michigan,2010,11,1,Minimal
+Michigan,2010,12,1,Minimal
+Michigan,2011,1,1,Minimal
+Michigan,2011,2,1,Minimal
+Michigan,2011,3,2,Minimal
+Michigan,2011,4,1,Minimal
+Michigan,2011,5,1,Minimal
+Michigan,2011,6,1,Minimal
+Michigan,2011,7,1,Minimal
+Michigan,2011,8,1,Minimal
+Michigan,2011,9,1,Minimal
+Michigan,2011,10,1,Minimal
+Michigan,2009,9,1,Minimal
+Michigan,2009,10,1,Minimal
+Michigan,2009,11,10,High
+Michigan,2009,12,2,Minimal
+Michigan,2010,1,1,Minimal
+Michigan,2010,2,1,Minimal
+Michigan,2010,3,1,Minimal
+Michigan,2010,4,1,Minimal
+Michigan,2010,5,1,Minimal
+Michigan,2010,6,1,Minimal
+Michigan,2010,7,1,Minimal
+Michigan,2010,8,1,Minimal
+Michigan,2010,9,1,Minimal
+Michigan,2010,10,1,Minimal
+Michigan,2009,1,1,Minimal
+Michigan,2009,2,1,Minimal
+Michigan,2009,3,1,Minimal
+Michigan,2009,4,1,Minimal
+Michigan,2009,5,1,Minimal
+Michigan,2009,6,1,Minimal
+Michigan,2009,7,1,Minimal
+Michigan,2009,8,1,Minimal
+Michigan,2009,7,1,Minimal
+Michigan,2009,8,1,Minimal
+Minnesota,2015,11,1,Minimal
+Minnesota,2015,12,3,Minimal
+Minnesota,2014,11,1,Minimal
+Minnesota,2014,12,2,Minimal
+Minnesota,2015,1,8,High
+Minnesota,2015,2,5,Low
+Minnesota,2015,3,4,Low
+Minnesota,2015,4,5,Low
+Minnesota,2015,5,1,Minimal
+Minnesota,2015,6,1,Minimal
+Minnesota,2015,7,1,Minimal
+Minnesota,2015,8,1,Minimal
+Minnesota,2015,9,1,Minimal
+Minnesota,2015,10,1,Minimal
+Minnesota,2013,11,2,Minimal
+Minnesota,2013,12,1,Minimal
+Minnesota,2014,1,7,Moderate
+Minnesota,2014,2,5,Low
+Minnesota,2014,3,3,Minimal
+Minnesota,2014,3,3,Minimal
+Minnesota,2014,5,3,Minimal
+Minnesota,2014,5,1,Minimal
+Minnesota,2014,6,1,Minimal
+Minnesota,2014,8,1,Minimal
+Minnesota,2014,8,1,Minimal
+Minnesota,2014,9,1,Minimal
+Minnesota,2012,11,1,Minimal
+Minnesota,2012,12,1,Minimal
+Minnesota,2013,1,10,High
+Minnesota,2013,2,6,Moderate
+Minnesota,2013,3,3,Minimal
+Minnesota,2013,3,1,Minimal
+Minnesota,2013,5,1,Minimal
+Minnesota,2013,6,1,Minimal
+Minnesota,2013,6,1,Minimal
+Minnesota,2013,8,1,Minimal
+Minnesota,2013,8,1,Minimal
+Minnesota,2013,9,1,Minimal
+Minnesota,2011,11,1,Minimal
+Minnesota,2011,12,1,Minimal
+Minnesota,2012,1,1,Minimal
+Minnesota,2012,2,1,Minimal
+Minnesota,2012,3,3,Minimal
+Minnesota,2012,3,1,Minimal
+Minnesota,2012,5,1,Minimal
+Minnesota,2012,6,1,Minimal
+Minnesota,2012,6,1,Minimal
+Minnesota,2012,8,1,Minimal
+Minnesota,2012,9,1,Minimal
+Minnesota,2012,9,1,Minimal
+Minnesota,2010,11,1,Minimal
+Minnesota,2010,12,1,Minimal
+Minnesota,2011,1,1,Minimal
+Minnesota,2011,2,3,Minimal
+Minnesota,2011,3,5,Low
+Minnesota,2011,4,2,Minimal
+Minnesota,2011,5,1,Minimal
+Minnesota,2011,6,1,Minimal
+Minnesota,2011,7,1,Minimal
+Minnesota,2011,8,1,Minimal
+Minnesota,2011,9,1,Minimal
+Minnesota,2011,10,1,Minimal
+Minnesota,2009,9,1,Minimal
+Minnesota,2009,10,1,Minimal
+Minnesota,2009,11,4,Low
+Minnesota,2009,12,1,Minimal
+Minnesota,2010,1,1,Minimal
+Minnesota,2010,2,1,Minimal
+Minnesota,2010,3,1,Minimal
+Minnesota,2010,4,1,Minimal
+Minnesota,2010,5,1,Minimal
+Minnesota,2010,6,1,Minimal
+Minnesota,2010,7,1,Minimal
+Minnesota,2010,8,1,Minimal
+Minnesota,2010,9,1,Minimal
+Minnesota,2010,10,1,Minimal
+Minnesota,2009,1,1,Minimal
+Minnesota,2009,2,1,Minimal
+Minnesota,2009,3,1,Minimal
+Minnesota,2009,4,1,Minimal
+Minnesota,2009,5,1,Minimal
+Minnesota,2009,6,1,Minimal
+Minnesota,2009,7,1,Minimal
+Minnesota,2009,8,1,Minimal
+Minnesota,2009,7,1,Minimal
+Minnesota,2009,8,1,Minimal
+Mississippi,2015,11,1,Minimal
+Mississippi,2015,12,3,Minimal
+Mississippi,2014,11,1,Minimal
+Mississippi,2014,12,10,High
+Mississippi,2015,1,10,High
+Mississippi,2015,2,10,High
+Mississippi,2015,3,10,High
+Mississippi,2015,4,3,Minimal
+Mississippi,2015,5,1,Minimal
+Mississippi,2015,6,1,Minimal
+Mississippi,2015,7,1,Minimal
+Mississippi,2015,8,1,Minimal
+Mississippi,2015,9,1,Minimal
+Mississippi,2015,10,1,Minimal
+Mississippi,2013,11,6,Moderate
+Mississippi,2013,12,10,High
+Mississippi,2014,1,10,High
+Mississippi,2014,2,6,Moderate
+Mississippi,2014,3,2,Minimal
+Mississippi,2014,3,1,Minimal
+Mississippi,2014,5,1,Minimal
+Mississippi,2014,5,1,Minimal
+Mississippi,2014,6,1,Minimal
+Mississippi,2014,8,1,Minimal
+Mississippi,2014,8,1,Minimal
+Mississippi,2014,9,1,Minimal
+Mississippi,2012,11,2,Minimal
+Mississippi,2012,12,10,High
+Mississippi,2013,1,10,High
+Mississippi,2013,2,7,Moderate
+Mississippi,2013,3,5,Low
+Mississippi,2013,3,2,Minimal
+Mississippi,2013,5,1,Minimal
+Mississippi,2013,6,1,Minimal
+Mississippi,2013,6,1,Minimal
+Mississippi,2013,8,1,Minimal
+Mississippi,2013,8,1,Minimal
+Mississippi,2013,9,1,Minimal
+Mississippi,2011,11,1,Minimal
+Mississippi,2011,12,3,Minimal
+Mississippi,2012,1,1,Minimal
+Mississippi,2012,2,2,Minimal
+Mississippi,2012,3,5,Low
+Mississippi,2012,3,3,Minimal
+Mississippi,2012,5,1,Minimal
+Mississippi,2012,6,1,Minimal
+Mississippi,2012,6,1,Minimal
+Mississippi,2012,8,1,Minimal
+Mississippi,2012,9,1,Minimal
+Mississippi,2012,9,1,Minimal
+Mississippi,2010,11,1,Minimal
+Mississippi,2010,12,5,Low
+Mississippi,2011,1,9,High
+Mississippi,2011,2,9,High
+Mississippi,2011,3,1,Minimal
+Mississippi,2011,4,1,Minimal
+Mississippi,2011,5,1,Minimal
+Mississippi,2011,6,1,Minimal
+Mississippi,2011,7,1,Minimal
+Mississippi,2011,8,1,Minimal
+Mississippi,2011,9,1,Minimal
+Mississippi,2011,10,1,Minimal
+Mississippi,2009,9,10,High
+Mississippi,2009,10,10,High
+Mississippi,2009,11,2,Minimal
+Mississippi,2009,12,5,Low
+Mississippi,2010,1,2,Minimal
+Mississippi,2010,2,5,Low
+Mississippi,2010,3,6,Moderate
+Mississippi,2010,4,1,Minimal
+Mississippi,2010,5,1,Minimal
+Mississippi,2010,6,1,Minimal
+Mississippi,2010,7,1,Minimal
+Mississippi,2010,8,1,Minimal
+Mississippi,2010,9,1,Minimal
+Mississippi,2010,10,1,Minimal
+Mississippi,2009,1,4,Low
+Mississippi,2009,2,10,High
+Mississippi,2009,3,10,High
+Mississippi,2009,4,2,Minimal
+Mississippi,2009,5,1,Minimal
+Mississippi,2009,6,1,Minimal
+Mississippi,2009,7,1,Minimal
+Mississippi,2009,8,1,Minimal
+Mississippi,2009,7,1,Minimal
+Mississippi,2009,8,1,Minimal
+Missouri,2015,11,2,Minimal
+Missouri,2015,12,1,Minimal
+Missouri,2014,11,1,Minimal
+Missouri,2014,12,5,Low
+Missouri,2015,1,10,High
+Missouri,2015,2,6,Moderate
+Missouri,2015,3,4,Low
+Missouri,2015,4,3,Minimal
+Missouri,2015,5,1,Minimal
+Missouri,2015,6,1,Minimal
+Missouri,2015,7,1,Minimal
+Missouri,2015,8,1,Minimal
+Missouri,2015,9,1,Minimal
+Missouri,2015,10,1,Minimal
+Missouri,2013,11,1,Minimal
+Missouri,2013,12,3,Minimal
+Missouri,2014,1,10,High
+Missouri,2014,2,7,Moderate
+Missouri,2014,3,2,Minimal
+Missouri,2014,3,1,Minimal
+Missouri,2014,5,1,Minimal
+Missouri,2014,5,1,Minimal
+Missouri,2014,6,1,Minimal
+Missouri,2014,8,1,Minimal
+Missouri,2014,8,1,Minimal
+Missouri,2014,9,1,Minimal
+Missouri,2012,11,1,Minimal
+Missouri,2012,12,5,Low
+Missouri,2013,1,10,High
+Missouri,2013,2,10,High
+Missouri,2013,3,3,Minimal
+Missouri,2013,3,1,Minimal
+Missouri,2013,5,1,Minimal
+Missouri,2013,6,1,Minimal
+Missouri,2013,6,1,Minimal
+Missouri,2013,8,1,Minimal
+Missouri,2013,8,1,Minimal
+Missouri,2013,9,1,Minimal
+Missouri,2011,11,1,Minimal
+Missouri,2011,12,1,Minimal
+Missouri,2012,1,1,Minimal
+Missouri,2012,2,6,Moderate
+Missouri,2012,3,9,High
+Missouri,2012,3,1,Minimal
+Missouri,2012,5,1,Minimal
+Missouri,2012,6,1,Minimal
+Missouri,2012,6,1,Minimal
+Missouri,2012,8,1,Minimal
+Missouri,2012,9,1,Minimal
+Missouri,2012,9,1,Minimal
+Missouri,2010,11,1,Minimal
+Missouri,2010,12,1,Minimal
+Missouri,2011,1,1,Minimal
+Missouri,2011,2,9,High
+Missouri,2011,3,6,Moderate
+Missouri,2011,4,1,Minimal
+Missouri,2011,5,1,Minimal
+Missouri,2011,6,1,Minimal
+Missouri,2011,7,1,Minimal
+Missouri,2011,8,1,Minimal
+Missouri,2011,9,1,Minimal
+Missouri,2011,10,1,Minimal
+Missouri,2009,9,10,High
+Missouri,2009,10,10,High
+Missouri,2009,11,10,High
+Missouri,2009,12,2,Minimal
+Missouri,2010,1,1,Minimal
+Missouri,2010,2,1,Minimal
+Missouri,2010,3,5,Low
+Missouri,2010,4,1,Minimal
+Missouri,2010,5,1,Minimal
+Missouri,2010,6,1,Minimal
+Missouri,2010,7,1,Minimal
+Missouri,2010,8,1,Minimal
+Missouri,2010,9,1,Minimal
+Missouri,2010,10,1,Minimal
+Missouri,2009,1,1,Minimal
+Missouri,2009,2,1,Minimal
+Missouri,2009,3,3,Minimal
+Missouri,2009,4,1,Minimal
+Missouri,2009,5,1,Minimal
+Missouri,2009,6,1,Minimal
+Missouri,2009,7,1,Minimal
+Missouri,2009,8,1,Minimal
+Missouri,2009,7,1,Minimal
+Missouri,2009,8,1,Minimal
+Montana,2015,11,1,Minimal
+Montana,2015,12,1,Minimal
+Montana,2014,11,1,Minimal
+Montana,2014,12,1,Minimal
+Montana,2015,1,3,Minimal
+Montana,2015,2,2,Minimal
+Montana,2015,3,1,Minimal
+Montana,2015,4,1,Minimal
+Montana,2015,5,1,Minimal
+Montana,2015,6,1,Minimal
+Montana,2015,7,1,Minimal
+Montana,2015,8,1,Minimal
+Montana,2015,9,1,Minimal
+Montana,2015,10,1,Minimal
+Montana,2013,11,1,Minimal
+Montana,2013,12,1,Minimal
+Montana,2014,1,5,Low
+Montana,2014,2,1,Minimal
+Montana,2014,3,1,Minimal
+Montana,2014,3,1,Minimal
+Montana,2014,5,1,Minimal
+Montana,2014,5,1,Minimal
+Montana,2014,6,1,Minimal
+Montana,2014,8,1,Minimal
+Montana,2014,8,1,Minimal
+Montana,2014,9,1,Minimal
+Montana,2012,11,1,Minimal
+Montana,2012,12,1,Minimal
+Montana,2013,1,1,Minimal
+Montana,2013,2,2,Minimal
+Montana,2013,3,1,Minimal
+Montana,2013,3,1,Minimal
+Montana,2013,5,1,Minimal
+Montana,2013,6,1,Minimal
+Montana,2013,6,1,Minimal
+Montana,2013,8,1,Minimal
+Montana,2013,8,1,Minimal
+Montana,2013,9,1,Minimal
+Montana,2011,11,1,Minimal
+Montana,2011,12,1,Minimal
+Montana,2012,1,1,Minimal
+Montana,2012,2,1,Minimal
+Montana,2012,3,1,Minimal
+Montana,2012,3,1,Minimal
+Montana,2012,5,1,Minimal
+Montana,2012,6,1,Minimal
+Montana,2012,6,1,Minimal
+Montana,2012,8,1,Minimal
+Montana,2012,9,1,Minimal
+Montana,2012,9,1,Minimal
+Montana,2010,11,1,Minimal
+Montana,2010,12,1,Minimal
+Montana,2011,1,1,Minimal
+Montana,2011,2,2,Minimal
+Montana,2011,3,3,Minimal
+Montana,2011,4,1,Minimal
+Montana,2011,5,1,Minimal
+Montana,2011,6,1,Minimal
+Montana,2011,7,1,Minimal
+Montana,2011,8,1,Minimal
+Montana,2011,9,1,Minimal
+Montana,2011,10,1,Minimal
+Montana,2009,9,1,Minimal
+Montana,2009,10,7,Moderate
+Montana,2009,11,7,Moderate
+Montana,2009,12,1,Minimal
+Montana,2010,1,1,Minimal
+Montana,2010,2,1,Minimal
+Montana,2010,3,1,Minimal
+Montana,2010,4,1,Minimal
+Montana,2010,5,1,Minimal
+Montana,2010,6,1,Minimal
+Montana,2010,7,1,Minimal
+Montana,2010,8,1,Minimal
+Montana,2010,9,1,Minimal
+Montana,2010,10,1,Minimal
+Montana,2009,1,1,Minimal
+Montana,2009,2,1,Minimal
+Montana,2009,3,1,Minimal
+Montana,2009,4,1,Minimal
+Montana,2009,5,1,Minimal
+Montana,2009,6,1,Minimal
+Montana,2009,7,1,Minimal
+Montana,2009,8,1,Minimal
+Montana,2009,7,1,Minimal
+Montana,2009,8,1,Minimal
+Nebraska,2015,11,1,Minimal
+Nebraska,2015,12,1,Minimal
+Nebraska,2014,11,1,Minimal
+Nebraska,2014,12,1,Minimal
+Nebraska,2015,1,6,Moderate
+Nebraska,2015,2,6,Moderate
+Nebraska,2015,3,3,Minimal
+Nebraska,2015,4,4,Low
+Nebraska,2015,5,1,Minimal
+Nebraska,2015,6,1,Minimal
+Nebraska,2015,7,1,Minimal
+Nebraska,2015,8,1,Minimal
+Nebraska,2015,9,1,Minimal
+Nebraska,2015,10,1,Minimal
+Nebraska,2013,11,1,Minimal
+Nebraska,2013,12,1,Minimal
+Nebraska,2014,1,3,Minimal
+Nebraska,2014,2,3,Minimal
+Nebraska,2014,3,1,Minimal
+Nebraska,2014,3,1,Minimal
+Nebraska,2014,5,1,Minimal
+Nebraska,2014,5,1,Minimal
+Nebraska,2014,6,1,Minimal
+Nebraska,2014,8,1,Minimal
+Nebraska,2014,8,1,Minimal
+Nebraska,2014,9,1,Minimal
+Nebraska,2012,11,1,Minimal
+Nebraska,2012,12,1,Minimal
+Nebraska,2013,1,10,High
+Nebraska,2013,2,10,High
+Nebraska,2013,3,4,Low
+Nebraska,2013,3,1,Minimal
+Nebraska,2013,5,1,Minimal
+Nebraska,2013,6,1,Minimal
+Nebraska,2013,6,1,Minimal
+Nebraska,2013,8,1,Minimal
+Nebraska,2013,8,1,Minimal
+Nebraska,2013,9,1,Minimal
+Nebraska,2011,11,1,Minimal
+Nebraska,2011,12,1,Minimal
+Nebraska,2012,1,1,Minimal
+Nebraska,2012,2,3,Minimal
+Nebraska,2012,3,3,Minimal
+Nebraska,2012,3,1,Minimal
+Nebraska,2012,5,1,Minimal
+Nebraska,2012,6,1,Minimal
+Nebraska,2012,6,1,Minimal
+Nebraska,2012,8,1,Minimal
+Nebraska,2012,9,1,Minimal
+Nebraska,2012,9,1,Minimal
+Nebraska,2010,11,1,Minimal
+Nebraska,2010,12,1,Minimal
+Nebraska,2011,1,1,Minimal
+Nebraska,2011,2,7,Moderate
+Nebraska,2011,3,10,High
+Nebraska,2011,4,1,Minimal
+Nebraska,2011,5,1,Minimal
+Nebraska,2011,6,1,Minimal
+Nebraska,2011,7,1,Minimal
+Nebraska,2011,8,1,Minimal
+Nebraska,2011,9,1,Minimal
+Nebraska,2011,10,1,Minimal
+Nebraska,2009,9,1,Minimal
+Nebraska,2009,10,6,Moderate
+Nebraska,2009,11,10,High
+Nebraska,2009,12,6,Moderate
+Nebraska,2010,1,3,Minimal
+Nebraska,2010,2,2,Minimal
+Nebraska,2010,3,1,Minimal
+Nebraska,2010,4,4,Low
+Nebraska,2010,5,1,Minimal
+Nebraska,2010,6,1,Minimal
+Nebraska,2010,7,1,Minimal
+Nebraska,2010,8,1,Minimal
+Nebraska,2010,9,1,Minimal
+Nebraska,2010,10,1,Minimal
+Nebraska,2009,1,1,Minimal
+Nebraska,2009,2,1,Minimal
+Nebraska,2009,3,1,Minimal
+Nebraska,2009,4,1,Minimal
+Nebraska,2009,5,1,Minimal
+Nebraska,2009,6,1,Minimal
+Nebraska,2009,7,1,Minimal
+Nebraska,2009,8,1,Minimal
+Nebraska,2009,7,1,Minimal
+Nebraska,2009,8,1,Minimal
+Nevada,2015,11,1,Minimal
+Nevada,2015,12,2,Minimal
+Nevada,2014,11,1,Minimal
+Nevada,2014,12,2,Minimal
+Nevada,2015,1,10,High
+Nevada,2015,2,6,Moderate
+Nevada,2015,3,2,Minimal
+Nevada,2015,4,2,Minimal
+Nevada,2015,5,1,Minimal
+Nevada,2015,6,1,Minimal
+Nevada,2015,7,1,Minimal
+Nevada,2015,8,1,Minimal
+Nevada,2015,9,1,Minimal
+Nevada,2015,10,1,Minimal
+Nevada,2013,11,1,Minimal
+Nevada,2013,12,3,Minimal
+Nevada,2014,1,9,High
+Nevada,2014,2,5,Low
+Nevada,2014,3,2,Minimal
+Nevada,2014,3,1,Minimal
+Nevada,2014,5,1,Minimal
+Nevada,2014,5,1,Minimal
+Nevada,2014,6,1,Minimal
+Nevada,2014,8,1,Minimal
+Nevada,2014,8,1,Minimal
+Nevada,2014,9,1,Minimal
+Nevada,2012,11,1,Minimal
+Nevada,2012,12,1,Minimal
+Nevada,2013,1,4,Low
+Nevada,2013,2,6,Moderate
+Nevada,2013,3,7,Moderate
+Nevada,2013,3,3,Minimal
+Nevada,2013,5,1,Minimal
+Nevada,2013,6,1,Minimal
+Nevada,2013,6,1,Minimal
+Nevada,2013,8,1,Minimal
+Nevada,2013,8,1,Minimal
+Nevada,2013,9,1,Minimal
+Nevada,2011,11,1,Minimal
+Nevada,2011,12,1,Minimal
+Nevada,2012,1,1,Minimal
+Nevada,2012,2,2,Minimal
+Nevada,2012,3,3,Minimal
+Nevada,2012,3,2,Minimal
+Nevada,2012,5,1,Minimal
+Nevada,2012,6,1,Minimal
+Nevada,2012,6,1,Minimal
+Nevada,2012,8,1,Minimal
+Nevada,2012,9,1,Minimal
+Nevada,2012,9,1,Minimal
+Nevada,2010,11,1,Minimal
+Nevada,2010,12,3,Minimal
+Nevada,2011,1,5,Low
+Nevada,2011,2,7,Moderate
+Nevada,2011,3,7,Moderate
+Nevada,2011,4,2,Minimal
+Nevada,2011,5,1,Minimal
+Nevada,2011,6,1,Minimal
+Nevada,2011,7,1,Minimal
+Nevada,2011,8,1,Minimal
+Nevada,2011,9,1,Minimal
+Nevada,2011,10,1,Minimal
+Nevada,2009,9,3,Minimal
+Nevada,2009,10,9,High
+Nevada,2009,11,4,Low
+Nevada,2009,12,1,Minimal
+Nevada,2010,1,1,Minimal
+Nevada,2010,2,1,Minimal
+Nevada,2010,3,1,Minimal
+Nevada,2010,4,1,Minimal
+Nevada,2010,5,1,Minimal
+Nevada,2010,6,1,Minimal
+Nevada,2010,7,1,Minimal
+Nevada,2010,8,1,Minimal
+Nevada,2010,9,1,Minimal
+Nevada,2010,10,1,Minimal
+Nevada,2009,1,2,Minimal
+Nevada,2009,2,5,Low
+Nevada,2009,3,5,Low
+Nevada,2009,4,3,Minimal
+Nevada,2009,5,3,Minimal
+Nevada,2009,6,1,Minimal
+Nevada,2009,7,1,Minimal
+Nevada,2009,8,1,Minimal
+Nevada,2009,7,1,Minimal
+Nevada,2009,8,1,Minimal
+New Hampshire,2015,11,1,Minimal
+New Hampshire,2015,12,1,Minimal
+New Hampshire,2014,11,1,Minimal
+New Hampshire,2014,12,1,Minimal
+New Hampshire,2015,1,1,Minimal
+New Hampshire,2015,2,4,Low
+New Hampshire,2015,3,1,Minimal
+New Hampshire,2015,4,1,Minimal
+New Hampshire,2015,5,1,Minimal
+New Hampshire,2015,6,1,Minimal
+New Hampshire,2015,7,1,Minimal
+New Hampshire,2015,8,1,Minimal
+New Hampshire,2015,9,1,Minimal
+New Hampshire,2015,10,1,Minimal
+New Hampshire,2013,11,1,Minimal
+New Hampshire,2013,12,1,Minimal
+New Hampshire,2014,1,1,Minimal
+New Hampshire,2014,2,1,Minimal
+New Hampshire,2014,3,1,Minimal
+New Hampshire,2014,3,1,Minimal
+New Hampshire,2014,5,1,Minimal
+New Hampshire,2014,5,1,Minimal
+New Hampshire,2014,6,1,Minimal
+New Hampshire,2014,8,1,Minimal
+New Hampshire,2014,8,1,Minimal
+New Hampshire,2014,9,1,Minimal
+New Hampshire,2012,11,1,Minimal
+New Hampshire,2012,12,1,Minimal
+New Hampshire,2013,1,5,Low
+New Hampshire,2013,2,1,Minimal
+New Hampshire,2013,3,1,Minimal
+New Hampshire,2013,3,1,Minimal
+New Hampshire,2013,5,1,Minimal
+New Hampshire,2013,6,1,Minimal
+New Hampshire,2013,6,1,Minimal
+New Hampshire,2013,8,1,Minimal
+New Hampshire,2013,8,1,Minimal
+New Hampshire,2013,9,1,Minimal
+New Hampshire,2011,11,1,Minimal
+New Hampshire,2011,12,1,Minimal
+New Hampshire,2012,1,1,Minimal
+New Hampshire,2012,2,1,Minimal
+New Hampshire,2012,3,1,Minimal
+New Hampshire,2012,3,1,Minimal
+New Hampshire,2012,5,1,Minimal
+New Hampshire,2012,6,1,Minimal
+New Hampshire,2012,6,1,Minimal
+New Hampshire,2012,8,1,Minimal
+New Hampshire,2012,9,1,Minimal
+New Hampshire,2012,9,1,Minimal
+New Hampshire,2010,11,1,Minimal
+New Hampshire,2010,12,1,Minimal
+New Hampshire,2011,1,1,Minimal
+New Hampshire,2011,2,1,Minimal
+New Hampshire,2011,3,1,Minimal
+New Hampshire,2011,4,1,Minimal
+New Hampshire,2011,5,1,Minimal
+New Hampshire,2011,6,1,Minimal
+New Hampshire,2011,7,1,Minimal
+New Hampshire,2011,8,1,Minimal
+New Hampshire,2011,9,1,Minimal
+New Hampshire,2011,10,1,Minimal
+New Hampshire,2009,9,1,Minimal
+New Hampshire,2009,10,1,Minimal
+New Hampshire,2009,11,10,High
+New Hampshire,2009,12,1,Minimal
+New Hampshire,2010,1,1,Minimal
+New Hampshire,2010,2,1,Minimal
+New Hampshire,2010,3,1,Minimal
+New Hampshire,2010,4,1,Minimal
+New Hampshire,2010,5,1,Minimal
+New Hampshire,2010,6,1,Minimal
+New Hampshire,2010,7,1,Minimal
+New Hampshire,2010,8,1,Minimal
+New Hampshire,2010,9,1,Minimal
+New Hampshire,2010,10,1,Minimal
+New Hampshire,2009,1,1,Minimal
+New Hampshire,2009,2,1,Minimal
+New Hampshire,2009,3,1,Minimal
+New Hampshire,2009,4,1,Minimal
+New Hampshire,2009,5,1,Minimal
+New Hampshire,2009,6,1,Minimal
+New Hampshire,2009,7,1,Minimal
+New Hampshire,2009,8,1,Minimal
+New Hampshire,2009,7,1,Minimal
+New Hampshire,2009,8,1,Minimal
+New Jersey,2015,11,1,Minimal
+New Jersey,2015,12,1,Minimal
+New Jersey,2014,11,1,Minimal
+New Jersey,2014,12,2,Minimal
+New Jersey,2015,1,6,Moderate
+New Jersey,2015,2,6,Moderate
+New Jersey,2015,3,3,Minimal
+New Jersey,2015,4,1,Minimal
+New Jersey,2015,5,1,Minimal
+New Jersey,2015,6,1,Minimal
+New Jersey,2015,7,1,Minimal
+New Jersey,2015,8,1,Minimal
+New Jersey,2015,9,1,Minimal
+New Jersey,2015,10,1,Minimal
+New Jersey,2013,11,1,Minimal
+New Jersey,2013,12,1,Minimal
+New Jersey,2014,1,7,Moderate
+New Jersey,2014,2,6,Moderate
+New Jersey,2014,3,4,Low
+New Jersey,2014,3,5,Low
+New Jersey,2014,5,2,Minimal
+New Jersey,2014,5,3,Minimal
+New Jersey,2014,6,1,Minimal
+New Jersey,2014,8,1,Minimal
+New Jersey,2014,8,1,Minimal
+New Jersey,2014,9,2,Minimal
+New Jersey,2012,11,1,Minimal
+New Jersey,2012,12,3,Minimal
+New Jersey,2013,1,10,High
+New Jersey,2013,2,10,High
+New Jersey,2013,3,4,Low
+New Jersey,2013,3,5,Low
+New Jersey,2013,5,2,Minimal
+New Jersey,2013,6,1,Minimal
+New Jersey,2013,6,2,Minimal
+New Jersey,2013,8,1,Minimal
+New Jersey,2013,8,1,Minimal
+New Jersey,2013,9,1,Minimal
+New Jersey,2011,11,1,Minimal
+New Jersey,2011,12,1,Minimal
+New Jersey,2012,1,1,Minimal
+New Jersey,2012,2,1,Minimal
+New Jersey,2012,3,1,Minimal
+New Jersey,2012,3,1,Minimal
+New Jersey,2012,5,1,Minimal
+New Jersey,2012,6,1,Minimal
+New Jersey,2012,6,1,Minimal
+New Jersey,2012,8,1,Minimal
+New Jersey,2012,9,1,Minimal
+New Jersey,2012,9,1,Minimal
+New Jersey,2010,11,1,Minimal
+New Jersey,2010,12,1,Minimal
+New Jersey,2011,1,4,Low
+New Jersey,2011,2,9,High
+New Jersey,2011,3,9,High
+New Jersey,2011,4,5,Low
+New Jersey,2011,5,1,Minimal
+New Jersey,2011,6,1,Minimal
+New Jersey,2011,7,1,Minimal
+New Jersey,2011,8,1,Minimal
+New Jersey,2011,9,1,Minimal
+New Jersey,2011,10,1,Minimal
+New Jersey,2009,9,1,Minimal
+New Jersey,2009,10,1,Minimal
+New Jersey,2009,11,10,High
+New Jersey,2009,12,6,Moderate
+New Jersey,2010,1,1,Minimal
+New Jersey,2010,2,1,Minimal
+New Jersey,2010,3,1,Minimal
+New Jersey,2010,4,1,Minimal
+New Jersey,2010,5,1,Minimal
+New Jersey,2010,6,1,Minimal
+New Jersey,2010,7,1,Minimal
+New Jersey,2010,8,2,Minimal
+New Jersey,2010,9,1,Minimal
+New Jersey,2010,10,1,Minimal
+New Jersey,2009,1,1,Minimal
+New Jersey,2009,2,5,Low
+New Jersey,2009,3,5,Low
+New Jersey,2009,4,1,Minimal
+New Jersey,2009,5,1,Minimal
+New Jersey,2009,6,1,Minimal
+New Jersey,2009,7,7,Moderate
+New Jersey,2009,8,1,Minimal
+New Jersey,2009,7,7,Moderate
+New Jersey,2009,8,1,Minimal
+New Mexico,2015,11,1,Minimal
+New Mexico,2015,12,1,Minimal
+New Mexico,2014,11,1,Minimal
+New Mexico,2014,12,1,Minimal
+New Mexico,2015,1,7,Moderate
+New Mexico,2015,2,5,Low
+New Mexico,2015,3,2,Minimal
+New Mexico,2015,4,1,Minimal
+New Mexico,2015,5,1,Minimal
+New Mexico,2015,6,1,Minimal
+New Mexico,2015,7,1,Minimal
+New Mexico,2015,8,1,Minimal
+New Mexico,2015,9,0,Insufficient Data
+New Mexico,2015,10,1,Minimal
+New Mexico,2013,11,1,Minimal
+New Mexico,2013,12,1,Minimal
+New Mexico,2014,1,10,High
+New Mexico,2014,2,7,Moderate
+New Mexico,2014,3,1,Minimal
+New Mexico,2014,3,1,Minimal
+New Mexico,2014,5,1,Minimal
+New Mexico,2014,5,1,Minimal
+New Mexico,2014,6,1,Minimal
+New Mexico,2014,8,1,Minimal
+New Mexico,2014,8,1,Minimal
+New Mexico,2014,9,1,Minimal
+New Mexico,2012,11,1,Minimal
+New Mexico,2012,12,1,Minimal
+New Mexico,2013,1,8,High
+New Mexico,2013,2,7,Moderate
+New Mexico,2013,3,1,Minimal
+New Mexico,2013,3,1,Minimal
+New Mexico,2013,5,1,Minimal
+New Mexico,2013,6,1,Minimal
+New Mexico,2013,6,1,Minimal
+New Mexico,2013,8,1,Minimal
+New Mexico,2013,8,1,Minimal
+New Mexico,2013,9,1,Minimal
+New Mexico,2011,11,1,Minimal
+New Mexico,2011,12,1,Minimal
+New Mexico,2012,1,1,Minimal
+New Mexico,2012,2,1,Minimal
+New Mexico,2012,3,4,Low
+New Mexico,2012,3,1,Minimal
+New Mexico,2012,5,1,Minimal
+New Mexico,2012,6,1,Minimal
+New Mexico,2012,6,1,Minimal
+New Mexico,2012,8,1,Minimal
+New Mexico,2012,9,1,Minimal
+New Mexico,2012,9,1,Minimal
+New Mexico,2010,11,2,Minimal
+New Mexico,2010,12,1,Minimal
+New Mexico,2011,1,3,Minimal
+New Mexico,2011,2,10,High
+New Mexico,2011,3,8,High
+New Mexico,2011,4,2,Minimal
+New Mexico,2011,5,1,Minimal
+New Mexico,2011,6,1,Minimal
+New Mexico,2011,7,1,Minimal
+New Mexico,2011,8,1,Minimal
+New Mexico,2011,9,1,Minimal
+New Mexico,2011,10,1,Minimal
+New Mexico,2009,9,5,Low
+New Mexico,2009,10,10,High
+New Mexico,2009,11,10,High
+New Mexico,2009,12,6,Moderate
+New Mexico,2010,1,5,Low
+New Mexico,2010,2,10,High
+New Mexico,2010,3,6,Moderate
+New Mexico,2010,4,3,Minimal
+New Mexico,2010,5,2,Minimal
+New Mexico,2010,6,3,Minimal
+New Mexico,2010,7,1,Minimal
+New Mexico,2010,8,1,Minimal
+New Mexico,2010,9,2,Minimal
+New Mexico,2010,10,4,Low
+New Mexico,2009,1,1,Minimal
+New Mexico,2009,2,1,Minimal
+New Mexico,2009,3,4,Low
+New Mexico,2009,4,1,Minimal
+New Mexico,2009,5,5,Low
+New Mexico,2009,6,1,Minimal
+New Mexico,2009,7,1,Minimal
+New Mexico,2009,8,1,Minimal
+New Mexico,2009,7,1,Minimal
+New Mexico,2009,8,1,Minimal
+New York,2015,11,1,Minimal
+New York,2015,12,1,Minimal
+New York,2014,11,1,Minimal
+New York,2014,12,1,Minimal
+New York,2015,1,3,Minimal
+New York,2015,2,10,High
+New York,2015,3,4,Low
+New York,2015,4,3,Minimal
+New York,2015,5,1,Minimal
+New York,2015,6,1,Minimal
+New York,2015,7,1,Minimal
+New York,2015,8,1,Minimal
+New York,2015,9,1,Minimal
+New York,2015,10,0,Insufficient Data
+New York,2013,11,1,Minimal
+New York,2013,12,1,Minimal
+New York,2014,1,4,Low
+New York,2014,2,5,Low
+New York,2014,3,1,Minimal
+New York,2014,3,3,Minimal
+New York,2014,5,1,Minimal
+New York,2014,5,1,Minimal
+New York,2014,6,1,Minimal
+New York,2014,8,1,Minimal
+New York,2014,8,1,Minimal
+New York,2014,9,1,Minimal
+New York,2012,11,1,Minimal
+New York,2012,12,1,Minimal
+New York,2013,1,6,Moderate
+New York,2013,2,4,Low
+New York,2013,3,3,Minimal
+New York,2013,3,1,Minimal
+New York,2013,5,1,Minimal
+New York,2013,6,1,Minimal
+New York,2013,6,1,Minimal
+New York,2013,8,1,Minimal
+New York,2013,8,1,Minimal
+New York,2013,9,1,Minimal
+New York,2011,11,1,Minimal
+New York,2011,12,1,Minimal
+New York,2012,1,1,Minimal
+New York,2012,2,1,Minimal
+New York,2012,3,1,Minimal
+New York,2012,3,1,Minimal
+New York,2012,5,1,Minimal
+New York,2012,6,1,Minimal
+New York,2012,6,1,Minimal
+New York,2012,8,1,Minimal
+New York,2012,9,1,Minimal
+New York,2012,9,1,Minimal
+New York,2010,11,1,Minimal
+New York,2010,12,1,Minimal
+New York,2011,1,1,Minimal
+New York,2011,2,5,Low
+New York,2011,3,2,Minimal
+New York,2011,4,1,Minimal
+New York,2011,5,1,Minimal
+New York,2011,6,1,Minimal
+New York,2011,7,1,Minimal
+New York,2011,8,1,Minimal
+New York,2011,9,1,Minimal
+New York,2011,10,1,Minimal
+New York,2009,9,9,High
+New York,2009,10,5,Low
+New York,2009,11,10,High
+New York,2009,12,1,Minimal
+New York,2010,1,1,Minimal
+New York,2010,2,1,Minimal
+New York,2010,3,1,Minimal
+New York,2010,4,1,Minimal
+New York,2010,5,1,Minimal
+New York,2010,6,1,Minimal
+New York,2010,7,1,Minimal
+New York,2010,8,1,Minimal
+New York,2010,9,1,Minimal
+New York,2010,10,1,Minimal
+New York,2009,1,1,Minimal
+New York,2009,2,1,Minimal
+New York,2009,3,6,Moderate
+New York,2009,4,2,Minimal
+New York,2009,5,1,Minimal
+New York,2009,6,1,Minimal
+New York,2009,7,1,Minimal
+New York,2009,8,1,Minimal
+New York,2009,7,1,Minimal
+New York,2009,8,1,Minimal
+North Carolina,2015,11,1,Minimal
+North Carolina,2015,12,1,Minimal
+North Carolina,2014,11,1,Minimal
+North Carolina,2014,12,2,Minimal
+North Carolina,2015,1,8,High
+North Carolina,2015,2,6,Moderate
+North Carolina,2015,3,3,Minimal
+North Carolina,2015,4,1,Minimal
+North Carolina,2015,5,1,Minimal
+North Carolina,2015,6,1,Minimal
+North Carolina,2015,7,1,Minimal
+North Carolina,2015,8,1,Minimal
+North Carolina,2015,9,1,Minimal
+North Carolina,2015,10,1,Minimal
+North Carolina,2013,11,1,Minimal
+North Carolina,2013,12,1,Minimal
+North Carolina,2014,1,8,High
+North Carolina,2014,2,6,Moderate
+North Carolina,2014,3,1,Minimal
+North Carolina,2014,3,1,Minimal
+North Carolina,2014,5,1,Minimal
+North Carolina,2014,5,1,Minimal
+North Carolina,2014,6,1,Minimal
+North Carolina,2014,8,1,Minimal
+North Carolina,2014,8,1,Minimal
+North Carolina,2014,9,1,Minimal
+North Carolina,2012,11,1,Minimal
+North Carolina,2012,12,10,High
+North Carolina,2013,1,10,High
+North Carolina,2013,2,4,Low
+North Carolina,2013,3,1,Minimal
+North Carolina,2013,3,2,Minimal
+North Carolina,2013,5,1,Minimal
+North Carolina,2013,6,1,Minimal
+North Carolina,2013,6,1,Minimal
+North Carolina,2013,8,1,Minimal
+North Carolina,2013,8,1,Minimal
+North Carolina,2013,9,1,Minimal
+North Carolina,2011,11,1,Minimal
+North Carolina,2011,12,1,Minimal
+North Carolina,2012,1,1,Minimal
+North Carolina,2012,2,1,Minimal
+North Carolina,2012,3,2,Minimal
+North Carolina,2012,3,1,Minimal
+North Carolina,2012,5,1,Minimal
+North Carolina,2012,6,1,Minimal
+North Carolina,2012,6,1,Minimal
+North Carolina,2012,8,1,Minimal
+North Carolina,2012,9,1,Minimal
+North Carolina,2012,9,1,Minimal
+North Carolina,2010,11,1,Minimal
+North Carolina,2010,12,1,Minimal
+North Carolina,2011,1,1,Minimal
+North Carolina,2011,2,10,High
+North Carolina,2011,3,3,Minimal
+North Carolina,2011,4,1,Minimal
+North Carolina,2011,5,1,Minimal
+North Carolina,2011,6,1,Minimal
+North Carolina,2011,7,1,Minimal
+North Carolina,2011,8,1,Minimal
+North Carolina,2011,9,1,Minimal
+North Carolina,2011,10,1,Minimal
+North Carolina,2009,9,10,High
+North Carolina,2009,10,10,High
+North Carolina,2009,11,5,Low
+North Carolina,2009,12,1,Minimal
+North Carolina,2010,1,1,Minimal
+North Carolina,2010,2,1,Minimal
+North Carolina,2010,3,1,Minimal
+North Carolina,2010,4,1,Minimal
+North Carolina,2010,5,1,Minimal
+North Carolina,2010,6,1,Minimal
+North Carolina,2010,7,1,Minimal
+North Carolina,2010,8,1,Minimal
+North Carolina,2010,9,1,Minimal
+North Carolina,2010,10,1,Minimal
+North Carolina,2009,1,1,Minimal
+North Carolina,2009,2,2,Minimal
+North Carolina,2009,3,3,Minimal
+North Carolina,2009,4,1,Minimal
+North Carolina,2009,5,1,Minimal
+North Carolina,2009,6,1,Minimal
+North Carolina,2009,7,1,Minimal
+North Carolina,2009,8,1,Minimal
+North Carolina,2009,7,1,Minimal
+North Carolina,2009,8,1,Minimal
+North Dakota,2015,11,1,Minimal
+North Dakota,2015,12,1,Minimal
+North Dakota,2014,11,1,Minimal
+North Dakota,2014,12,1,Minimal
+North Dakota,2015,1,5,Low
+North Dakota,2015,2,4,Low
+North Dakota,2015,3,1,Minimal
+North Dakota,2015,4,1,Minimal
+North Dakota,2015,5,1,Minimal
+North Dakota,2015,6,1,Minimal
+North Dakota,2015,7,1,Minimal
+North Dakota,2015,8,1,Minimal
+North Dakota,2015,9,1,Minimal
+North Dakota,2015,10,1,Minimal
+North Dakota,2013,11,1,Minimal
+North Dakota,2013,12,1,Minimal
+North Dakota,2014,1,3,Minimal
+North Dakota,2014,2,1,Minimal
+North Dakota,2014,3,1,Minimal
+North Dakota,2014,3,1,Minimal
+North Dakota,2014,5,1,Minimal
+North Dakota,2014,5,1,Minimal
+North Dakota,2014,6,1,Minimal
+North Dakota,2014,8,1,Minimal
+North Dakota,2014,8,0,Insufficient Data
+North Dakota,2014,9,0,Insufficient Data
+North Dakota,2012,11,1,Minimal
+North Dakota,2012,12,1,Minimal
+North Dakota,2013,1,8,High
+North Dakota,2013,2,4,Low
+North Dakota,2013,3,2,Minimal
+North Dakota,2013,3,1,Minimal
+North Dakota,2013,5,1,Minimal
+North Dakota,2013,6,1,Minimal
+North Dakota,2013,6,1,Minimal
+North Dakota,2013,8,1,Minimal
+North Dakota,2013,8,0,Insufficient Data
+North Dakota,2013,9,0,Insufficient Data
+North Dakota,2011,11,1,Minimal
+North Dakota,2011,12,1,Minimal
+North Dakota,2012,1,1,Minimal
+North Dakota,2012,2,1,Minimal
+North Dakota,2012,3,1,Minimal
+North Dakota,2012,3,1,Minimal
+North Dakota,2012,5,1,Minimal
+North Dakota,2012,6,1,Minimal
+North Dakota,2012,6,1,Minimal
+North Dakota,2012,8,1,Minimal
+North Dakota,2012,9,1,Minimal
+North Dakota,2012,9,1,Minimal
+North Dakota,2010,11,1,Minimal
+North Dakota,2010,12,1,Minimal
+North Dakota,2011,1,1,Minimal
+North Dakota,2011,2,1,Minimal
+North Dakota,2011,3,6,Moderate
+North Dakota,2011,4,1,Minimal
+North Dakota,2011,5,1,Minimal
+North Dakota,2011,6,1,Minimal
+North Dakota,2011,7,1,Minimal
+North Dakota,2011,8,1,Minimal
+North Dakota,2011,9,1,Minimal
+North Dakota,2011,10,1,Minimal
+North Dakota,2009,9,2,Minimal
+North Dakota,2009,10,5,Low
+North Dakota,2009,11,10,High
+North Dakota,2009,12,2,Minimal
+North Dakota,2010,1,1,Minimal
+North Dakota,2010,2,3,Minimal
+North Dakota,2010,3,3,Minimal
+North Dakota,2010,4,3,Minimal
+North Dakota,2010,5,2,Minimal
+North Dakota,2010,6,3,Minimal
+North Dakota,2010,7,1,Minimal
+North Dakota,2010,8,1,Minimal
+North Dakota,2010,9,1,Minimal
+North Dakota,2010,10,1,Minimal
+North Dakota,2009,1,1,Minimal
+North Dakota,2009,2,4,Low
+North Dakota,2009,3,7,Moderate
+North Dakota,2009,4,4,Low
+North Dakota,2009,5,4,Low
+North Dakota,2009,6,4,Low
+North Dakota,2009,7,1,Minimal
+North Dakota,2009,8,1,Minimal
+North Dakota,2009,7,1,Minimal
+North Dakota,2009,8,1,Minimal
+Ohio,2015,11,1,Minimal
+Ohio,2015,12,1,Minimal
+Ohio,2014,11,1,Minimal
+Ohio,2014,12,1,Minimal
+Ohio,2015,1,7,Moderate
+Ohio,2015,2,1,Minimal
+Ohio,2015,3,1,Minimal
+Ohio,2015,4,1,Minimal
+Ohio,2015,5,1,Minimal
+Ohio,2015,6,1,Minimal
+Ohio,2015,7,1,Minimal
+Ohio,2015,8,1,Minimal
+Ohio,2015,9,1,Minimal
+Ohio,2015,10,1,Minimal
+Ohio,2013,11,1,Minimal
+Ohio,2013,12,1,Minimal
+Ohio,2014,1,4,Low
+Ohio,2014,2,2,Minimal
+Ohio,2014,3,1,Minimal
+Ohio,2014,3,1,Minimal
+Ohio,2014,5,1,Minimal
+Ohio,2014,5,1,Minimal
+Ohio,2014,6,1,Minimal
+Ohio,2014,8,1,Minimal
+Ohio,2014,8,1,Minimal
+Ohio,2014,9,1,Minimal
+Ohio,2012,11,1,Minimal
+Ohio,2012,12,5,Low
+Ohio,2013,1,9,High
+Ohio,2013,2,4,Low
+Ohio,2013,3,3,Minimal
+Ohio,2013,3,1,Minimal
+Ohio,2013,5,1,Minimal
+Ohio,2013,6,1,Minimal
+Ohio,2013,6,1,Minimal
+Ohio,2013,8,1,Minimal
+Ohio,2013,8,1,Minimal
+Ohio,2013,9,1,Minimal
+Ohio,2011,11,1,Minimal
+Ohio,2011,12,1,Minimal
+Ohio,2012,1,1,Minimal
+Ohio,2012,2,1,Minimal
+Ohio,2012,3,1,Minimal
+Ohio,2012,3,1,Minimal
+Ohio,2012,5,1,Minimal
+Ohio,2012,6,1,Minimal
+Ohio,2012,6,1,Minimal
+Ohio,2012,8,1,Minimal
+Ohio,2012,9,1,Minimal
+Ohio,2012,9,1,Minimal
+Ohio,2010,11,1,Minimal
+Ohio,2010,12,1,Minimal
+Ohio,2011,1,1,Minimal
+Ohio,2011,2,7,Moderate
+Ohio,2011,3,2,Minimal
+Ohio,2011,4,1,Minimal
+Ohio,2011,5,1,Minimal
+Ohio,2011,6,1,Minimal
+Ohio,2011,7,1,Minimal
+Ohio,2011,8,1,Minimal
+Ohio,2011,9,1,Minimal
+Ohio,2011,10,1,Minimal
+Ohio,2009,9,1,Minimal
+Ohio,2009,10,1,Minimal
+Ohio,2009,11,10,High
+Ohio,2009,12,1,Minimal
+Ohio,2010,1,1,Minimal
+Ohio,2010,2,1,Minimal
+Ohio,2010,3,1,Minimal
+Ohio,2010,4,1,Minimal
+Ohio,2010,5,1,Minimal
+Ohio,2010,6,1,Minimal
+Ohio,2010,7,1,Minimal
+Ohio,2010,8,1,Minimal
+Ohio,2010,9,1,Minimal
+Ohio,2010,10,1,Minimal
+Ohio,2009,1,1,Minimal
+Ohio,2009,2,1,Minimal
+Ohio,2009,3,1,Minimal
+Ohio,2009,4,1,Minimal
+Ohio,2009,5,1,Minimal
+Ohio,2009,6,1,Minimal
+Ohio,2009,7,1,Minimal
+Ohio,2009,8,1,Minimal
+Ohio,2009,7,1,Minimal
+Ohio,2009,8,1,Minimal
+Oklahoma,2015,11,1,Minimal
+Oklahoma,2015,12,3,Minimal
+Oklahoma,2014,11,1,Minimal
+Oklahoma,2014,12,1,Minimal
+Oklahoma,2015,1,10,High
+Oklahoma,2015,2,10,High
+Oklahoma,2015,3,9,High
+Oklahoma,2015,4,5,Low
+Oklahoma,2015,5,1,Minimal
+Oklahoma,2015,6,1,Minimal
+Oklahoma,2015,7,1,Minimal
+Oklahoma,2015,8,1,Minimal
+Oklahoma,2015,9,1,Minimal
+Oklahoma,2015,10,1,Minimal
+Oklahoma,2013,11,1,Minimal
+Oklahoma,2013,12,5,Low
+Oklahoma,2014,1,10,High
+Oklahoma,2014,2,10,High
+Oklahoma,2014,3,5,Low
+Oklahoma,2014,3,1,Minimal
+Oklahoma,2014,5,1,Minimal
+Oklahoma,2014,5,1,Minimal
+Oklahoma,2014,6,1,Minimal
+Oklahoma,2014,8,1,Minimal
+Oklahoma,2014,8,1,Minimal
+Oklahoma,2014,9,1,Minimal
+Oklahoma,2012,11,1,Minimal
+Oklahoma,2012,12,1,Minimal
+Oklahoma,2013,1,8,High
+Oklahoma,2013,2,10,High
+Oklahoma,2013,3,1,Minimal
+Oklahoma,2013,3,1,Minimal
+Oklahoma,2013,5,1,Minimal
+Oklahoma,2013,6,1,Minimal
+Oklahoma,2013,6,1,Minimal
+Oklahoma,2013,8,1,Minimal
+Oklahoma,2013,8,1,Minimal
+Oklahoma,2013,9,1,Minimal
+Oklahoma,2011,11,1,Minimal
+Oklahoma,2011,12,1,Minimal
+Oklahoma,2012,1,1,Minimal
+Oklahoma,2012,2,1,Minimal
+Oklahoma,2012,3,8,High
+Oklahoma,2012,3,1,Minimal
+Oklahoma,2012,5,1,Minimal
+Oklahoma,2012,6,1,Minimal
+Oklahoma,2012,6,1,Minimal
+Oklahoma,2012,8,1,Minimal
+Oklahoma,2012,9,1,Minimal
+Oklahoma,2012,9,1,Minimal
+Oklahoma,2010,11,1,Minimal
+Oklahoma,2010,12,1,Minimal
+Oklahoma,2011,1,3,Minimal
+Oklahoma,2011,2,10,High
+Oklahoma,2011,3,7,Moderate
+Oklahoma,2011,4,1,Minimal
+Oklahoma,2011,5,1,Minimal
+Oklahoma,2011,6,1,Minimal
+Oklahoma,2011,7,1,Minimal
+Oklahoma,2011,8,1,Minimal
+Oklahoma,2011,9,1,Minimal
+Oklahoma,2011,10,1,Minimal
+Oklahoma,2009,9,6,Moderate
+Oklahoma,2009,10,10,High
+Oklahoma,2009,11,10,High
+Oklahoma,2009,12,2,Minimal
+Oklahoma,2010,1,1,Minimal
+Oklahoma,2010,2,1,Minimal
+Oklahoma,2010,3,1,Minimal
+Oklahoma,2010,4,1,Minimal
+Oklahoma,2010,5,1,Minimal
+Oklahoma,2010,6,1,Minimal
+Oklahoma,2010,7,1,Minimal
+Oklahoma,2010,8,1,Minimal
+Oklahoma,2010,9,1,Minimal
+Oklahoma,2010,10,1,Minimal
+Oklahoma,2009,1,1,Minimal
+Oklahoma,2009,2,1,Minimal
+Oklahoma,2009,3,5,Low
+Oklahoma,2009,4,1,Minimal
+Oklahoma,2009,5,1,Minimal
+Oklahoma,2009,6,1,Minimal
+Oklahoma,2009,7,1,Minimal
+Oklahoma,2009,8,1,Minimal
+Oklahoma,2009,7,1,Minimal
+Oklahoma,2009,8,1,Minimal
+Oregon,2015,11,1,Minimal
+Oregon,2015,12,1,Minimal
+Oregon,2014,11,1,Minimal
+Oregon,2014,12,1,Minimal
+Oregon,2015,1,1,Minimal
+Oregon,2015,2,1,Minimal
+Oregon,2015,3,1,Minimal
+Oregon,2015,4,1,Minimal
+Oregon,2015,5,1,Minimal
+Oregon,2015,6,1,Minimal
+Oregon,2015,7,1,Minimal
+Oregon,2015,8,1,Minimal
+Oregon,2015,9,1,Minimal
+Oregon,2015,10,1,Minimal
+Oregon,2013,11,1,Minimal
+Oregon,2013,12,1,Minimal
+Oregon,2014,1,8,High
+Oregon,2014,2,1,Minimal
+Oregon,2014,3,1,Minimal
+Oregon,2014,3,1,Minimal
+Oregon,2014,5,1,Minimal
+Oregon,2014,5,1,Minimal
+Oregon,2014,6,1,Minimal
+Oregon,2014,8,1,Minimal
+Oregon,2014,8,1,Minimal
+Oregon,2014,9,1,Minimal
+Oregon,2012,11,1,Minimal
+Oregon,2012,12,1,Minimal
+Oregon,2013,1,6,Moderate
+Oregon,2013,2,8,High
+Oregon,2013,3,4,Low
+Oregon,2013,3,1,Minimal
+Oregon,2013,5,1,Minimal
+Oregon,2013,6,1,Minimal
+Oregon,2013,6,1,Minimal
+Oregon,2013,8,1,Minimal
+Oregon,2013,8,1,Minimal
+Oregon,2013,9,1,Minimal
+Oregon,2011,11,1,Minimal
+Oregon,2011,12,1,Minimal
+Oregon,2012,1,1,Minimal
+Oregon,2012,2,1,Minimal
+Oregon,2012,3,1,Minimal
+Oregon,2012,3,1,Minimal
+Oregon,2012,5,1,Minimal
+Oregon,2012,6,1,Minimal
+Oregon,2012,6,1,Minimal
+Oregon,2012,8,1,Minimal
+Oregon,2012,9,1,Minimal
+Oregon,2012,9,1,Minimal
+Oregon,2010,11,1,Minimal
+Oregon,2010,12,1,Minimal
+Oregon,2011,1,1,Minimal
+Oregon,2011,2,2,Minimal
+Oregon,2011,3,2,Minimal
+Oregon,2011,4,1,Minimal
+Oregon,2011,5,1,Minimal
+Oregon,2011,6,1,Minimal
+Oregon,2011,7,1,Minimal
+Oregon,2011,8,1,Minimal
+Oregon,2011,9,1,Minimal
+Oregon,2011,10,1,Minimal
+Oregon,2009,9,1,Minimal
+Oregon,2009,10,7,Moderate
+Oregon,2009,11,9,High
+Oregon,2009,12,1,Minimal
+Oregon,2010,1,1,Minimal
+Oregon,2010,2,1,Minimal
+Oregon,2010,3,1,Minimal
+Oregon,2010,4,1,Minimal
+Oregon,2010,5,1,Minimal
+Oregon,2010,6,1,Minimal
+Oregon,2010,7,1,Minimal
+Oregon,2010,8,1,Minimal
+Oregon,2010,9,0,Insufficient Data
+Oregon,2010,10,1,Minimal
+Oregon,2009,1,1,Minimal
+Oregon,2009,2,2,Minimal
+Oregon,2009,3,7,Moderate
+Oregon,2009,4,1,Minimal
+Oregon,2009,5,2,Minimal
+Oregon,2009,6,1,Minimal
+Oregon,2009,7,1,Minimal
+Oregon,2009,8,1,Minimal
+Oregon,2009,7,1,Minimal
+Oregon,2009,8,1,Minimal
+Pennsylvania,2015,11,1,Minimal
+Pennsylvania,2015,12,2,Minimal
+Pennsylvania,2014,11,1,Minimal
+Pennsylvania,2014,12,2,Minimal
+Pennsylvania,2015,1,9,High
+Pennsylvania,2015,2,9,High
+Pennsylvania,2015,3,4,Low
+Pennsylvania,2015,4,2,Minimal
+Pennsylvania,2015,5,1,Minimal
+Pennsylvania,2015,6,1,Minimal
+Pennsylvania,2015,7,1,Minimal
+Pennsylvania,2015,8,1,Minimal
+Pennsylvania,2015,9,1,Minimal
+Pennsylvania,2015,10,1,Minimal
+Pennsylvania,2013,11,1,Minimal
+Pennsylvania,2013,12,1,Minimal
+Pennsylvania,2014,1,5,Low
+Pennsylvania,2014,2,5,Low
+Pennsylvania,2014,3,1,Minimal
+Pennsylvania,2014,3,1,Minimal
+Pennsylvania,2014,5,1,Minimal
+Pennsylvania,2014,5,1,Minimal
+Pennsylvania,2014,6,1,Minimal
+Pennsylvania,2014,8,1,Minimal
+Pennsylvania,2014,8,1,Minimal
+Pennsylvania,2014,9,1,Minimal
+Pennsylvania,2012,11,1,Minimal
+Pennsylvania,2012,12,1,Minimal
+Pennsylvania,2013,1,3,Minimal
+Pennsylvania,2013,2,1,Minimal
+Pennsylvania,2013,3,1,Minimal
+Pennsylvania,2013,3,1,Minimal
+Pennsylvania,2013,5,1,Minimal
+Pennsylvania,2013,6,1,Minimal
+Pennsylvania,2013,6,1,Minimal
+Pennsylvania,2013,8,1,Minimal
+Pennsylvania,2013,8,1,Minimal
+Pennsylvania,2013,9,1,Minimal
+Pennsylvania,2011,11,1,Minimal
+Pennsylvania,2011,12,1,Minimal
+Pennsylvania,2012,1,1,Minimal
+Pennsylvania,2012,2,1,Minimal
+Pennsylvania,2012,3,1,Minimal
+Pennsylvania,2012,3,1,Minimal
+Pennsylvania,2012,5,1,Minimal
+Pennsylvania,2012,6,1,Minimal
+Pennsylvania,2012,6,1,Minimal
+Pennsylvania,2012,8,1,Minimal
+Pennsylvania,2012,9,1,Minimal
+Pennsylvania,2012,9,1,Minimal
+Pennsylvania,2010,11,1,Minimal
+Pennsylvania,2010,12,1,Minimal
+Pennsylvania,2011,1,1,Minimal
+Pennsylvania,2011,2,8,High
+Pennsylvania,2011,3,3,Minimal
+Pennsylvania,2011,4,1,Minimal
+Pennsylvania,2011,5,1,Minimal
+Pennsylvania,2011,6,1,Minimal
+Pennsylvania,2011,7,1,Minimal
+Pennsylvania,2011,8,1,Minimal
+Pennsylvania,2011,9,1,Minimal
+Pennsylvania,2011,10,1,Minimal
+Pennsylvania,2009,9,1,Minimal
+Pennsylvania,2009,10,6,Moderate
+Pennsylvania,2009,11,10,High
+Pennsylvania,2009,12,1,Minimal
+Pennsylvania,2010,1,1,Minimal
+Pennsylvania,2010,2,1,Minimal
+Pennsylvania,2010,3,1,Minimal
+Pennsylvania,2010,4,1,Minimal
+Pennsylvania,2010,5,1,Minimal
+Pennsylvania,2010,6,1,Minimal
+Pennsylvania,2010,7,1,Minimal
+Pennsylvania,2010,8,1,Minimal
+Pennsylvania,2010,9,1,Minimal
+Pennsylvania,2010,10,1,Minimal
+Pennsylvania,2009,1,1,Minimal
+Pennsylvania,2009,2,1,Minimal
+Pennsylvania,2009,3,9,High
+Pennsylvania,2009,4,6,Moderate
+Pennsylvania,2009,5,1,Minimal
+Pennsylvania,2009,6,1,Minimal
+Pennsylvania,2009,7,1,Minimal
+Pennsylvania,2009,8,1,Minimal
+Pennsylvania,2009,7,1,Minimal
+Pennsylvania,2009,8,1,Minimal
+Rhode Island,2015,11,1,Minimal
+Rhode Island,2015,12,1,Minimal
+Rhode Island,2014,11,1,Minimal
+Rhode Island,2014,12,1,Minimal
+Rhode Island,2015,1,4,Low
+Rhode Island,2015,2,9,High
+Rhode Island,2015,3,1,Minimal
+Rhode Island,2015,4,1,Minimal
+Rhode Island,2015,5,1,Minimal
+Rhode Island,2015,6,1,Minimal
+Rhode Island,2015,7,1,Minimal
+Rhode Island,2015,8,1,Minimal
+Rhode Island,2015,9,1,Minimal
+Rhode Island,2015,10,1,Minimal
+Rhode Island,2013,11,1,Minimal
+Rhode Island,2013,12,1,Minimal
+Rhode Island,2014,1,2,Minimal
+Rhode Island,2014,2,2,Minimal
+Rhode Island,2014,3,1,Minimal
+Rhode Island,2014,3,1,Minimal
+Rhode Island,2014,5,2,Minimal
+Rhode Island,2014,5,1,Minimal
+Rhode Island,2014,6,1,Minimal
+Rhode Island,2014,8,1,Minimal
+Rhode Island,2014,8,1,Minimal
+Rhode Island,2014,9,1,Minimal
+Rhode Island,2012,11,1,Minimal
+Rhode Island,2012,12,2,Minimal
+Rhode Island,2013,1,8,High
+Rhode Island,2013,2,4,Low
+Rhode Island,2013,3,1,Minimal
+Rhode Island,2013,3,1,Minimal
+Rhode Island,2013,5,1,Minimal
+Rhode Island,2013,6,1,Minimal
+Rhode Island,2013,6,1,Minimal
+Rhode Island,2013,8,1,Minimal
+Rhode Island,2013,8,1,Minimal
+Rhode Island,2013,9,1,Minimal
+Rhode Island,2011,11,1,Minimal
+Rhode Island,2011,12,1,Minimal
+Rhode Island,2012,1,1,Minimal
+Rhode Island,2012,2,1,Minimal
+Rhode Island,2012,3,1,Minimal
+Rhode Island,2012,3,1,Minimal
+Rhode Island,2012,5,1,Minimal
+Rhode Island,2012,6,1,Minimal
+Rhode Island,2012,6,1,Minimal
+Rhode Island,2012,8,1,Minimal
+Rhode Island,2012,9,1,Minimal
+Rhode Island,2012,9,1,Minimal
+Rhode Island,2010,11,1,Minimal
+Rhode Island,2010,12,1,Minimal
+Rhode Island,2011,1,1,Minimal
+Rhode Island,2011,2,1,Minimal
+Rhode Island,2011,3,4,Low
+Rhode Island,2011,4,1,Minimal
+Rhode Island,2011,5,1,Minimal
+Rhode Island,2011,6,1,Minimal
+Rhode Island,2011,7,1,Minimal
+Rhode Island,2011,8,1,Minimal
+Rhode Island,2011,9,1,Minimal
+Rhode Island,2011,10,1,Minimal
+Rhode Island,2009,9,1,Minimal
+Rhode Island,2009,10,2,Minimal
+Rhode Island,2009,11,10,High
+Rhode Island,2009,12,1,Minimal
+Rhode Island,2010,1,1,Minimal
+Rhode Island,2010,2,1,Minimal
+Rhode Island,2010,3,1,Minimal
+Rhode Island,2010,4,1,Minimal
+Rhode Island,2010,5,1,Minimal
+Rhode Island,2010,6,1,Minimal
+Rhode Island,2010,7,1,Minimal
+Rhode Island,2010,8,1,Minimal
+Rhode Island,2010,9,1,Minimal
+Rhode Island,2010,10,1,Minimal
+Rhode Island,2009,1,1,Minimal
+Rhode Island,2009,2,5,Low
+Rhode Island,2009,3,2,Minimal
+Rhode Island,2009,4,1,Minimal
+Rhode Island,2009,5,1,Minimal
+Rhode Island,2009,6,1,Minimal
+Rhode Island,2009,7,1,Minimal
+Rhode Island,2009,8,1,Minimal
+Rhode Island,2009,7,1,Minimal
+Rhode Island,2009,8,1,Minimal
+South Carolina,2015,11,3,Minimal
+South Carolina,2015,12,2,Minimal
+South Carolina,2014,11,1,Minimal
+South Carolina,2014,12,4,Low
+South Carolina,2015,1,9,High
+South Carolina,2015,2,6,Moderate
+South Carolina,2015,3,4,Low
+South Carolina,2015,4,2,Minimal
+South Carolina,2015,5,1,Minimal
+South Carolina,2015,6,1,Minimal
+South Carolina,2015,7,1,Minimal
+South Carolina,2015,8,1,Minimal
+South Carolina,2015,9,1,Minimal
+South Carolina,2015,10,1,Minimal
+South Carolina,2013,11,1,Minimal
+South Carolina,2013,12,5,Low
+South Carolina,2014,1,8,High
+South Carolina,2014,2,5,Low
+South Carolina,2014,3,1,Minimal
+South Carolina,2014,3,1,Minimal
+South Carolina,2014,5,1,Minimal
+South Carolina,2014,5,1,Minimal
+South Carolina,2014,6,1,Minimal
+South Carolina,2014,8,1,Minimal
+South Carolina,2014,8,1,Minimal
+South Carolina,2014,9,1,Minimal
+South Carolina,2012,11,1,Minimal
+South Carolina,2012,12,10,High
+South Carolina,2013,1,6,Moderate
+South Carolina,2013,2,2,Minimal
+South Carolina,2013,3,2,Minimal
+South Carolina,2013,3,3,Minimal
+South Carolina,2013,5,1,Minimal
+South Carolina,2013,6,1,Minimal
+South Carolina,2013,6,1,Minimal
+South Carolina,2013,8,1,Minimal
+South Carolina,2013,8,1,Minimal
+South Carolina,2013,9,1,Minimal
+South Carolina,2011,11,1,Minimal
+South Carolina,2011,12,1,Minimal
+South Carolina,2012,1,1,Minimal
+South Carolina,2012,2,2,Minimal
+South Carolina,2012,3,1,Minimal
+South Carolina,2012,3,1,Minimal
+South Carolina,2012,5,1,Minimal
+South Carolina,2012,6,1,Minimal
+South Carolina,2012,6,1,Minimal
+South Carolina,2012,8,1,Minimal
+South Carolina,2012,9,1,Minimal
+South Carolina,2012,9,1,Minimal
+South Carolina,2010,11,1,Minimal
+South Carolina,2010,12,1,Minimal
+South Carolina,2011,1,1,Minimal
+South Carolina,2011,2,10,High
+South Carolina,2011,3,6,Moderate
+South Carolina,2011,4,1,Minimal
+South Carolina,2011,5,1,Minimal
+South Carolina,2011,6,1,Minimal
+South Carolina,2011,7,1,Minimal
+South Carolina,2011,8,1,Minimal
+South Carolina,2011,9,1,Minimal
+South Carolina,2011,10,1,Minimal
+South Carolina,2009,9,6,Moderate
+South Carolina,2009,10,10,High
+South Carolina,2009,11,8,High
+South Carolina,2009,12,1,Minimal
+South Carolina,2010,1,1,Minimal
+South Carolina,2010,2,1,Minimal
+South Carolina,2010,3,3,Minimal
+South Carolina,2010,4,1,Minimal
+South Carolina,2010,5,1,Minimal
+South Carolina,2010,6,1,Minimal
+South Carolina,2010,7,1,Minimal
+South Carolina,2010,8,1,Minimal
+South Carolina,2010,9,1,Minimal
+South Carolina,2010,10,1,Minimal
+South Carolina,2009,1,1,Minimal
+South Carolina,2009,2,3,Minimal
+South Carolina,2009,3,6,Moderate
+South Carolina,2009,4,1,Minimal
+South Carolina,2009,5,1,Minimal
+South Carolina,2009,6,1,Minimal
+South Carolina,2009,7,1,Minimal
+South Carolina,2009,8,1,Minimal
+South Carolina,2009,7,1,Minimal
+South Carolina,2009,8,1,Minimal
+South Dakota,2015,11,1,Minimal
+South Dakota,2015,12,1,Minimal
+South Dakota,2014,11,1,Minimal
+South Dakota,2014,12,1,Minimal
+South Dakota,2015,1,5,Low
+South Dakota,2015,2,4,Low
+South Dakota,2015,3,2,Minimal
+South Dakota,2015,4,1,Minimal
+South Dakota,2015,5,1,Minimal
+South Dakota,2015,6,1,Minimal
+South Dakota,2015,7,1,Minimal
+South Dakota,2015,8,1,Minimal
+South Dakota,2015,9,1,Minimal
+South Dakota,2015,10,0,Insufficient Data
+South Dakota,2013,11,1,Minimal
+South Dakota,2013,12,1,Minimal
+South Dakota,2014,1,4,Low
+South Dakota,2014,2,4,Low
+South Dakota,2014,3,2,Minimal
+South Dakota,2014,3,1,Minimal
+South Dakota,2014,5,1,Minimal
+South Dakota,2014,5,1,Minimal
+South Dakota,2014,6,1,Minimal
+South Dakota,2014,8,1,Minimal
+South Dakota,2014,8,1,Minimal
+South Dakota,2014,9,1,Minimal
+South Dakota,2012,11,1,Minimal
+South Dakota,2012,12,2,Minimal
+South Dakota,2013,1,5,Low
+South Dakota,2013,2,6,Moderate
+South Dakota,2013,3,3,Minimal
+South Dakota,2013,3,3,Minimal
+South Dakota,2013,5,1,Minimal
+South Dakota,2013,6,1,Minimal
+South Dakota,2013,6,1,Minimal
+South Dakota,2013,8,1,Minimal
+South Dakota,2013,8,1,Minimal
+South Dakota,2013,9,1,Minimal
+South Dakota,2011,11,1,Minimal
+South Dakota,2011,12,1,Minimal
+South Dakota,2012,1,1,Minimal
+South Dakota,2012,2,5,Low
+South Dakota,2012,3,5,Low
+South Dakota,2012,3,1,Minimal
+South Dakota,2012,5,1,Minimal
+South Dakota,2012,6,1,Minimal
+South Dakota,2012,6,1,Minimal
+South Dakota,2012,8,1,Minimal
+South Dakota,2012,9,0,Insufficient Data
+South Dakota,2012,9,1,Minimal
+South Dakota,2010,11,1,Minimal
+South Dakota,2010,12,1,Minimal
+South Dakota,2011,1,1,Minimal
+South Dakota,2011,2,2,Minimal
+South Dakota,2011,3,5,Low
+South Dakota,2011,4,1,Minimal
+South Dakota,2011,5,1,Minimal
+South Dakota,2011,6,1,Minimal
+South Dakota,2011,7,1,Minimal
+South Dakota,2011,8,1,Minimal
+South Dakota,2011,9,1,Minimal
+South Dakota,2011,10,1,Minimal
+South Dakota,2009,9,1,Minimal
+South Dakota,2009,10,4,Low
+South Dakota,2009,11,3,Minimal
+South Dakota,2009,12,1,Minimal
+South Dakota,2010,1,0,Insufficient Data
+South Dakota,2010,2,4,Low
+South Dakota,2010,3,1,Minimal
+South Dakota,2010,4,1,Minimal
+South Dakota,2010,5,1,Minimal
+South Dakota,2010,6,0,Insufficient Data
+South Dakota,2010,7,0,Insufficient Data
+South Dakota,2010,8,1,Minimal
+South Dakota,2010,9,1,Minimal
+South Dakota,2010,10,1,Minimal
+South Dakota,2009,1,1,Minimal
+South Dakota,2009,2,2,Minimal
+South Dakota,2009,3,3,Minimal
+South Dakota,2009,4,4,Low
+South Dakota,2009,5,1,Minimal
+South Dakota,2009,6,1,Minimal
+South Dakota,2009,7,1,Minimal
+South Dakota,2009,8,1,Minimal
+South Dakota,2009,7,1,Minimal
+South Dakota,2009,8,1,Minimal
+Tennessee,2015,11,1,Minimal
+Tennessee,2015,12,1,Minimal
+Tennessee,2014,11,1,Minimal
+Tennessee,2014,12,3,Minimal
+Tennessee,2015,1,10,High
+Tennessee,2015,2,8,High
+Tennessee,2015,3,3,Minimal
+Tennessee,2015,4,1,Minimal
+Tennessee,2015,5,1,Minimal
+Tennessee,2015,6,1,Minimal
+Tennessee,2015,7,1,Minimal
+Tennessee,2015,8,1,Minimal
+Tennessee,2015,9,1,Minimal
+Tennessee,2015,10,1,Minimal
+Tennessee,2013,11,1,Minimal
+Tennessee,2013,12,2,Minimal
+Tennessee,2014,1,10,High
+Tennessee,2014,2,6,Moderate
+Tennessee,2014,3,1,Minimal
+Tennessee,2014,3,1,Minimal
+Tennessee,2014,5,1,Minimal
+Tennessee,2014,5,1,Minimal
+Tennessee,2014,6,1,Minimal
+Tennessee,2014,8,1,Minimal
+Tennessee,2014,8,1,Minimal
+Tennessee,2014,9,1,Minimal
+Tennessee,2012,11,1,Minimal
+Tennessee,2012,12,10,High
+Tennessee,2013,1,10,High
+Tennessee,2013,2,4,Low
+Tennessee,2013,3,1,Minimal
+Tennessee,2013,3,2,Minimal
+Tennessee,2013,5,1,Minimal
+Tennessee,2013,6,1,Minimal
+Tennessee,2013,6,1,Minimal
+Tennessee,2013,8,1,Minimal
+Tennessee,2013,8,1,Minimal
+Tennessee,2013,9,1,Minimal
+Tennessee,2011,11,1,Minimal
+Tennessee,2011,12,1,Minimal
+Tennessee,2012,1,1,Minimal
+Tennessee,2012,2,1,Minimal
+Tennessee,2012,3,2,Minimal
+Tennessee,2012,3,1,Minimal
+Tennessee,2012,5,1,Minimal
+Tennessee,2012,6,1,Minimal
+Tennessee,2012,6,1,Minimal
+Tennessee,2012,8,1,Minimal
+Tennessee,2012,9,1,Minimal
+Tennessee,2012,9,1,Minimal
+Tennessee,2010,11,1,Minimal
+Tennessee,2010,12,1,Minimal
+Tennessee,2011,1,1,Minimal
+Tennessee,2011,2,10,High
+Tennessee,2011,3,6,Moderate
+Tennessee,2011,4,1,Minimal
+Tennessee,2011,5,1,Minimal
+Tennessee,2011,6,1,Minimal
+Tennessee,2011,7,1,Minimal
+Tennessee,2011,8,1,Minimal
+Tennessee,2011,9,1,Minimal
+Tennessee,2011,10,1,Minimal
+Tennessee,2009,9,10,High
+Tennessee,2009,10,9,High
+Tennessee,2009,11,6,Moderate
+Tennessee,2009,12,1,Minimal
+Tennessee,2010,1,1,Minimal
+Tennessee,2010,2,1,Minimal
+Tennessee,2010,3,1,Minimal
+Tennessee,2010,4,1,Minimal
+Tennessee,2010,5,1,Minimal
+Tennessee,2010,6,1,Minimal
+Tennessee,2010,7,1,Minimal
+Tennessee,2010,8,1,Minimal
+Tennessee,2010,9,1,Minimal
+Tennessee,2010,10,1,Minimal
+Tennessee,2009,1,1,Minimal
+Tennessee,2009,2,1,Minimal
+Tennessee,2009,3,2,Minimal
+Tennessee,2009,4,1,Minimal
+Tennessee,2009,5,1,Minimal
+Tennessee,2009,6,1,Minimal
+Tennessee,2009,7,1,Minimal
+Tennessee,2009,8,1,Minimal
+Tennessee,2009,7,1,Minimal
+Tennessee,2009,8,1,Minimal
+Texas,2015,11,1,Minimal
+Texas,2015,12,3,Minimal
+Texas,2014,11,1,Minimal
+Texas,2014,12,9,High
+Texas,2015,1,10,High
+Texas,2015,2,10,High
+Texas,2015,3,7,Moderate
+Texas,2015,4,4,Low
+Texas,2015,5,2,Minimal
+Texas,2015,6,1,Minimal
+Texas,2015,7,1,Minimal
+Texas,2015,8,1,Minimal
+Texas,2015,9,1,Minimal
+Texas,2015,10,3,Minimal
+Texas,2013,11,3,Minimal
+Texas,2013,12,10,High
+Texas,2014,1,10,High
+Texas,2014,2,10,High
+Texas,2014,3,8,High
+Texas,2014,3,6,Moderate
+Texas,2014,5,3,Minimal
+Texas,2014,5,4,Low
+Texas,2014,6,3,Minimal
+Texas,2014,8,2,Minimal
+Texas,2014,8,1,Minimal
+Texas,2014,9,3,Minimal
+Texas,2012,11,4,Low
+Texas,2012,12,10,High
+Texas,2013,1,10,High
+Texas,2013,2,10,High
+Texas,2013,3,5,Low
+Texas,2013,3,3,Minimal
+Texas,2013,5,1,Minimal
+Texas,2013,6,1,Minimal
+Texas,2013,6,1,Minimal
+Texas,2013,8,1,Minimal
+Texas,2013,8,1,Minimal
+Texas,2013,9,4,Low
+Texas,2011,11,1,Minimal
+Texas,2011,12,1,Minimal
+Texas,2012,1,1,Minimal
+Texas,2012,2,3,Minimal
+Texas,2012,3,5,Low
+Texas,2012,3,4,Low
+Texas,2012,5,1,Minimal
+Texas,2012,6,1,Minimal
+Texas,2012,6,1,Minimal
+Texas,2012,8,1,Minimal
+Texas,2012,9,1,Minimal
+Texas,2012,9,2,Minimal
+Texas,2010,11,1,Minimal
+Texas,2010,12,1,Minimal
+Texas,2011,1,3,Minimal
+Texas,2011,2,10,High
+Texas,2011,3,8,High
+Texas,2011,4,1,Minimal
+Texas,2011,5,1,Minimal
+Texas,2011,6,1,Minimal
+Texas,2011,7,1,Minimal
+Texas,2011,8,1,Minimal
+Texas,2011,9,1,Minimal
+Texas,2011,10,1,Minimal
+Texas,2009,9,2,Minimal
+Texas,2009,10,10,High
+Texas,2009,11,10,High
+Texas,2009,12,3,Minimal
+Texas,2010,1,1,Minimal
+Texas,2010,2,2,Minimal
+Texas,2010,3,1,Minimal
+Texas,2010,4,1,Minimal
+Texas,2010,5,1,Minimal
+Texas,2010,6,1,Minimal
+Texas,2010,7,1,Minimal
+Texas,2010,8,1,Minimal
+Texas,2010,9,1,Minimal
+Texas,2010,10,1,Minimal
+Texas,2009,1,1,Minimal
+Texas,2009,2,10,High
+Texas,2009,3,5,Low
+Texas,2009,4,1,Minimal
+Texas,2009,5,3,Minimal
+Texas,2009,6,1,Minimal
+Texas,2009,7,1,Minimal
+Texas,2009,8,1,Minimal
+Texas,2009,7,1,Minimal
+Texas,2009,8,1,Minimal
+Utah,2015,11,2,Minimal
+Utah,2015,12,1,Minimal
+Utah,2014,11,2,Minimal
+Utah,2014,12,5,Low
+Utah,2015,1,10,High
+Utah,2015,2,6,Moderate
+Utah,2015,3,4,Low
+Utah,2015,4,3,Minimal
+Utah,2015,5,2,Minimal
+Utah,2015,6,1,Minimal
+Utah,2015,7,1,Minimal
+Utah,2015,8,1,Minimal
+Utah,2015,9,1,Minimal
+Utah,2015,10,1,Minimal
+Utah,2013,11,2,Minimal
+Utah,2013,12,5,Low
+Utah,2014,1,7,Moderate
+Utah,2014,2,4,Low
+Utah,2014,3,3,Minimal
+Utah,2014,3,3,Minimal
+Utah,2014,5,2,Minimal
+Utah,2014,5,2,Minimal
+Utah,2014,6,1,Minimal
+Utah,2014,8,1,Minimal
+Utah,2014,8,1,Minimal
+Utah,2014,9,1,Minimal
+Utah,2012,11,2,Minimal
+Utah,2012,12,4,Low
+Utah,2013,1,10,High
+Utah,2013,2,10,High
+Utah,2013,3,5,Low
+Utah,2013,3,2,Minimal
+Utah,2013,5,1,Minimal
+Utah,2013,6,1,Minimal
+Utah,2013,6,1,Minimal
+Utah,2013,8,1,Minimal
+Utah,2013,8,1,Minimal
+Utah,2013,9,1,Minimal
+Utah,2011,11,1,Minimal
+Utah,2011,12,1,Minimal
+Utah,2012,1,2,Minimal
+Utah,2012,2,4,Low
+Utah,2012,3,3,Minimal
+Utah,2012,3,4,Low
+Utah,2012,5,1,Minimal
+Utah,2012,6,1,Minimal
+Utah,2012,6,1,Minimal
+Utah,2012,8,1,Minimal
+Utah,2012,9,1,Minimal
+Utah,2012,9,1,Minimal
+Utah,2010,11,1,Minimal
+Utah,2010,12,2,Minimal
+Utah,2011,1,1,Minimal
+Utah,2011,2,5,Low
+Utah,2011,3,2,Minimal
+Utah,2011,4,3,Minimal
+Utah,2011,5,1,Minimal
+Utah,2011,6,1,Minimal
+Utah,2011,7,1,Minimal
+Utah,2011,8,1,Minimal
+Utah,2011,9,1,Minimal
+Utah,2011,10,1,Minimal
+Utah,2009,9,1,Minimal
+Utah,2009,10,8,High
+Utah,2009,11,10,High
+Utah,2009,12,1,Minimal
+Utah,2010,1,1,Minimal
+Utah,2010,2,1,Minimal
+Utah,2010,3,1,Minimal
+Utah,2010,4,1,Minimal
+Utah,2010,5,1,Minimal
+Utah,2010,6,1,Minimal
+Utah,2010,7,1,Minimal
+Utah,2010,8,1,Minimal
+Utah,2010,9,1,Minimal
+Utah,2010,10,1,Minimal
+Utah,2009,1,1,Minimal
+Utah,2009,2,2,Minimal
+Utah,2009,3,3,Minimal
+Utah,2009,4,2,Minimal
+Utah,2009,5,2,Minimal
+Utah,2009,6,10,High
+Utah,2009,7,9,High
+Utah,2009,8,1,Minimal
+Utah,2009,7,9,High
+Utah,2009,8,1,Minimal
+Vermont,2015,11,1,Minimal
+Vermont,2015,12,1,Minimal
+Vermont,2014,11,1,Minimal
+Vermont,2014,12,1,Minimal
+Vermont,2015,1,3,Minimal
+Vermont,2015,2,10,High
+Vermont,2015,3,3,Minimal
+Vermont,2015,4,3,Minimal
+Vermont,2015,5,1,Minimal
+Vermont,2015,6,1,Minimal
+Vermont,2015,7,1,Minimal
+Vermont,2015,8,1,Minimal
+Vermont,2015,9,1,Minimal
+Vermont,2015,10,1,Minimal
+Vermont,2013,11,1,Minimal
+Vermont,2013,12,2,Minimal
+Vermont,2014,1,6,Moderate
+Vermont,2014,2,8,High
+Vermont,2014,3,4,Low
+Vermont,2014,3,2,Minimal
+Vermont,2014,5,1,Minimal
+Vermont,2014,5,1,Minimal
+Vermont,2014,6,1,Minimal
+Vermont,2014,8,1,Minimal
+Vermont,2014,8,1,Minimal
+Vermont,2014,9,1,Minimal
+Vermont,2012,11,1,Minimal
+Vermont,2012,12,1,Minimal
+Vermont,2013,1,7,Moderate
+Vermont,2013,2,10,High
+Vermont,2013,3,6,Moderate
+Vermont,2013,3,3,Minimal
+Vermont,2013,5,3,Minimal
+Vermont,2013,6,1,Minimal
+Vermont,2013,6,1,Minimal
+Vermont,2013,8,1,Minimal
+Vermont,2013,8,1,Minimal
+Vermont,2013,9,4,Low
+Vermont,2011,11,1,Minimal
+Vermont,2011,12,1,Minimal
+Vermont,2012,1,1,Minimal
+Vermont,2012,2,1,Minimal
+Vermont,2012,3,1,Minimal
+Vermont,2012,3,4,Low
+Vermont,2012,5,1,Minimal
+Vermont,2012,6,1,Minimal
+Vermont,2012,6,1,Minimal
+Vermont,2012,8,1,Minimal
+Vermont,2012,9,1,Minimal
+Vermont,2012,9,1,Minimal
+Vermont,2010,11,1,Minimal
+Vermont,2010,12,1,Minimal
+Vermont,2011,1,1,Minimal
+Vermont,2011,2,1,Minimal
+Vermont,2011,3,1,Minimal
+Vermont,2011,4,1,Minimal
+Vermont,2011,5,1,Minimal
+Vermont,2011,6,1,Minimal
+Vermont,2011,7,1,Minimal
+Vermont,2011,8,1,Minimal
+Vermont,2011,9,1,Minimal
+Vermont,2011,10,1,Minimal
+Vermont,2009,9,1,Minimal
+Vermont,2009,10,1,Minimal
+Vermont,2009,11,10,High
+Vermont,2009,12,1,Minimal
+Vermont,2010,1,1,Minimal
+Vermont,2010,2,1,Minimal
+Vermont,2010,3,1,Minimal
+Vermont,2010,4,1,Minimal
+Vermont,2010,5,1,Minimal
+Vermont,2010,6,1,Minimal
+Vermont,2010,7,1,Minimal
+Vermont,2010,8,1,Minimal
+Vermont,2010,9,1,Minimal
+Vermont,2010,10,1,Minimal
+Vermont,2009,1,1,Minimal
+Vermont,2009,2,1,Minimal
+Vermont,2009,3,1,Minimal
+Vermont,2009,4,1,Minimal
+Vermont,2009,5,1,Minimal
+Vermont,2009,6,1,Minimal
+Vermont,2009,7,1,Minimal
+Vermont,2009,8,1,Minimal
+Vermont,2009,7,1,Minimal
+Vermont,2009,8,1,Minimal
+Virginia,2015,11,2,Minimal
+Virginia,2015,12,4,Low
+Virginia,2014,11,2,Minimal
+Virginia,2014,12,5,Low
+Virginia,2015,1,10,High
+Virginia,2015,2,7,Moderate
+Virginia,2015,3,3,Minimal
+Virginia,2015,4,3,Minimal
+Virginia,2015,5,2,Minimal
+Virginia,2015,6,1,Minimal
+Virginia,2015,7,1,Minimal
+Virginia,2015,8,1,Minimal
+Virginia,2015,9,1,Minimal
+Virginia,2015,10,1,Minimal
+Virginia,2013,11,2,Minimal
+Virginia,2013,12,3,Minimal
+Virginia,2014,1,9,High
+Virginia,2014,2,8,High
+Virginia,2014,3,5,Low
+Virginia,2014,3,3,Minimal
+Virginia,2014,5,2,Minimal
+Virginia,2014,5,1,Minimal
+Virginia,2014,6,1,Minimal
+Virginia,2014,8,1,Minimal
+Virginia,2014,8,1,Minimal
+Virginia,2014,9,2,Minimal
+Virginia,2012,11,2,Minimal
+Virginia,2012,12,6,Moderate
+Virginia,2013,1,10,High
+Virginia,2013,2,9,High
+Virginia,2013,3,7,Moderate
+Virginia,2013,3,5,Low
+Virginia,2013,5,1,Minimal
+Virginia,2013,6,1,Minimal
+Virginia,2013,6,1,Minimal
+Virginia,2013,8,1,Minimal
+Virginia,2013,8,1,Minimal
+Virginia,2013,9,1,Minimal
+Virginia,2011,11,2,Minimal
+Virginia,2011,12,2,Minimal
+Virginia,2012,1,3,Minimal
+Virginia,2012,2,2,Minimal
+Virginia,2012,3,2,Minimal
+Virginia,2012,3,1,Minimal
+Virginia,2012,5,1,Minimal
+Virginia,2012,6,1,Minimal
+Virginia,2012,6,1,Minimal
+Virginia,2012,8,1,Minimal
+Virginia,2012,9,1,Minimal
+Virginia,2012,9,1,Minimal
+Virginia,2010,11,1,Minimal
+Virginia,2010,12,3,Minimal
+Virginia,2011,1,5,Low
+Virginia,2011,2,10,High
+Virginia,2011,3,8,High
+Virginia,2011,4,3,Minimal
+Virginia,2011,5,1,Minimal
+Virginia,2011,6,1,Minimal
+Virginia,2011,7,1,Minimal
+Virginia,2011,8,1,Minimal
+Virginia,2011,9,1,Minimal
+Virginia,2011,10,1,Minimal
+Virginia,2009,9,3,Minimal
+Virginia,2009,10,10,High
+Virginia,2009,11,10,High
+Virginia,2009,12,6,Moderate
+Virginia,2010,1,5,Low
+Virginia,2010,2,3,Minimal
+Virginia,2010,3,3,Minimal
+Virginia,2010,4,2,Minimal
+Virginia,2010,5,1,Minimal
+Virginia,2010,6,1,Minimal
+Virginia,2010,7,1,Minimal
+Virginia,2010,8,1,Minimal
+Virginia,2010,9,1,Minimal
+Virginia,2010,10,1,Minimal
+Virginia,2009,1,3,Minimal
+Virginia,2009,2,7,Moderate
+Virginia,2009,3,9,High
+Virginia,2009,4,3,Minimal
+Virginia,2009,5,6,Moderate
+Virginia,2009,6,3,Minimal
+Virginia,2009,7,4,Low
+Virginia,2009,8,1,Minimal
+Virginia,2009,7,4,Low
+Virginia,2009,8,1,Minimal
+Washington,2015,11,1,Minimal
+Washington,2015,12,1,Minimal
+Washington,2014,11,1,Minimal
+Washington,2014,12,2,Minimal
+Washington,2015,1,9,High
+Washington,2015,2,5,Low
+Washington,2015,3,2,Minimal
+Washington,2015,4,1,Minimal
+Washington,2015,5,1,Minimal
+Washington,2015,6,1,Minimal
+Washington,2015,7,1,Minimal
+Washington,2015,8,1,Minimal
+Washington,2015,9,1,Minimal
+Washington,2015,10,2,Minimal
+Washington,2013,11,1,Minimal
+Washington,2013,12,1,Minimal
+Washington,2014,1,5,Low
+Washington,2014,2,4,Low
+Washington,2014,3,1,Minimal
+Washington,2014,3,2,Minimal
+Washington,2014,5,1,Minimal
+Washington,2014,5,1,Minimal
+Washington,2014,6,1,Minimal
+Washington,2014,8,2,Minimal
+Washington,2014,8,1,Minimal
+Washington,2014,9,1,Minimal
+Washington,2012,11,1,Minimal
+Washington,2012,12,1,Minimal
+Washington,2013,1,7,Moderate
+Washington,2013,2,6,Moderate
+Washington,2013,3,3,Minimal
+Washington,2013,3,1,Minimal
+Washington,2013,5,1,Minimal
+Washington,2013,6,1,Minimal
+Washington,2013,6,1,Minimal
+Washington,2013,8,1,Minimal
+Washington,2013,8,1,Minimal
+Washington,2013,9,1,Minimal
+Washington,2011,11,1,Minimal
+Washington,2011,12,1,Minimal
+Washington,2012,1,1,Minimal
+Washington,2012,2,3,Minimal
+Washington,2012,3,3,Minimal
+Washington,2012,3,3,Minimal
+Washington,2012,5,6,Moderate
+Washington,2012,6,1,Minimal
+Washington,2012,6,0,Insufficient Data
+Washington,2012,8,0,Insufficient Data
+Washington,2012,9,0,Insufficient Data
+Washington,2012,9,0,Insufficient Data
+Washington,2010,11,1,Minimal
+Washington,2010,12,1,Minimal
+Washington,2011,1,1,Minimal
+Washington,2011,2,3,Minimal
+Washington,2011,3,5,Low
+Washington,2011,4,1,Minimal
+Washington,2011,5,1,Minimal
+Washington,2011,6,1,Minimal
+Washington,2011,7,0,Insufficient Data
+Washington,2011,8,1,Minimal
+Washington,2011,9,0,Insufficient Data
+Washington,2011,10,0,Insufficient Data
+Washington,2009,9,9,High
+Washington,2009,10,7,Moderate
+Washington,2009,11,8,High
+Washington,2009,12,1,Minimal
+Washington,2010,1,1,Minimal
+Washington,2010,2,1,Minimal
+Washington,2010,3,1,Minimal
+Washington,2010,4,1,Minimal
+Washington,2010,5,1,Minimal
+Washington,2010,6,1,Minimal
+Washington,2010,7,1,Minimal
+Washington,2010,8,1,Minimal
+Washington,2010,9,1,Minimal
+Washington,2010,10,0,Insufficient Data
+Washington,2009,1,1,Minimal
+Washington,2009,2,1,Minimal
+Washington,2009,3,3,Minimal
+Washington,2009,4,1,Minimal
+Washington,2009,5,4,Low
+Washington,2009,6,1,Minimal
+Washington,2009,7,1,Minimal
+Washington,2009,8,1,Minimal
+Washington,2009,7,1,Minimal
+Washington,2009,8,1,Minimal
+West Virginia,2015,11,1,Minimal
+West Virginia,2015,12,1,Minimal
+West Virginia,2014,11,1,Minimal
+West Virginia,2014,12,2,Minimal
+West Virginia,2015,1,10,High
+West Virginia,2015,2,10,High
+West Virginia,2015,3,3,Minimal
+West Virginia,2015,4,2,Minimal
+West Virginia,2015,5,1,Minimal
+West Virginia,2015,6,1,Minimal
+West Virginia,2015,7,1,Minimal
+West Virginia,2015,8,1,Minimal
+West Virginia,2015,9,1,Minimal
+West Virginia,2015,10,1,Minimal
+West Virginia,2013,11,1,Minimal
+West Virginia,2013,12,1,Minimal
+West Virginia,2014,1,3,Minimal
+West Virginia,2014,2,3,Minimal
+West Virginia,2014,3,1,Minimal
+West Virginia,2014,3,1,Minimal
+West Virginia,2014,5,1,Minimal
+West Virginia,2014,5,1,Minimal
+West Virginia,2014,6,1,Minimal
+West Virginia,2014,8,1,Minimal
+West Virginia,2014,8,1,Minimal
+West Virginia,2014,9,1,Minimal
+West Virginia,2012,11,1,Minimal
+West Virginia,2012,12,1,Minimal
+West Virginia,2013,1,8,High
+West Virginia,2013,2,6,Moderate
+West Virginia,2013,3,1,Minimal
+West Virginia,2013,3,2,Minimal
+West Virginia,2013,5,1,Minimal
+West Virginia,2013,6,1,Minimal
+West Virginia,2013,6,1,Minimal
+West Virginia,2013,8,1,Minimal
+West Virginia,2013,8,1,Minimal
+West Virginia,2013,9,1,Minimal
+West Virginia,2011,11,1,Minimal
+West Virginia,2011,12,1,Minimal
+West Virginia,2012,1,1,Minimal
+West Virginia,2012,2,1,Minimal
+West Virginia,2012,3,1,Minimal
+West Virginia,2012,3,1,Minimal
+West Virginia,2012,5,1,Minimal
+West Virginia,2012,6,1,Minimal
+West Virginia,2012,6,1,Minimal
+West Virginia,2012,8,1,Minimal
+West Virginia,2012,9,1,Minimal
+West Virginia,2012,9,1,Minimal
+West Virginia,2010,11,1,Minimal
+West Virginia,2010,12,1,Minimal
+West Virginia,2011,1,1,Minimal
+West Virginia,2011,2,6,Moderate
+West Virginia,2011,3,8,High
+West Virginia,2011,4,1,Minimal
+West Virginia,2011,5,1,Minimal
+West Virginia,2011,6,1,Minimal
+West Virginia,2011,7,1,Minimal
+West Virginia,2011,8,1,Minimal
+West Virginia,2011,9,1,Minimal
+West Virginia,2011,10,1,Minimal
+West Virginia,2009,9,1,Minimal
+West Virginia,2009,10,5,Low
+West Virginia,2009,11,10,High
+West Virginia,2009,12,3,Minimal
+West Virginia,2010,1,3,Minimal
+West Virginia,2010,2,4,Low
+West Virginia,2010,3,4,Low
+West Virginia,2010,4,3,Minimal
+West Virginia,2010,5,1,Minimal
+West Virginia,2010,6,1,Minimal
+West Virginia,2010,7,1,Minimal
+West Virginia,2010,8,1,Minimal
+West Virginia,2010,9,1,Minimal
+West Virginia,2010,10,1,Minimal
+West Virginia,2009,1,1,Minimal
+West Virginia,2009,2,1,Minimal
+West Virginia,2009,3,1,Minimal
+West Virginia,2009,4,1,Minimal
+West Virginia,2009,5,1,Minimal
+West Virginia,2009,6,1,Minimal
+West Virginia,2009,7,1,Minimal
+West Virginia,2009,8,1,Minimal
+West Virginia,2009,7,1,Minimal
+West Virginia,2009,8,1,Minimal
+Wisconsin,2015,11,1,Minimal
+Wisconsin,2015,12,1,Minimal
+Wisconsin,2014,11,1,Minimal
+Wisconsin,2014,12,2,Minimal
+Wisconsin,2015,1,5,Low
+Wisconsin,2015,2,1,Minimal
+Wisconsin,2015,3,2,Minimal
+Wisconsin,2015,4,1,Minimal
+Wisconsin,2015,5,1,Minimal
+Wisconsin,2015,6,1,Minimal
+Wisconsin,2015,7,1,Minimal
+Wisconsin,2015,8,1,Minimal
+Wisconsin,2015,9,1,Minimal
+Wisconsin,2015,10,1,Minimal
+Wisconsin,2013,11,1,Minimal
+Wisconsin,2013,12,1,Minimal
+Wisconsin,2014,1,3,Minimal
+Wisconsin,2014,2,2,Minimal
+Wisconsin,2014,3,4,Low
+Wisconsin,2014,3,2,Minimal
+Wisconsin,2014,5,1,Minimal
+Wisconsin,2014,5,1,Minimal
+Wisconsin,2014,6,1,Minimal
+Wisconsin,2014,8,1,Minimal
+Wisconsin,2014,8,1,Minimal
+Wisconsin,2014,9,1,Minimal
+Wisconsin,2012,11,1,Minimal
+Wisconsin,2012,12,1,Minimal
+Wisconsin,2013,1,7,Moderate
+Wisconsin,2013,2,5,Low
+Wisconsin,2013,3,1,Minimal
+Wisconsin,2013,3,1,Minimal
+Wisconsin,2013,5,1,Minimal
+Wisconsin,2013,6,1,Minimal
+Wisconsin,2013,6,1,Minimal
+Wisconsin,2013,8,1,Minimal
+Wisconsin,2013,8,1,Minimal
+Wisconsin,2013,9,1,Minimal
+Wisconsin,2011,11,1,Minimal
+Wisconsin,2011,12,1,Minimal
+Wisconsin,2012,1,1,Minimal
+Wisconsin,2012,2,1,Minimal
+Wisconsin,2012,3,1,Minimal
+Wisconsin,2012,3,1,Minimal
+Wisconsin,2012,5,1,Minimal
+Wisconsin,2012,6,1,Minimal
+Wisconsin,2012,6,1,Minimal
+Wisconsin,2012,8,1,Minimal
+Wisconsin,2012,9,1,Minimal
+Wisconsin,2012,9,1,Minimal
+Wisconsin,2010,11,1,Minimal
+Wisconsin,2010,12,1,Minimal
+Wisconsin,2011,1,1,Minimal
+Wisconsin,2011,2,5,Low
+Wisconsin,2011,3,5,Low
+Wisconsin,2011,4,1,Minimal
+Wisconsin,2011,5,1,Minimal
+Wisconsin,2011,6,1,Minimal
+Wisconsin,2011,7,1,Minimal
+Wisconsin,2011,8,1,Minimal
+Wisconsin,2011,9,1,Minimal
+Wisconsin,2011,10,1,Minimal
+Wisconsin,2009,9,7,Moderate
+Wisconsin,2009,10,2,Minimal
+Wisconsin,2009,11,10,High
+Wisconsin,2009,12,1,Minimal
+Wisconsin,2010,1,1,Minimal
+Wisconsin,2010,2,1,Minimal
+Wisconsin,2010,3,1,Minimal
+Wisconsin,2010,4,1,Minimal
+Wisconsin,2010,5,1,Minimal
+Wisconsin,2010,6,1,Minimal
+Wisconsin,2010,7,1,Minimal
+Wisconsin,2010,8,1,Minimal
+Wisconsin,2010,9,1,Minimal
+Wisconsin,2010,10,1,Minimal
+Wisconsin,2009,1,1,Minimal
+Wisconsin,2009,2,1,Minimal
+Wisconsin,2009,3,7,Moderate
+Wisconsin,2009,4,1,Minimal
+Wisconsin,2009,5,3,Minimal
+Wisconsin,2009,6,1,Minimal
+Wisconsin,2009,7,1,Minimal
+Wisconsin,2009,8,1,Minimal
+Wisconsin,2009,7,1,Minimal
+Wisconsin,2009,8,1,Minimal
+Wyoming,2015,11,1,Minimal
+Wyoming,2015,12,1,Minimal
+Wyoming,2014,11,1,Minimal
+Wyoming,2014,12,2,Minimal
+Wyoming,2015,1,6,Moderate
+Wyoming,2015,2,8,High
+Wyoming,2015,3,4,Low
+Wyoming,2015,4,2,Minimal
+Wyoming,2015,5,1,Minimal
+Wyoming,2015,6,1,Minimal
+Wyoming,2015,7,1,Minimal
+Wyoming,2015,8,1,Minimal
+Wyoming,2015,9,1,Minimal
+Wyoming,2015,10,1,Minimal
+Wyoming,2013,11,1,Minimal
+Wyoming,2013,12,1,Minimal
+Wyoming,2014,1,4,Low
+Wyoming,2014,2,3,Minimal
+Wyoming,2014,3,1,Minimal
+Wyoming,2014,3,1,Minimal
+Wyoming,2014,5,1,Minimal
+Wyoming,2014,5,1,Minimal
+Wyoming,2014,6,1,Minimal
+Wyoming,2014,8,1,Minimal
+Wyoming,2014,8,1,Minimal
+Wyoming,2014,9,1,Minimal
+Wyoming,2012,11,1,Minimal
+Wyoming,2012,12,5,Low
+Wyoming,2013,1,10,High
+Wyoming,2013,2,8,High
+Wyoming,2013,3,1,Minimal
+Wyoming,2013,3,1,Minimal
+Wyoming,2013,5,1,Minimal
+Wyoming,2013,6,1,Minimal
+Wyoming,2013,6,1,Minimal
+Wyoming,2013,8,1,Minimal
+Wyoming,2013,8,1,Minimal
+Wyoming,2013,9,1,Minimal
+Wyoming,2011,11,1,Minimal
+Wyoming,2011,12,1,Minimal
+Wyoming,2012,1,1,Minimal
+Wyoming,2012,2,1,Minimal
+Wyoming,2012,3,1,Minimal
+Wyoming,2012,3,2,Minimal
+Wyoming,2012,5,1,Minimal
+Wyoming,2012,6,1,Minimal
+Wyoming,2012,6,1,Minimal
+Wyoming,2012,8,1,Minimal
+Wyoming,2012,9,1,Minimal
+Wyoming,2012,9,1,Minimal
+Wyoming,2010,11,1,Minimal
+Wyoming,2010,12,1,Minimal
+Wyoming,2011,1,1,Minimal
+Wyoming,2011,2,4,Low
+Wyoming,2011,3,2,Minimal
+Wyoming,2011,4,1,Minimal
+Wyoming,2011,5,1,Minimal
+Wyoming,2011,6,1,Minimal
+Wyoming,2011,7,1,Minimal
+Wyoming,2011,8,1,Minimal
+Wyoming,2011,9,1,Minimal
+Wyoming,2011,10,1,Minimal
+Wyoming,2009,9,1,Minimal
+Wyoming,2009,10,5,Low
+Wyoming,2009,11,8,High
+Wyoming,2009,12,1,Minimal
+Wyoming,2010,1,1,Minimal
+Wyoming,2010,2,1,Minimal
+Wyoming,2010,3,1,Minimal
+Wyoming,2010,4,1,Minimal
+Wyoming,2010,5,1,Minimal
+Wyoming,2010,6,1,Minimal
+Wyoming,2010,7,1,Minimal
+Wyoming,2010,8,1,Minimal
+Wyoming,2010,9,1,Minimal
+Wyoming,2010,10,1,Minimal
+Wyoming,2009,1,1,Minimal
+Wyoming,2009,2,1,Minimal
+Wyoming,2009,3,1,Minimal
+Wyoming,2009,4,1,Minimal
+Wyoming,2009,5,1,Minimal
+Wyoming,2009,6,1,Minimal
+Wyoming,2009,7,1,Minimal
+Wyoming,2009,8,1,Minimal
+Wyoming,2009,7,1,Minimal
+Wyoming,2009,8,1,Minimal

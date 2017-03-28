@@ -293,17 +293,23 @@ namespace MapMiner
 
         private void generateDatasetbutton_Click(object sender, EventArgs e)
         {
-            write_csvFile(Directory.GetCurrentDirectory(), "US_feature");
+            write_csvFile(Directory.GetCurrentDirectory(), "US_feature", true);
+
         }
 
-        public void write_csvFile(string directoryPath, string name)
+        public void write_csvFile(string directoryPath, string name, bool debug)
         {
             //string[] lines = { "First line", "Second line", "Third line" };
             // WriteAllLines creates a file, writes a collection of strings to the file,
             // and then closes the file.  You do NOT need to call Flush() or Close().
             //System.IO.File.WriteAllLines(@"C:\Users\Public\TestFolder\WriteLines.txt", lines);
+
+
+            
+
+
             List<string> datasetTocsv = new List<string>();
-            string lineLabels = dataset.Attributes[0];
+            string lineLabels = "State," + dataset.Attributes[0];
             for (int j = 1; j < dataset.Attributes.Count; j++)
                 lineLabels += ',' + dataset.Attributes[j];
             datasetTocsv.Add(lineLabels);
@@ -322,10 +328,48 @@ namespace MapMiner
                     
                 
             }
-            string[] readyToWrite = datasetTocsv.ToArray();
 
+            List<string> datasetToCsvDebug = new List<string>();
+            string ll = "State," + dataset.Attributes[0];
+            for (int j = 1; j < dataset.Attributes.Count; j++)
+                ll += ',' + dataset.Attributes[j];
+            datasetToCsvDebug.Add(ll);
+            for (int i = 0; i < dataset.Size; i++)
+            {
+                Node n = dataset.Nodes[i];
+
+                List<List<double>> attributeLists = n.zeroPaddingList;
+                for (int j = 0; j < attributeLists.Count; j++)
+                {
+                    string line = n.Name;
+                    for (int k = 0; k < attributeLists[j].Count; k++)
+                        line += ',' + attributeLists[j][k].ToString(CultureInfo.GetCultureInfo("en-US"));
+                    datasetToCsvDebug.Add(line);
+                }
+
+
+            }
+            string[] readyToWriteDebug = datasetToCsvDebug.ToArray();
+
+            System.IO.File.WriteAllLines(directoryPath + @"\" + name + "-Debug.csv", readyToWriteDebug);
+            Console.WriteLine("Writting file at " + directoryPath + @"\" + name + "-Debug.csv");
+
+            Console.WriteLine("Missing values encountered : " + datasetToCsvDebug.Count + " out of " + datasetTocsv.Count);
+
+            for (int i = datasetTocsv.Count - 1; i >= 1; i--)
+            {
+                if (datasetToCsvDebug.Contains(datasetTocsv[i]))
+                    datasetTocsv.RemoveAt(i);
+            }
+
+            Console.WriteLine("Dataset generated : " + datasetTocsv.Count);
+
+            string[] readyToWrite = datasetTocsv.ToArray();
             System.IO.File.WriteAllLines(directoryPath + @"\" + name + ".csv", readyToWrite);
             Console.WriteLine("Writting file at " + directoryPath + @"\" + name + ".csv");
+
+            
+
         }
     }
 }

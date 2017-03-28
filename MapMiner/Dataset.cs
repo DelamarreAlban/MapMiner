@@ -184,7 +184,6 @@ namespace MapMiner
                 }
                 else
                 {
-                    
                     string[] newLine = line.Split(separator);
                     Node n = nodes.Find(x => x.Name == newLine[0]);
                     if (n != null)
@@ -195,7 +194,7 @@ namespace MapMiner
                             //First instance of state
                             if (pastNode == null || !pastNode.Equals(n.Name))
                             {
-                                Console.WriteLine(n.Name);
+                                Console.WriteLine("New state : " + n.Name);
                                 for (int j = 0; j < newLine.Length - 1; j++)
                                     valuesPerState[j].Add(n.Name, new List<double>());
 
